@@ -1,0 +1,78 @@
+{
+    "id": "",
+    "iso": "",
+    "alpha_2": "",
+    "country_name": "",
+    "cover_image": "",
+    "flag_url": "",
+    "short_description": "",
+    "known_for": [{"title": "", "color":""}, {"title": "", "color": ""}, {"title": "", "color": ""}, {"title": "", "color": ""}, {"title": "", "color": ""}],
+    "capital": "",
+    "major_cities": [""],
+    "official_language": [""],
+    "currency": {"title": "", "symbol": ""},
+    "major_religions": "",
+    "national_day": {"title": "", "date": ""},
+    "phone": {
+      "digital_code": "+",
+      "phone_operators": [""]
+    },
+    "plug_types": [""],
+    "transport": {
+      "driving_side": "",
+      "taxi": [{"title": "", "url": ""}],
+      "metro": [{"title": "", "url": ""}]
+    },
+    "health": {
+      "tap_water_safety": "",
+      "alcohol_consumption_age": "",
+      "alcohol_parchase_age": "",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "",
+        "guides": "",
+        "restaurants": "",
+        "taxis": ""
+      }
+    },
+    "weather": {
+      "title": "",
+      "when_to_visit": [
+        {
+          "icon": "",
+          "title": "",
+          "time_period": "",
+          "short_description": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "time_period": "",
+          "short_description": ""
+        },
+        {
+          "icon": "",
+          "title": "",
+          "time_period": "",
+          "short_description": ""
+        }
+      ],
+      "best_time": ""
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": ""
+      },
+      {
+        "title": "Ambulance",
+        "number": ""
+      },
+      {
+        "title": "Fire",
+        "number": ""
+      }
+    ]
+  }

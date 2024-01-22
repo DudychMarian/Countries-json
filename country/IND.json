@@ -1,0 +1,102 @@
+{
+  "id": "1",
+  "iso": "IND",
+  "alpha_2": "IN",
+  "country_name": "India",
+  "flag_url": "https://flagcdn.com/in.svg",
+  "short_description": "India, a vibrant and diverse nation in South Asia, is known for its rich history, cultural tapestry, and a rapidly growing economy. Home to iconic landmarks like the Taj Mahal, it embraces a multitude of languages, religions, and traditions, creating a unique mosaic of unity in diversity.",
+  "known_for": [
+    { "title": "🌶️ Spices", "color": "red" },
+    { "title": "🎵 Bollywood music", "color": "green" },
+    { "title": "🕌 Taj Mahal", "color": "pink" },
+    { "title": "🥘 Curry", "color": "blue" },
+    { "title": "🧘 Yoga", "color": "yellow" }
+  ],
+  "capital": "New Delhi",
+  "major_cities": [
+    "Ahmadabad",
+    "Bengaluru",
+    "Chennai",
+    "Hyderabad",
+    "Jaipur",
+    "Kolkata",
+    "Lucknow",
+    "Mumbai",
+    "Nagpur",
+    "New Delhi",
+    "Pune",
+    "Surat"
+  ],
+  "official_language": ["Hindi", "English"],
+  "currency": { "title": "Indian rupee", "symbol": "₹" },
+  "major_religions": "Hinduism",
+  "national_day": { "title": "Republic Day", "date": "26 January" },
+  "phone": {
+    "digital_code": "+91",
+    "phone_operators": ["Airtel", "BSNL & MTNL", "Jio", "Vodafone Idea Ltd"]
+  },
+  "plug_types": ["C", "D", "M"],
+  "transport": {
+    "driving_side": "left",
+    "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "LyftIndia", "url": "https://lyftindia.co.in/#Download"}, {"title": "maxim", "url": "https://taximaxim.com/in/en/"}, {"title": "InDrive", "url": "https://indrive.com/en/home/"}, {"title": "Ola", "url": "https://www.olacabs.com/"}],
+    "metro": [{"title": "Ahmedabad", "url": "https://www.urbanrail.net/as/in/ahmedabad/ahmedabad-metro-map.png"}, {"title": "Bangalore", "url": "https://www.urbanrail.net/as/in/banl/bangalore-metro-map.png"}, {"title": "Chennai", "url": "https://www.urbanrail.net/as/in/chen/chennai-map.png"}, {"title": "Delhi", "url": "https://www.urbanrail.net/as/in/delhi/delhi-map.png"}, {"title": "Hyderabad", "url": "https://www.urbanrail.net/as/in/hydr/hyderabad-metro-map.png"}, {"title": "Jaipur", "url": "https://www.urbanrail.net/as/in/jaip/jaipur-map.png"}, {"title": "Kochi", "url": "https://www.urbanrail.net/as/in/kochi/kochi-metro-map.png"}, {"title": "Kolkata", "url": "https://www.urbanrail.net/as/in/kolk/kolkata-metro-map.png"}, {"title": "Lucknow", "url": "https://www.urbanrail.net/as/in/lucknow/lucknow-metro-map.png"}, {"title": "Mumbai", "url": "https://www.urbanrail.net/as/in/mumb/mumbai-rail-map-centre.png"}, {"title": "Nagpur", "url": "https://www.urbanrail.net/as/in/nagpur/nagpur-metro-map.png"}]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "18-25 years old",
+    "alcohol_parchase_age": "18-25 years old",
+    "alcohol_info": [
+      "Purchase age is 18 in Goa, Himachal Pradesh, Karnataka, Sikkim, and Puducherry",
+      "Purchase age is 21 in Andhra Pradesh, Arunachal Pradesh, Assam, Chhattisgarsh, Jammu and Kashmir, Jharkhand, Kerala, Madhya Pradesh, Maharashta, Mizoram, Orissa (Odisha), Rajasthan, Tamil Nadu, Telandana, Tripura, Uttarakhad, Uttar Pradesh, West Bengal and Delhi",
+      "Purchase age is 25 in Haryna",
+      "Maghalaya, Punjab",
+      "Cunsumption of alcohol is prohibited in the states of Bihar, Gujart, Lakshadweep, Maripur, and Nagaland"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tip porters 20-50 rupees per bag and a small gratuity to housekeeping is also appreciated",
+      "guides": "Aim for 100-300 rupees per day for a private tour and 30-50 rupees for a group tour",
+      "restaurants": "Larger restaurants should include gratuity but if not add 10% to your bill",
+      "Taxis": "Taxi drivers don't expect tips but you can round up the fare as a kind gesture"
+    }
+  },
+  "weather": {
+    "title": "India experiences a varied climate ranging from tropical in the south to more temperate in the north. With distinct seasons like monsoon rains in summer and cooler temperatures in winter, the weather showcases the country's geographical diversity, offering everything from snow-capped mountains in the north to sun-soaked beaches in the south.",
+    "when_to_visit": [
+      {
+        "icon": "🏔️",
+        "title": "Mountain exploration",
+        "time_period": "Summer (April to June)",
+        "short_description": "Mountainous areas in the north experience freezing winter weather, making summer the best time for visiting region"
+      },
+      {
+        "icon": "🕌",
+        "title": "Sightseeing",
+        "time_period": "Winter (November to February)",
+        "short_description": "Most parts of India experiance pleasant and mild weather during this period. Great time to explore cities like Delhi, Jaipur and Mumbai as well as cultural sites like Taj Mahal"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Rainy season",
+        "time_period": "June to September",
+        "short_description": "Increased rainfall and humidity. June and July are the wettest months in this period"
+      }
+    ],
+    "best_time": "The best time to visit India depends on the region, but generally, the months of October to March offer pleasant temperatures and lower chances of rainfall in most parts of the country"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "100"
+    },
+    {
+      "title": "Ambulance",
+      "number": "102"
+    },
+    {
+      "title": "Fire",
+      "number": "101"
+    }
+  ]
+}
