@@ -1,0 +1,117 @@
+{
+  "id": "3",
+  "iso": "USA",
+  "alpha_2": "US",
+  "country_name": "United States",
+  "flag_url": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png100px/us.png",
+  "short_description": "Embark on a road trip of a lifetime in the United States of America, where diverse landscapes, iconic landmarks, and vibrant culture await. Drive the iconic Route 66, visit the stunning national parks like Yellowstone and Grand Canyon, or explore the bustling cities like New York and Los Angeles",
+  "known_for": [
+    { "title": "🌃 New York", "color": "pink" },
+    { "title": "🍔 Fast Food", "color": "green" },
+    { "title": "🎬 Hollywood", "color": "purple" },
+    { "title": "🏈 American Sports", "color": "blue" },
+    { "title": "🏞️ Nation parks", "color": "yellow" },
+    { "title": "🚗 Roadtrips", "color": "orange" }
+  ],
+  "capital": "Washington, D.C.",
+  "major_cities": [
+    "Austin",
+    "Boston",
+    "Charlotte",
+    "Chicago",
+    "Columbus",
+    "Dallas",
+    "Denver",
+    "Detroit",
+    "El Paso",
+    "Fort Worth",
+    "Houston",
+    "Indianapolis",
+    "Jacksonville",
+    "Las Vegas",
+    "Los Angeles",
+    "Memphis",
+    "Nashville",
+    "New York",
+    "Oklahoma City",
+    "Philadelphia",
+    "Phoenix",
+    "Portland",
+    "San Antonio",
+    "San Diego",
+    "San Francisco",
+    "San Jose",
+    "Seattle",
+    "Washington, D.C."
+  ],
+  "official_language": ["English"],
+  "currency": { "title": "US Dollar", "symbol": "$" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Independence Day", "date": "04 July" },
+  "phone": {
+    "digital_code": "+1",
+    "phone_operators": ["AT&T", "T-Mobile US", "Verizon Wireless"]
+  },
+  "plug_types": ["A", "B"],
+   "transport": {
+      "driving_side": "right",
+      "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "Lyft", "url": "https://www.lyft.com/"}, {"title": "Curb", "url": "https://www.gocurb.com/"}],
+      "metro": [{"title": "Atlanta", "url": "https://www.urbanrail.net/am/atla/atlanta-map.gif"}, {"title": "Baltimore", "url": "https://www.urbanrail.net/am/balt/baltimore-map.gif"}, {"title": "Boston", "url": "https://www.urbanrail.net/am/bost/boston-map.png"}, {"title": "Chicago", "url": "https://www.urbanrail.net/am/chic/chicago-centre-map.png"}, {"title": "Cleveland", "url": "https://www.urbanrail.net/am/clev/cleveland-map.gif"}, {"title": "Los Angeles", "url": "https://www.urbanrail.net/am/lsan/los-angeles-map.png"}, {"title": "Miami", "url": "https://www.urbanrail.net/am/miam/miami-map.png"}, {"title": "New York", "url": "https://www.urbanrail.net/am/nyrk/new-york-map.png"}, {"title": "Philadelphia", "url": "https://www.urbanrail.net/am/phil/philadelphia-rail-map.png"}, {"title": "San Francisco", "url": "https://www.urbanrail.net/am/snfr/sf-bay-area-map.png"}, {"title": "Washington, D.C.", "url": "https://www.urbanrail.net/am/wash/washington-map.png"}]
+    },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "21 years old",
+    "alcohol_parchase_age": "21 years old",
+    "alcohol_info": [
+      "The National Minimum Drinking Age Act(established in 1984) requires all states and territorites to have a minimum purchasing age of 21",
+      "Only two U. S. Territorites have a drinking age of 18, those being Puerto Rico and the U. S. Virgin Islands",
+      "Some states do not allow those under the legal drinking age to be present in liquor stores or in bars"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping at hotels is expected, aim for USD 1-2 per bag for porters, USD 2-3 per night for housekeeping and 15% for any room service",
+      "guides": "You are expected to tip your tour guide, between 15% and 20% depending on the quality of service, friendliness and knowledge",
+      "restaurants": "You should always tip between 10-25% at restaurants in America according to the level of service",
+      "Taxis": "It's customary to tip your driver a 10-15% of the overall fare or round the amount to the nearest dollar"
+    }
+  },
+  "weather": {
+    "title": "",
+    "when_to_visit": [
+      {
+        "icon": "",
+        "title": "",
+        "time_period": "",
+        "short_description": ""
+      },
+      {
+        "icon": "",
+        "title": "",
+        "time_period": "",
+        "short_description": ""
+      },
+      {
+        "icon": "",
+        "title": "",
+        "time_period": "",
+        "short_description": ""
+      }
+    ],
+    "best_time": ""
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "911"
+    },
+    {
+      "title": "Ambulance",
+      "number": "911"
+    },
+    {
+      "title": "Fire",
+      "number": "911"
+    }
+  ]
+}
