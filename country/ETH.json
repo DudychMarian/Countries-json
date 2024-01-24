@@ -1,0 +1,80 @@
+{
+  "id": "11",
+  "iso": "ETH",
+  "alpha_2": "ET",
+  "country_name": "Ethiopia",
+  "cover_image": "https://images.unsplash.com/photo-1572888195250-3037a59d3578?q=80&w=2100&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/et.svg",
+  "short_description": "A land of ancient history and breathtaking landscapes, Ethiopia is a country that has something for everyone. Explore the stunning Simien Mountains, discover the ancient ruins of Aksum, and immerse yourself in the vibrant culture of Addis Ababa",
+  "known_for": [
+    { "title": "🌋 Danakil Depression", "color": "red" },
+    { "title": "🌶️ Spicy cuisine", "color": "green" },
+    { "title": "🎨 Ethiopian art", "color": "pink" },
+    { "title": "🏛️ Lalibela rock-hewn churches", "color": "blue" },
+    { "title": "🦍 Ethiopian wolves", "color": "yellow" }
+  ],
+  "capital": "Addis Ababa",
+  "major_cities": ["Addis Ababa", "Bahir Dar", "Dese", "Gonder", "Mekele"],
+  "official_language": ["Amharic", "Tigrinya", "Afar", "Oromo", "Somali"],
+  "currency": { "title": "Ethiopian birr", "symbol": "Br" },
+  "major_religions": "Ethiopian Orthodox, Muslim",
+  "national_day": { "title": "Derg Downfall Day", "date": "28 May" },
+  "phone": {
+    "digital_code": "+251",
+    "phone_operators": ["Ethiotelecom"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "ZayRide", "url": "https://www.zayride.com/" },
+      { "title": "RIDE", "url": "https://ride8294.com/" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "15 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "",
+      "guides": "",
+      "restaurants": "",
+      "taxis": ""
+    }
+  },
+  "weather": {
+    "title": "Ethiopia has a diverse climate due to its varying topography, with a mix of tropical, subtropical, and highland climates. The country experiences two main seasons: a dry season from October to May, characterized by cooler temperatures and minimal rainfall, and a rainy season from June to September, when higher temperatures and significant rainfall are more common",
+    "when_to_visit": [
+      {
+        "icon": "⛰️",
+        "title": "Dry season",
+        "time_period": "October to May",
+        "short_description": "Cooler temperatures, minimal rainfall, and optimal conditions for exploring highlights like Addis Ababa and the Simien Mountains"
+      },
+      {
+        "icon": "💧",
+        "title": "Wet season",
+        "time_period": "June to September",
+        "short_description": "Heavy rainfall particularly in the highlands and central regions. Some roads and remote areas may be inaccessible during this season"
+      }
+    ],
+    "best_time": "The best time to visit Ethiopia is during the dry season from October to May when the weather is generally mild and pleasant, allowing for comfortable exploration of the country's historical sites, diverse landscapes, and vibrant cultural events"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "911"
+    },
+    {
+      "title": "Ambulance",
+      "number": "911"
+    },
+    {
+      "title": "Fire",
+      "number": "911"
+    }
+  ]
+}
