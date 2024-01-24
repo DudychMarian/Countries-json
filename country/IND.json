@@ -38,8 +38,26 @@
   "plug_types": ["C", "D", "M"],
   "transport": {
     "driving_side": "left",
-    "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "LyftIndia", "url": "https://lyftindia.co.in/#Download"}, {"title": "maxim", "url": "https://taximaxim.com/in/en/"}, {"title": "InDrive", "url": "https://indrive.com/en/home/"}, {"title": "Ola", "url": "https://www.olacabs.com/"}],
-    "metro": [{"title": "Ahmedabad", "url": "https://www.urbanrail.net/as/in/ahmedabad/ahmedabad-metro-map.png"}, {"title": "Bangalore", "url": "https://www.urbanrail.net/as/in/banl/bangalore-metro-map.png"}, {"title": "Chennai", "url": "https://www.urbanrail.net/as/in/chen/chennai-map.png"}, {"title": "Delhi", "url": "https://www.urbanrail.net/as/in/delhi/delhi-map.png"}, {"title": "Hyderabad", "url": "https://www.urbanrail.net/as/in/hydr/hyderabad-metro-map.png"}, {"title": "Jaipur", "url": "https://www.urbanrail.net/as/in/jaip/jaipur-map.png"}, {"title": "Kochi", "url": "https://www.urbanrail.net/as/in/kochi/kochi-metro-map.png"}, {"title": "Kolkata", "url": "https://www.urbanrail.net/as/in/kolk/kolkata-metro-map.png"}, {"title": "Lucknow", "url": "https://www.urbanrail.net/as/in/lucknow/lucknow-metro-map.png"}, {"title": "Mumbai", "url": "https://www.urbanrail.net/as/in/mumb/mumbai-rail-map-centre.png"}, {"title": "Nagpur", "url": "https://www.urbanrail.net/as/in/nagpur/nagpur-metro-map.png"}]
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "LyftIndia", "url": "https://lyftindia.co.in/#Download" },
+      { "title": "maxim", "url": "https://taximaxim.com/in/en/" },
+      { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+      { "title": "Ola", "url": "https://www.olacabs.com/" }
+    ],
+    "metro": [
+      { "title": "Ahmedabad", "url": "https://www.urbanrail.net/as/in/ahmedabad/ahmedabad-metro-map.png" },
+      { "title": "Bangalore", "url": "https://www.urbanrail.net/as/in/banl/bangalore-metro-map.png" },
+      { "title": "Chennai", "url": "https://www.urbanrail.net/as/in/chen/chennai-map.png" },
+      { "title": "Delhi", "url": "https://www.urbanrail.net/as/in/delhi/delhi-map.png" },
+      { "title": "Hyderabad", "url": "https://www.urbanrail.net/as/in/hydr/hyderabad-metro-map.png" },
+      { "title": "Jaipur", "url": "https://www.urbanrail.net/as/in/jaip/jaipur-map.png" },
+      { "title": "Kochi", "url": "https://www.urbanrail.net/as/in/kochi/kochi-metro-map.png" },
+      { "title": "Kolkata", "url": "https://www.urbanrail.net/as/in/kolk/kolkata-metro-map.png" },
+      { "title": "Lucknow", "url": "https://www.urbanrail.net/as/in/lucknow/lucknow-metro-map.png" },
+      { "title": "Mumbai", "url": "https://www.urbanrail.net/as/in/mumb/mumbai-rail-map-centre.png" },
+      { "title": "Nagpur", "url": "https://www.urbanrail.net/as/in/nagpur/nagpur-metro-map.png" }
+    ]
   },
   "health": {
     "tap_water_safety": "Exercise Caution",

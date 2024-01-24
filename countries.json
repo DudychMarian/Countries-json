@@ -39,8 +39,26 @@
     "plug_types": ["C", "D", "M"],
     "transport": {
       "driving_side": "left",
-      "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "LyftIndia", "url": "https://lyftindia.co.in/#Download"}, {"title": "maxim", "url": "https://taximaxim.com/in/en/"}, {"title": "InDrive", "url": "https://indrive.com/en/home/"}, {"title": "Ola", "url": "https://www.olacabs.com/"}],
-      "metro": [{"title": "Ahmedabad", "url": "https://www.urbanrail.net/as/in/ahmedabad/ahmedabad-metro-map.png"}, {"title": "Bangalore", "url": "https://www.urbanrail.net/as/in/banl/bangalore-metro-map.png"}, {"title": "Chennai", "url": "https://www.urbanrail.net/as/in/chen/chennai-map.png"}, {"title": "Delhi", "url": "https://www.urbanrail.net/as/in/delhi/delhi-map.png"}, {"title": "Hyderabad", "url": "https://www.urbanrail.net/as/in/hydr/hyderabad-metro-map.png"}, {"title": "Jaipur", "url": "https://www.urbanrail.net/as/in/jaip/jaipur-map.png"}, {"title": "Kochi", "url": "https://www.urbanrail.net/as/in/kochi/kochi-metro-map.png"}, {"title": "Kolkata", "url": "https://www.urbanrail.net/as/in/kolk/kolkata-metro-map.png"}, {"title": "Lucknow", "url": "https://www.urbanrail.net/as/in/lucknow/lucknow-metro-map.png"}, {"title": "Mumbai", "url": "https://www.urbanrail.net/as/in/mumb/mumbai-rail-map-centre.png"}, {"title": "Nagpur", "url": "https://www.urbanrail.net/as/in/nagpur/nagpur-metro-map.png"}]
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "LyftIndia", "url": "https://lyftindia.co.in/#Download" },
+        { "title": "maxim", "url": "https://taximaxim.com/in/en/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Ola", "url": "https://www.olacabs.com/" }
+      ],
+      "metro": [
+        { "title": "Ahmedabad", "url": "https://www.urbanrail.net/as/in/ahmedabad/ahmedabad-metro-map.png" },
+        { "title": "Bangalore", "url": "https://www.urbanrail.net/as/in/banl/bangalore-metro-map.png" },
+        { "title": "Chennai", "url": "https://www.urbanrail.net/as/in/chen/chennai-map.png" },
+        { "title": "Delhi", "url": "https://www.urbanrail.net/as/in/delhi/delhi-map.png" },
+        { "title": "Hyderabad", "url": "https://www.urbanrail.net/as/in/hydr/hyderabad-metro-map.png" },
+        { "title": "Jaipur", "url": "https://www.urbanrail.net/as/in/jaip/jaipur-map.png" },
+        { "title": "Kochi", "url": "https://www.urbanrail.net/as/in/kochi/kochi-metro-map.png" },
+        { "title": "Kolkata", "url": "https://www.urbanrail.net/as/in/kolk/kolkata-metro-map.png" },
+        { "title": "Lucknow", "url": "https://www.urbanrail.net/as/in/lucknow/lucknow-metro-map.png" },
+        { "title": "Mumbai", "url": "https://www.urbanrail.net/as/in/mumb/mumbai-rail-map-centre.png" },
+        { "title": "Nagpur", "url": "https://www.urbanrail.net/as/in/nagpur/nagpur-metro-map.png" }
+      ]
     },
     "health": {
       "tap_water_safety": "Exercise Caution",
@@ -143,10 +161,46 @@
     },
     "plug_types": ["A", "C", "I"],
     "transport": {
-        "driving_side": "right",
-        "taxi": [{"title": "DiDi", "url": "https://www.didiglobal.com/"}],
-        "metro": [{"title": "Beijing", "url": "https://www.urbanrail.net/as/cn/beij/beijing-metro-map.png"}, {"title": "Changchun", "url": "https://www.urbanrail.net/as/cn/chan/changchun-map.png"}, {"title": "Changsha", "url": "https://www.urbanrail.net/as/cn/changsha/changsha-metro-map.png"}, {"title": "Changzhou", "url": "https://www.urbanrail.net/as/cn/changzhou/changzhou-metro-map.png"}, {"title": "Chengdu", "url": "https://www.urbanrail.net/as/cn/chdu/chengdu-metro-map.png"}, {"title": "Chongqing", "url": "https://www.urbanrail.net/as/cn/chon/chongqing-map-centre.png"}, {"title": "Dalian", "url": "https://www.urbanrail.net/as/cn/dalian/dalian-metro-tram-map.png"}, {"title": "Dongguan", "url": "https://www.urbanrail.net/as/cn/dongguan/dongguan-metro-map.png"}, {"title": "Fuzhou", "url": "https://www.urbanrail.net/as/cn/fuzhou/fuzhou-metro-map.png"}, {"title": "Guangzhou", "url": "https://www.urbanrail.net/as/cn/guan/guangzhou-metro-map.png"}, {"title": "Guiyang", "url": "https://www.urbanrail.net/as/cn/guiyang/guiyang-metro-map.png"}, {"title": "Hangzhou", "url": "https://www.urbanrail.net/as/cn/hang/hangzhou-metro-map.png"}, {"title": "Harbin", "url": "https://www.urbanrail.net/as/cn/harbin/harbin-metro-map.png"}, {"title": "Hefei", "url": "https://www.urbanrail.net/as/cn/hefei/hefei-metro-map.png"}, {"title": "Jinan", "url": "https://www.urbanrail.net/as/cn/jinan/jinan-metro-map.png"}, {"title": "Kunming", "url": "https://www.urbanrail.net/as/cn/kunming/kunming-metro-map.png"}, {"title": "Lanzhou", "url": "https://www.urbanrail.net/as/cn/lanzhou/lanzhou-metro-map.png"}, {"title": "Nanchang", "url": "https://www.urbanrail.net/as/cn/nanchang/nanchang-metro-map.png"}, {"title": "Nanjing", "url": "https://www.urbanrail.net/as/cn/nanj/nanjing-metro-map.png"}, {"title": "Nanning", "url": "https://www.urbanrail.net/as/cn/nanning/nanning-metro-map.png"}, {"title": "Ningbo", "url": "https://www.urbanrail.net/as/cn/ningbo/ningbo-metro-map.png"}, {"title": "Qingdao", "url": "https://www.urbanrail.net/as/cn/qing/qingdao-metro-map.png"}, {"title": "Shanghai", "url": "https://www.urbanrail.net/as/cn/shan/shanghai-centre-map.png"}, {"title": "Shenyang", "url": "https://www.urbanrail.net/as/cn/shny/shenyang-map.png"}, {"title": "Shenzhen", "url": "https://www.urbanrail.net/as/cn/shen/shenzhen-centre-map.png"}, {"title": "Shijiazhuang", "url": "https://www.urbanrail.net/as/cn/shijiazhuang/shijiazhuang-metro-map.png"}, {"title": "Suzhou", "url": "https://www.urbanrail.net/as/cn/suzh/suzhou-map.png"}, {"title": "Taiyuan", "url": "https://www.urbanrail.net/as/cn/taiyuan/taiyuan-metro-map.png"}, {"title": "Ürümqi", "url": "https://www.urbanrail.net/as/cn/urumqi/urumqi-metro-map.png"}, {"title": "Wenzhou", "url": "https://www.urbanrail.net/as/cn/wenzhou/wenzhou-metro-map.png"}, {"title": "Wuhan", "url": "https://www.urbanrail.net/as/cn/wuhan/wuhan-metro-map.png"}, {"title": "Wuxi", "url": "https://www.urbanrail.net/as/cn/wuxi/wuxi-metro-map.png"}, {"title": "Xi'an", "url": "https://www.urbanrail.net/as/cn/xian/xian-map.png"}, {"title": "Xiamen", "url": "https://www.urbanrail.net/as/cn/xiamen/xiamen-metro-map.png"}, {"title": "Zhengzhou", "url": "https://www.urbanrail.net/as/cn/zheng/zhengzhou-metro-map.png"}]
-      },
+      "driving_side": "right",
+      "taxi": [{ "title": "DiDi", "url": "https://www.didiglobal.com/" }],
+      "metro": [
+        { "title": "Beijing", "url": "https://www.urbanrail.net/as/cn/beij/beijing-metro-map.png" },
+        { "title": "Changchun", "url": "https://www.urbanrail.net/as/cn/chan/changchun-map.png" },
+        { "title": "Changsha", "url": "https://www.urbanrail.net/as/cn/changsha/changsha-metro-map.png" },
+        { "title": "Changzhou", "url": "https://www.urbanrail.net/as/cn/changzhou/changzhou-metro-map.png" },
+        { "title": "Chengdu", "url": "https://www.urbanrail.net/as/cn/chdu/chengdu-metro-map.png" },
+        { "title": "Chongqing", "url": "https://www.urbanrail.net/as/cn/chon/chongqing-map-centre.png" },
+        { "title": "Dalian", "url": "https://www.urbanrail.net/as/cn/dalian/dalian-metro-tram-map.png" },
+        { "title": "Dongguan", "url": "https://www.urbanrail.net/as/cn/dongguan/dongguan-metro-map.png" },
+        { "title": "Fuzhou", "url": "https://www.urbanrail.net/as/cn/fuzhou/fuzhou-metro-map.png" },
+        { "title": "Guangzhou", "url": "https://www.urbanrail.net/as/cn/guan/guangzhou-metro-map.png" },
+        { "title": "Guiyang", "url": "https://www.urbanrail.net/as/cn/guiyang/guiyang-metro-map.png" },
+        { "title": "Hangzhou", "url": "https://www.urbanrail.net/as/cn/hang/hangzhou-metro-map.png" },
+        { "title": "Harbin", "url": "https://www.urbanrail.net/as/cn/harbin/harbin-metro-map.png" },
+        { "title": "Hefei", "url": "https://www.urbanrail.net/as/cn/hefei/hefei-metro-map.png" },
+        { "title": "Jinan", "url": "https://www.urbanrail.net/as/cn/jinan/jinan-metro-map.png" },
+        { "title": "Kunming", "url": "https://www.urbanrail.net/as/cn/kunming/kunming-metro-map.png" },
+        { "title": "Lanzhou", "url": "https://www.urbanrail.net/as/cn/lanzhou/lanzhou-metro-map.png" },
+        { "title": "Nanchang", "url": "https://www.urbanrail.net/as/cn/nanchang/nanchang-metro-map.png" },
+        { "title": "Nanjing", "url": "https://www.urbanrail.net/as/cn/nanj/nanjing-metro-map.png" },
+        { "title": "Nanning", "url": "https://www.urbanrail.net/as/cn/nanning/nanning-metro-map.png" },
+        { "title": "Ningbo", "url": "https://www.urbanrail.net/as/cn/ningbo/ningbo-metro-map.png" },
+        { "title": "Qingdao", "url": "https://www.urbanrail.net/as/cn/qing/qingdao-metro-map.png" },
+        { "title": "Shanghai", "url": "https://www.urbanrail.net/as/cn/shan/shanghai-centre-map.png" },
+        { "title": "Shenyang", "url": "https://www.urbanrail.net/as/cn/shny/shenyang-map.png" },
+        { "title": "Shenzhen", "url": "https://www.urbanrail.net/as/cn/shen/shenzhen-centre-map.png" },
+        { "title": "Shijiazhuang", "url": "https://www.urbanrail.net/as/cn/shijiazhuang/shijiazhuang-metro-map.png" },
+        { "title": "Suzhou", "url": "https://www.urbanrail.net/as/cn/suzh/suzhou-map.png" },
+        { "title": "Taiyuan", "url": "https://www.urbanrail.net/as/cn/taiyuan/taiyuan-metro-map.png" },
+        { "title": "Ürümqi", "url": "https://www.urbanrail.net/as/cn/urumqi/urumqi-metro-map.png" },
+        { "title": "Wenzhou", "url": "https://www.urbanrail.net/as/cn/wenzhou/wenzhou-metro-map.png" },
+        { "title": "Wuhan", "url": "https://www.urbanrail.net/as/cn/wuhan/wuhan-metro-map.png" },
+        { "title": "Wuxi", "url": "https://www.urbanrail.net/as/cn/wuxi/wuxi-metro-map.png" },
+        { "title": "Xi'an", "url": "https://www.urbanrail.net/as/cn/xian/xian-map.png" },
+        { "title": "Xiamen", "url": "https://www.urbanrail.net/as/cn/xiamen/xiamen-metro-map.png" },
+        { "title": "Zhengzhou", "url": "https://www.urbanrail.net/as/cn/zheng/zhengzhou-metro-map.png" }
+      ]
+    },
     "health": {
       "tap_water_safety": "Exercise Caution",
       "alcohol_consumption_age": "None",
@@ -261,11 +315,27 @@
       "phone_operators": ["AT&T", "T-Mobile US", "Verizon Wireless"]
     },
     "plug_types": ["A", "B"],
-     "transport": {
-        "driving_side": "right",
-        "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "Lyft", "url": "https://www.lyft.com/"}, {"title": "Curb", "url": "https://www.gocurb.com/"}],
-        "metro": [{"title": "Atlanta", "url": "https://www.urbanrail.net/am/atla/atlanta-map.gif"}, {"title": "Baltimore", "url": "https://www.urbanrail.net/am/balt/baltimore-map.gif"}, {"title": "Boston", "url": "https://www.urbanrail.net/am/bost/boston-map.png"}, {"title": "Chicago", "url": "https://www.urbanrail.net/am/chic/chicago-centre-map.png"}, {"title": "Cleveland", "url": "https://www.urbanrail.net/am/clev/cleveland-map.gif"}, {"title": "Los Angeles", "url": "https://www.urbanrail.net/am/lsan/los-angeles-map.png"}, {"title": "Miami", "url": "https://www.urbanrail.net/am/miam/miami-map.png"}, {"title": "New York", "url": "https://www.urbanrail.net/am/nyrk/new-york-map.png"}, {"title": "Philadelphia", "url": "https://www.urbanrail.net/am/phil/philadelphia-rail-map.png"}, {"title": "San Francisco", "url": "https://www.urbanrail.net/am/snfr/sf-bay-area-map.png"}, {"title": "Washington, D.C.", "url": "https://www.urbanrail.net/am/wash/washington-map.png"}]
-      },
+    "transport": {
+      "driving_side": "right",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "Lyft", "url": "https://www.lyft.com/" },
+        { "title": "Curb", "url": "https://www.gocurb.com/" }
+      ],
+      "metro": [
+        { "title": "Atlanta", "url": "https://www.urbanrail.net/am/atla/atlanta-map.gif" },
+        { "title": "Baltimore", "url": "https://www.urbanrail.net/am/balt/baltimore-map.gif" },
+        { "title": "Boston", "url": "https://www.urbanrail.net/am/bost/boston-map.png" },
+        { "title": "Chicago", "url": "https://www.urbanrail.net/am/chic/chicago-centre-map.png" },
+        { "title": "Cleveland", "url": "https://www.urbanrail.net/am/clev/cleveland-map.gif" },
+        { "title": "Los Angeles", "url": "https://www.urbanrail.net/am/lsan/los-angeles-map.png" },
+        { "title": "Miami", "url": "https://www.urbanrail.net/am/miam/miami-map.png" },
+        { "title": "New York", "url": "https://www.urbanrail.net/am/nyrk/new-york-map.png" },
+        { "title": "Philadelphia", "url": "https://www.urbanrail.net/am/phil/philadelphia-rail-map.png" },
+        { "title": "San Francisco", "url": "https://www.urbanrail.net/am/snfr/sf-bay-area-map.png" },
+        { "title": "Washington, D.C.", "url": "https://www.urbanrail.net/am/wash/washington-map.png" }
+      ]
+    },
     "health": {
       "tap_water_safety": "Safe to drink",
       "alcohol_consumption_age": "21 years old",
@@ -320,6 +390,95 @@
       {
         "title": "Fire",
         "number": "911"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "iso": "IDN",
+    "alpha_2": "ID",
+    "country_name": "Indonesia",
+    "cover_image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "",
+    "short_description": "With over 17,000 islands, Indonesia is a destination that offers something for everyone. Explore the ancient temples of Bali, dive into the stunning coral reefs of Raja Ampat, and indulge in the delicious local cuisine",
+    "known_for": [
+      { "title": "🍛 Nasi Goreng", "color": "pink" },
+      { "title": "🎨 Balinese art", "color": "green" },
+      { "title": "🏝️ Bali", "color": "purple" },
+      { "title": "🏞️ Komodo National Park", "color": "blue" },
+      { "title": "🐒 Orangutans", "color": "orange" }
+    ],
+    "capital": "Jakarta",
+    "major_cities": ["Bandung", "Bekasi", "Jakarta", "Makassar", "Medan", "Palembang", "Samarang", "Surabaya"],
+    "official_language": ["Indonesian"],
+    "currency": { "title": "Indonesian rupiah", "symbol": "Rp" },
+    "major_religions": "Islam",
+    "national_day": { "title": "Independence Day", "date": "17 August" },
+    "phone": {
+      "digital_code": "+62",
+      "phone_operators": ["3", "Indosat Ooredoo", "Telkomsel", "XL Axiata"]
+    },
+    "plug_types": ["C", "F"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "Grab", "url": "https://www.grab.com/sg/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Gojek", "url": "https://www.gojek.com/en-id" },
+        { "title": "maxim", "url": "https://taximaxim.com/id/en/2093-jakarta/order-a-taxi-online" }
+      ],
+      "metro": [{ "title": "Jakarta", "url": "https://www.urbanrail.net/as/id/jaka/jakarta-rail-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "21 years old",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": ["Alcohol is prohibited in Aceh and Papua"]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping is never mandatory as the hotels charge a 21% tax but you can offer a small gratuity to works if you see fit",
+        "guides": "You are not obligated to tip your tour guides in Indonesia but a small gratuity will always be appreciated",
+        "restaurants": "Check if your bill includes a service charge. If not you can add around 10% to your bill",
+        "Taxis": "Taxis are metered but many people tip to the nearest Rp"
+      }
+    },
+    "weather": {
+      "title": "Indonesia has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from October to April, with heavy rainfall, and a dry season from May to September, characterized by drier conditions",
+      "when_to_visit": [
+        {
+          "icon": "😎",
+          "title": "Off peak season",
+          "time_period": "April and May, September and October",
+          "short_description": "Shoulder seasons offer favorable weather but with fewer crowds than the peak of dry season between June and August"
+        },
+        {
+          "icon": "🏝️",
+          "title": "Dry season",
+          "time_period": "April to October",
+          "short_description": "Less rainfall, lower humidity and more sunshine. Perfect for outdoor activities and beaches across key destinations like Bali, Yogyakarta and Komodo Island. Note that June to August are the most crowded peak months"
+        },
+        {
+          "icon": "⛈️",
+          "title": "Rainy season",
+          "time_period": "November to March",
+          "short_description": "Higher humidity and frequent rain showers, occuring in bursts. Travel still possible during this period but be prepared for disruption"
+        }
+      ],
+      "best_time": "The best time to visit Indonesia is during the dry season from April to October when you can enjoy sunny weather, calm seas for diving, and easier access to various island and cultural sites"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "110"
+      },
+      {
+        "title": "Ambulance",
+        "number": "118"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
       }
     ]
   }

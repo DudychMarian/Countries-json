@@ -53,11 +53,27 @@
     "phone_operators": ["AT&T", "T-Mobile US", "Verizon Wireless"]
   },
   "plug_types": ["A", "B"],
-   "transport": {
-      "driving_side": "right",
-      "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "Lyft", "url": "https://www.lyft.com/"}, {"title": "Curb", "url": "https://www.gocurb.com/"}],
-      "metro": [{"title": "Atlanta", "url": "https://www.urbanrail.net/am/atla/atlanta-map.gif"}, {"title": "Baltimore", "url": "https://www.urbanrail.net/am/balt/baltimore-map.gif"}, {"title": "Boston", "url": "https://www.urbanrail.net/am/bost/boston-map.png"}, {"title": "Chicago", "url": "https://www.urbanrail.net/am/chic/chicago-centre-map.png"}, {"title": "Cleveland", "url": "https://www.urbanrail.net/am/clev/cleveland-map.gif"}, {"title": "Los Angeles", "url": "https://www.urbanrail.net/am/lsan/los-angeles-map.png"}, {"title": "Miami", "url": "https://www.urbanrail.net/am/miam/miami-map.png"}, {"title": "New York", "url": "https://www.urbanrail.net/am/nyrk/new-york-map.png"}, {"title": "Philadelphia", "url": "https://www.urbanrail.net/am/phil/philadelphia-rail-map.png"}, {"title": "San Francisco", "url": "https://www.urbanrail.net/am/snfr/sf-bay-area-map.png"}, {"title": "Washington, D.C.", "url": "https://www.urbanrail.net/am/wash/washington-map.png"}]
-    },
+  "transport": {
+    "driving_side": "right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Lyft", "url": "https://www.lyft.com/" },
+      { "title": "Curb", "url": "https://www.gocurb.com/" }
+    ],
+    "metro": [
+      { "title": "Atlanta", "url": "https://www.urbanrail.net/am/atla/atlanta-map.gif" },
+      { "title": "Baltimore", "url": "https://www.urbanrail.net/am/balt/baltimore-map.gif" },
+      { "title": "Boston", "url": "https://www.urbanrail.net/am/bost/boston-map.png" },
+      { "title": "Chicago", "url": "https://www.urbanrail.net/am/chic/chicago-centre-map.png" },
+      { "title": "Cleveland", "url": "https://www.urbanrail.net/am/clev/cleveland-map.gif" },
+      { "title": "Los Angeles", "url": "https://www.urbanrail.net/am/lsan/los-angeles-map.png" },
+      { "title": "Miami", "url": "https://www.urbanrail.net/am/miam/miami-map.png" },
+      { "title": "New York", "url": "https://www.urbanrail.net/am/nyrk/new-york-map.png" },
+      { "title": "Philadelphia", "url": "https://www.urbanrail.net/am/phil/philadelphia-rail-map.png" },
+      { "title": "San Francisco", "url": "https://www.urbanrail.net/am/snfr/sf-bay-area-map.png" },
+      { "title": "Washington, D.C.", "url": "https://www.urbanrail.net/am/wash/washington-map.png" }
+    ]
+  },
   "health": {
     "tap_water_safety": "Safe to drink",
     "alcohol_consumption_age": "21 years old",
