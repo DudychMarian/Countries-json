@@ -1,0 +1,125 @@
+{
+  "id": "12",
+  "iso": "JPN",
+  "alpha_2": "JP",
+  "country_name": "Japan",
+  "cover_image": "https://images.unsplash.com/photo-1610375228550-d5cabc1d4090?q=80&w=2334&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/jp.svg",
+  "short_description": "A land of contrasts, Japan offers a unique travel experience that blends ancient traditions with modern innovation. Explore the bustling streets of Tokyo, soak in the natural hot springs of Hakone, and indulge in the fresh flavors of Japanese cuisine, from sushi to ramen. Don't miss the chance to witness the stunning cherry blossom season.",
+  "known_for": [
+    { "title": "🌸 Cherry blossoms", "color": "pink" },
+    { "title": "🍱 Sushi", "color": "green" },
+    { "title": "🎌 Anime", "color": "purple" },
+    { "title": "🏯 Samurai castles", "color": "blue" },
+    { "title": "🗻 Mount Fuji", "color": "yellow" },
+    { "title": "🗼 Tokyo tower", "color": "purple" },
+    { "title": "🚄 Bullet trains", "color": "pink" },
+    { "title": "🥋 Martial arts", "color": "green" }
+  ],
+  "capital": "Tokyo",
+  "major_cities": [
+    "Chiba",
+    "Fukuoka",
+    "Hamamatsu",
+    "Hiroshima",
+    "Kobe",
+    "Kyoto",
+    "Nagoya",
+    "Niigata",
+    "Okayama",
+    "Osaka",
+    "Saga",
+    "Saitama",
+    "Sapporo",
+    "Sendai",
+    "Shizuika",
+    "Tokyo"
+  ],
+  "official_language": ["Japanese"],
+  "currency": { "title": "Japanese yen", "symbol": "¥" },
+  "major_religions": "Buddhism, Shintoism",
+  "national_day": { "title": "Birthday of Emperor Akihito", "date": "23 December" },
+  "phone": {
+    "digital_code": "+81",
+    "phone_operators": ["NTT Docomo", "Y!Mobile", "au"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Grab", "url": "https://www.grab.com/" },
+      { "title": "DiDi", "url": "https://didimobility.co.jp/" }
+    ],
+    "metro": [
+      { "title": "Fukuoka", "url": "https://www.urbanrail.net/as/jp/fukuoka/fukuoka-map.png" },
+      { "title": "Hiroshima", "url": "https://www.urbanrail.net/as/jp/hiroshima/hiroshima-centre-map.png" },
+      { "title": "Kobe", "url": "https://www.urbanrail.net/as/jp/kobe/kobe-centre-map.png" },
+      { "title": "Kyoto", "url": "https://www.urbanrail.net/as/jp/kyoto/kyoto-centre-map.png" },
+      { "title": "Nagoya", "url": "https://www.urbanrail.net/as/jp/nagoya/nagoya-subway-map.png" },
+      { "title": "Osaka", "url": "https://www.urbanrail.net/as/jp/osaka/osaka-centre-map.png" },
+      { "title": "Sapporo", "url": "https://www.urbanrail.net/as/jp/sapporo/sapporo-map.png" },
+      { "title": "Sendai", "url": "https://www.urbanrail.net/as/jp/sendai/sendai-map.png" },
+      { "title": "Tokyo", "url": "https://www.urbanrail.net/as/jp/tokyo/tokyo-centre-map.png" },
+      { "title": "Yokohama", "url": "https://www.urbanrail.net/as/jp/yokohama/yokohama-centre-rail-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "20 years old",
+    "alcohol_parchase_age": "20 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Only tip in very high end hotels and offer a small amount discretely in an envelope not directly",
+      "guides": "You can tip your tour guide, but it isn't mandatory, or expected",
+      "restaurants": "Tipping is uncommon as the pricing is supposed to already reflect the service quality",
+      "taxis": "You don't need to tip your taxi driver in Japan"
+    }
+  },
+  "weather": {
+    "title": "Japan has a varied climate due to its geographical location. The northern regions have a humid continental climate with cold winters and warm summers, while the southern regions have a subtropical climate with mild winters and hot, humid summers. It experiences a rainy season, known as 'tsuyu,' in June and July",
+    "when_to_visit": [
+      {
+        "icon": "🌸",
+        "title": "Cherry blossom season",
+        "time_period": "Spring (March to May)",
+        "short_description": "Cherry trees bloom with beautiful pink and white flowers every Spring. Weather is mild and pleasant, drawing crowds to witness the season in cities like Tokyo, Kyoto and Hiroshima"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Summer",
+        "time_period": "Rainy season (June to August)",
+        "short_description": "Hot and humid, especially in central and southern regions. Can also be rainy with frequent showers and occasional typhoons. Good time to visit Hokkaido in the north where the weather is cooler"
+      },
+      {
+        "icon": "🎿",
+        "title": "For winter sport",
+        "time_period": "Winter (December to February)",
+        "short_description": "Colder temperatures and snowfall in northern regions, perfect for skiing and snowboarding"
+      },
+      {
+        "icon": "📸",
+        "title": "Sightseeing",
+        "time_period": "Spring (March to May), Autumn (September to November)",
+        "short_description": "Spring and autumn are considered the best times to visit with mild and pleasant temperatures. Great to experience changing colors in Japan"
+      }
+    ],
+    "best_time": "The best time to visit Japan depends on the region, but generally, the months of March to May and September to November offer pleasant temperatures and beautiful cherry blossom or autumn foliage views"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "110"
+    },
+    {
+      "title": "Ambulance",
+      "number": "119"
+    },
+    {
+      "title": "Fire",
+      "number": "119"
+    }
+  ]
+}
