@@ -580,5 +580,86 @@
         "number": "16"
       }
     ]
+  },
+  {
+    "id": "6",
+    "iso": "NGA",
+    "country_name": "Nigeria",
+    "alpha_2": "NG",
+    "cover_image": "https://images.unsplash.com/photo-1594538756542-8c88bda491c5?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "",
+    "short_description": "Africa's most populous country is a vibrant and colorful destination, with a rich cultural heritage and bustling cities. Visit the UNESCO-listed Osun-Osogbo Sacred Grove, explore the markets of Lagos, and relax on the beaches of Lagos Island",
+    "known_for": [
+      { "title": "🌉 Third Mainland Bridge", "color": "red" },
+      { "title": "🍲 Jollof rice", "color": "green" },
+      { "title": "🎶 Afrobeat music", "color": "blue" },
+      { "title": "🏙️ Lagos", "color": "yellow" },
+      { "title": "🐘 Yankari National Park", "color": "purple" }
+    ],
+    "capital": "Abuja",
+    "major_cities": ["Benin City", "Ibadan", "Kaduna", "Kano", "Lagos", "Maiduguri", "Port harcourt"],
+    "official_language": ["English"],
+    "currency": { "title": "Nigerian naira", "symbol": "₦" },
+    "major_religions": "Islam",
+    "national_day": { "title": "Independence Day", "date": "01 October" },
+    "phone": {
+      "digital_code": "+234",
+      "phone_operators": ["9mobile", "Airtel", "Glo Mobile", "MTN"]
+    },
+    "plug_types": ["D", "G"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "Uber", "url": "https://www.uber.com/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "None",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Nigeria has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from April to October, with heavy rainfall, while the dry season from November to March offers drier conditions",
+      "when_to_visit": [
+        {
+          "icon": "☀️",
+          "title": "Dry season",
+          "time_period": "November to February",
+          "short_description": "Cooler temperatures and less rainfall. Most enjoyable period for sightseeing and outdoor adventures"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Wet season",
+          "time_period": "April to October",
+          "short_description": "Higher temperatures, high humidity, and heavy rainfall. Most frequent thunderstorms happen between June and September"
+        }
+      ],
+      "best_time": "The best time to visit Nigeria depends on the region, but generally, the months of November to March offer milder temperatures and lower chances of rainfall, making it suitable for exploring the country's cultural heritage and wildlife reserves"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "112"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
   }
 ]
