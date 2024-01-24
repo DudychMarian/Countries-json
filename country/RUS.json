@@ -1,0 +1,79 @@
+{
+    "id": "9",
+    "iso": "RUS",
+    "country_name": "Russia",
+    "cover_image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?q=80&w=2249&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "",
+    "short_description": "The largest country in the world, Russia offers a wealth of cultural and historical treasures. Marvel at the colorful onion domes of St. Basil's Cathedral in Moscow, visit the Hermitage Museum in St. Petersburg, or journey on the Trans-Siberian Railway",
+    "known_for": [{"title": "❄️ Winter Sports", "color":"red"}, {"title": "🍺 Vodka", "color": "green"}, {"title": "🎨 Art", "color": "pink"}, {"title": "🎭 Ballet", "color": "blue"}, {"title": "🏛️ Architecture", "color": "orange"}],
+    "capital": "Moscow",
+    "major_cities": ["Chelyabinsk", "Kazan", "Moscow", "Novosibirsk", "Omsk", "Rostov", "Saint Petersburg", "Samara", "Ufa", "Volgograd", "Yekaterinburg"],
+    "official_language": ["Russian"],
+    "currency": {"title": "Russian ruble", "symbol": "₽"},
+    "major_religions": "Christianity",
+    "national_day": {"title": "Russia Day", "date": "12 June"},
+    "phone": {
+      "digital_code": "+7",
+      "phone_operators": ["Beeline", "MTS", "MegaFon", "Tele2 Russia"]
+    },
+    "plug_types": ["C", "F"],
+    "driving_side": "Right",
+    "health": {
+      "tap_water_safety": "Safe to drink",
+      "alcohol_consumption_age": "16 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": ["Penalties apply to parents of those under 16 years of age who consume alcohol beverages in public places"]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping is common in hotels so aim for 30-90 Rubbles for porters, 60-120 Rubbles per day for housekeeping and 300 Rubbles for concierge",
+        "guides": "Tip up to 300 Rubbles to the guide and/or driver direcltly",
+        "restaurants": "It is customary to tip 10-15% of the bill in cash",
+        "taxis": "You can round up the fare or tip no more that 10%"
+      }
+    },
+    "weather": {
+      "title": "Russia has a diverse climate due to its vast size and varied topography. The European part has a range of climates, including humid continental and subarctic. Siberia has a severe continental climate with extremely cold winters. The country experiences significant temperature variations and varied precipitation patterns",
+      "when_to_visit": [
+        {
+          "icon": "📸",
+          "title": "Sightseeing",
+          "time_period": "Spring (April to May), Autumn (September to October)",
+          "short_description": "Shoulder seasons offer warm weather without the crowds of summer. Perfect time to visit tourist hotspots like Moscow and St Petersburg"
+        },
+        {
+          "icon": "☀️",
+          "title": "Summer",
+          "time_period": "May to October",
+          "short_description": "Warm temperatures and busy with tourists. Great opportunity to visit some of Russia's less known areas on the Black Sea, in Siberia and the Far East"
+        },
+        {
+          "icon": "🤍",
+          "title": "White Nights",
+          "time_period": "July",
+          "short_description": "Visit St Petersburg in July to enjoy the annual festival where the skies remain light all day for two days"
+        },
+        {
+          "icon": "🥶",
+          "title": "Winter",
+          "time_period": "November to March",
+          "short_description": "Following the wet months of October and November, winter is often cold and harsh. Avoid remote northern regions during this period unless necessary"
+        }
+      ],
+      "best_time": "The best time to visit Russia depends on the region and activities you plan to engage in. Generally, the summer months from June to August offer milder temperatures, longer daylight hours, and access to cultural and natural attractions"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "112"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
+  }
