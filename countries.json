@@ -481,5 +481,104 @@
         "number": "112"
       }
     ]
+  },
+  {
+    "id": "5",
+    "iso": "PAK",
+    "country_name": "Pakistan",
+    "alpha_2": "PK",
+    "cover_image": "https://images.unsplash.com/photo-1601399681546-ff2983a355c3?q=80&w=2348&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "",
+    "short_description": "With a rich history, stunning landscapes, and hospitable people, Pakistan offers a unique blend of adventure and culture. From the ancient ruins of Mohenjo-Daro to the majestic mountains of the Himalayas, there's no shortage of experiences to discover",
+    "known_for": [
+      { "title": "🍲 Biryani", "color": "pink" },
+      { "title": "🎶 Pakistani music", "color": "green" },
+      { "title": "🗻 Karakoram Highway", "color": "purpule" },
+      { "title": "🐘 Elephant safari", "color": "blue" },
+      { "title": "🕌 Badshahi Mosque", "color": "orange" }
+    ],
+    "capital": "Islamabad",
+    "major_cities": [
+      "Faisalabad",
+      "Hyderabad City",
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar",
+      "Quetta",
+      "Rahimyar Khan",
+      "Rawalpindi"
+    ],
+    "official_language": ["Urdu", "English"],
+    "currency": { "title": "Pakistani rupee", "symbol": "Rs" },
+    "major_religions": "Islam",
+    "national_day": { "title": "", "date": "" },
+    "phone": {
+      "digital_code": "+92",
+      "phone_operators": ["Jazz", "Telenor", "Ufone", "Zong"]
+    },
+    "plug_types": ["C", "D"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "Bykea", "url": "https://bykea.com/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Careem", "url": "https://www.careem.com/" }
+      ],
+      "metro": [{ "title": "Lahore", "url": "https://www.urbanrail.net/as/lahore/lahore-metro-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "21 years old",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": ["Prohibited for Muslims", "Purchase age for Non-Muslims is 21"]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Government tax of 17.5% is usually applied to hotels but you can tip staff 30-40 rupees additional for their services",
+        "guides": "Tip your guide 200-300 rupees per day for a private tour or 30-50 rupees for a group tour",
+        "restaurants": "High end restaurants add 10% service charge to bills and in other restaurants you can tip 30-50 rupees",
+        "taxis": "Tipping isn't expected but 20-30 rupees if the driver was helpful would be appreciated"
+      }
+    },
+    "weather": {
+      "title": "Pakistan has a varied climate due to its diverse topography. The northern regions have a temperate and alpine climate with cold winters and mild summers. The southern and coastal areas have a hot desert climate with low rainfall",
+      "when_to_visit": [
+        {
+          "icon": "🗻",
+          "title": "Best of hiking",
+          "time_period": "Spring (March to May), Autumn (September to November)",
+          "short_description": "Mild, dry and pleasant weather, making it perfect for trekking and enjoying natural areas like Hunza and Swat Valley"
+        },
+        {
+          "icon": "🌤️",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Hot weather with monsoon rains in July and August. Humidity is increased during this period"
+        },
+        {
+          "icon": "❄️",
+          "title": "Winter",
+          "time_period": "December to February",
+          "short_description": "Cool and dry but never too cold. Some heavy but short rain showers during this period"
+        }
+      ],
+      "best_time": "The best time to visit Pakistan depends on the region, but generally, the spring months of March to May and the autumn months of September to November offer mild temperatures and ideal weather for trekking, mountaineering, and exploring cultural sites"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "15"
+      },
+      {
+        "title": "Ambulance",
+        "number": "115"
+      },
+      {
+        "title": "Fire",
+        "number": "16"
+      }
+    ]
   }
 ]
