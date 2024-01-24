@@ -1,0 +1,103 @@
+{
+  "id": "8",
+  "iso": "BGD",
+  "alpha_2": "BD",
+  "country_name": "Bangladesh",
+  "cover_image": "https://images.unsplash.com/photo-1577624060070-ca1afe89ddad?q=80&w=2226&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "",
+  "short_description": "Experience the vibrant culture, stunning landscapes, and delicious cuisine of Bangladesh, a country with a rich history and welcoming people. Visit bustling markets, explore ancient temples, and relax on beautiful beaches",
+  "known_for": [
+    { "title": "🍛 Bangladeshi cuisine", "color": "red" },
+    { "title": "🎨 Nakshi Kantha embroidery", "color": "green" },
+    { "title": "🐅 Royal Bengal Tiger", "color": "pink" },
+    { "title": "💰 Textile industry", "color": "blue" },
+    { "title": "🛕 Temples", "color": "yellow" }
+  ],
+  "capital": "Dhaka",
+  "major_cities": [
+    "Barisal",
+    "Chittagong",
+    "Comilla",
+    "Dhaka",
+    "Khulna",
+    "Mymensingh",
+    "Narayanganj",
+    "Rajshahi",
+    "Rangpur",
+    "Sylhet"
+  ],
+  "official_language": ["Bangali"],
+  "currency": { "title": "Bangladeshi taka", "symbol": "৳" },
+  "major_religions": "Islam",
+  "national_day": { "title": "Independence Day", "date": "26 March" },
+  "phone": {
+    "digital_code": "+880",
+    "phone_operators": ["Banglalink", "Gremeeenphone", "Robi", "Teletalk"]
+  },
+  "plug_types": ["A", "C", "D", "G"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Pathao", "url": "https://pathao.com/" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping hotel staff isn't customary but you can give 20-30 rupees as a gesture to porters or housekeeping",
+      "guides": "Tipping tour guides is not a custom but a kind gesture. For a full day privatetour tip 100-200 rupees and 30-50 rupees for a group tour",
+      "restaurants": "Tip 5-10% of the bill where service charge isn't included",
+      "taxis": "Most taxis use a meter and you can simply round up the fare"
+    }
+  },
+  "weather": {
+    "title": "Bangladesh has a subtropical monsoon climate characterized by hot, humid summers (March to June) and cooler, drier winters (November to February). The country experiences heavy rainfall during the monsoon season (June to October) and occasional cyclones, while the spring (March to May) brings higher temperatures and humidity",
+    "when_to_visit": [
+      {
+        "icon": "🦅",
+        "title": "For nature lovers",
+        "time_period": "Spring (March to May)",
+        "short_description": "Nature is in full bloom and it's the perfect time if you are interested in observing wildlife or birdwatching"
+      },
+      {
+        "icon": "🏞️",
+        "title": "Sightseeing",
+        "time_period": "Winter (November to February)",
+        "short_description": "Best time to visit with a pleasant climate for sightseeing and enjoying the country's natural beauty. Lowest rainfall and humidity in this period"
+      },
+      {
+        "icon": "🌦️",
+        "title": "Summer",
+        "time_period": "March to June",
+        "short_description": "Higher temperatures, humidity and the possibility of heavy rainfall"
+      },
+      {
+        "icon": "💧",
+        "title": "Monsoon season",
+        "time_period": "June to October",
+        "short_description": "Frequent rain showers and occasional cyclones"
+      }
+    ],
+    "best_time": "The best time to visit Bangladesh is during the winter season (November to February) when the weather is cooler and drier, providing comfortable conditions for exploring the country's attractions and enjoying outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "999"
+    },
+    {
+      "title": "Ambulance",
+      "number": "999"
+    },
+    {
+      "title": "Fire",
+      "number": "999"
+    }
+  ]
+}
