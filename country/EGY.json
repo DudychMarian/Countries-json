@@ -1,0 +1,96 @@
+{
+  "id": "14",
+  "iso": "EGY",
+  "alpha_2": "EG",
+  "country_name": "Egypt",
+  "cover_image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/eg.svg",
+  "short_description": "A country steeped in history and mystery, Egypt offers travelers the chance to explore ancient ruins, sail along the Nile River, and discover the treasures of the Pharaohs. Immerse yourself in the vibrant culture of Cairo, marvel at the awe-inspiring pyramids of Giza, and discover the secrets of Luxor",
+  "known_for": [
+    { "title": "🌊 River Nile", "color": "red" },
+    { "title": "🎭 Belly dancing", "color": "green" },
+    { "title": "🏛️ Pyramids of Giza", "color": "purple" },
+    { "title": "🏜️ Sahara desert", "color": "blue" },
+    { "title": "🐪 Camel riding", "color": "yellow" },
+    { "title": "🥙 Egyptian cuisine", "color": "pink" }
+  ],
+  "capital": "Cairo",
+  "major_cities": ["Al Mansurah", "Alexandria", "Asyut", "Cairo", "Giza", "Luxor", "Port Said", "Suez", "Tanta"],
+  "official_language": ["Arabic"],
+  "currency": { "title": "Egyptian pound", "symbol": "£" },
+  "major_religions": "Islam",
+  "national_day": { "title": "Revolution Day", "date": "23 July" },
+  "phone": {
+    "digital_code": "+20",
+    "phone_operators": ["Etisalat", "Orange", "Vodafone", "We"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+      { "title": "Careem", "url": "https://www.careem.com/" },
+      { "title": "DiDi", "url": "https://web.didiglobal.com/eg/" }
+    ],
+    "metro": [{ "title": "Cairo", "url": "https://urbanrail.net/af/cairo/cairo-metro-map.png" }]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "21 years old",
+    "alcohol_parchase_age": "21 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "In Egypt you will be expected to tip anyone in your hotel who assists you. Tip EGP 3-5 per bag to porters and EGP 5-10 per night for housekeeping",
+      "guides": "Tip guides EGP 80-100 for a full day and EGP 40-50 for a half day",
+      "restaurants": "Generally tipping around 10% is good etiquette at a restaurant in Egypt",
+      "taxis": "In Egypt it is not customary to tip taxi drivers"
+    }
+  },
+  "weather": {
+    "title": "Egypt has a desert climate, characterized by hot and arid conditions with minimal rainfall. Summers are extremely hot, while winters are generally mild and cooler, particularly in the northern regions",
+    "when_to_visit": [
+      {
+        "icon": "🏜️",
+        "title": "Sightseeing",
+        "time_period": "Winter (November to February)",
+        "short_description": "Milder temperatures and lower humidity make it more comfortable to visit iconic attractions like the Pyramids, Luxor and Aswan"
+      },
+      {
+        "icon": "🤿",
+        "title": "Diving in the Red Sea",
+        "time_period": "October to April",
+        "short_description": "Winter is an ideal time to explore the Red Sea cost including popular beach areas like Hurghada and Sharm El-Sheikh. Note that tourism in this region peaks in December and January"
+      },
+      {
+        "icon": "🥵",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Scorching temperatures and high humidity make this a challenging time to visit the country"
+      },
+      {
+        "icon": "😎",
+        "title": "Off peak season",
+        "time_period": "Spring (March to May), Autumn (September to October)",
+        "short_description": "Shoulder seasons offer mild temperatures and fewer crowds"
+      }
+    ],
+    "best_time": "The best time to visit Egypt is during the winter months from November to February when the weather is milder and more comfortable for exploring the ancient sites and attractions, such as the pyramids, without the intense heat of the summer months"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "122"
+    },
+    {
+      "title": "Ambulance",
+      "number": "180"
+    },
+    {
+      "title": "Fire",
+      "number": "123"
+    }
+  ]
+}
