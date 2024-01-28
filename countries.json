@@ -1303,5 +1303,154 @@
         "number": "119"
       }
     ]
+  },
+  {
+    "id": "13",
+    "iso": "PHL",
+    "alpha_2": "PH",
+    "country_name": "Philippines",
+    "cover_image": "https://images.unsplash.com/photo-1654180680389-4141e2912ef6?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ph.svg",
+    "short_description": "The Philippines is a tropical paradise, with its pristine beaches, crystal-clear waters, and stunning coral reefs. Explore the vibrant capital city of Manila, island-hop in Palawan, and learn about the unique culture and traditions of the Filipino people",
+    "known_for": [
+      {
+        "title": "🌴 Beaches",
+        "color": "pink"
+      },
+      {
+        "title": "🌺 Festivals",
+        "color": "green"
+      },
+      {
+        "title": "🍍 Fruits",
+        "color": "purple"
+      },
+      {
+        "title": "🍖 Lechon",
+        "color": "blue"
+      },
+      {
+        "title": "🏊 Water Sport",
+        "color": "yellow"
+      }
+    ],
+    "capital": "Manila",
+    "major_cities": [
+      "Antipolo",
+      "Bacolod",
+      "Cagayan de Oro",
+      "Cebu City",
+      "Davao",
+      "General Santos",
+      "Makati City",
+      "Manila",
+      "Pasig City",
+      "Quezon City",
+      "San Juan",
+      "Valenzuela",
+      "Zamboanga City"
+    ],
+    "official_language": ["Filipino, English"],
+    "currency": {
+      "title": "Philippine peso",
+      "symbol": "₱"
+    },
+    "major_religions": "Roman Catholic",
+    "national_day": {
+      "title": "Independence Day",
+      "date": "12 June"
+    },
+    "phone": {
+      "digital_code": "+63",
+      "phone_operators": ["Dito Telecom", "Globe", "Smart"]
+    },
+    "plug_types": ["A", "B", "C"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        {
+          "title": "Grab",
+          "url": "https://www.grab.com/sg/"
+        },
+        {
+          "title": "Go Lag",
+          "url": "https://www.golag.ph/"
+        },
+        {
+          "title": "InDrive",
+          "url": "https://indrive.com/en/home/"
+        },
+        {
+          "title": "maxim",
+          "url": "https://taximaxim.com/ph/en/7513-cebu/order-a-taxi-online"
+        }
+      ],
+      "metro": [
+        {
+          "title": "Manila",
+          "url": "https://www.urbanrail.net/as/manila/manila-metro-map.png"
+        }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [
+        "Minors (defined as under 18 years old) are prohibited to purchase alcohol and adults are prohibited to purchase or provide alcohol to minors. Minors are not prohibited to consume alcohol"
+      ]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping is relatively uncommon in the Philippines but you can always tip individual staff for exceptional service",
+        "guides": "Guides will typically appreciate a 10% tip",
+        "restaurants": "Check your bill for 'SC' service charge applied and if not add 10% to your bill",
+        "Taxis": "Tip 10% for good service on a metered ride but do not tip for a negotiated fare"
+      }
+    },
+    "weather": {
+      "title": "The Philippines has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from June to October, with increased rainfall and the possibility of typhoons, while the dry season from November to May offers drier conditions",
+      "when_to_visit": [
+        {
+          "icon": "🌴",
+          "title": "Best for beaches",
+          "time_period": "Dry season (November to April)",
+          "short_description": "Weather is typically sunny, with less rainfall and lower humidity. Considered the best time to visit many popular beach destinations such as Boracay, Palawan, Cebu, and Bohol"
+        },
+        {
+          "icon": "💸",
+          "title": "Peak seaon",
+          "time_period": "December, March to April",
+          "short_description": "Christmas season and Easter holidays are peak travel times, so expect larger crowds and higher prices during these periods"
+        },
+        {
+          "icon": "⛈️",
+          "title": "Wet season",
+          "time_period": "May to October",
+          "short_description": "Higher humidity and more frequent rainfall but can still be a great time for nature activities and less crowds"
+        },
+        {
+          "icon": "💨",
+          "title": "Risk of typhoons",
+          "time_period": "July to October",
+          "short_description": "The peak of typhoon risk during the wet season occurs between July and October"
+        }
+      ],
+      "best_time": "The best time to visit the Philippines depends on the region, but generally, the months of December to April offer dry and sunny weather, making it ideal for beach activities and exploring the country's stunning islands"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "911"
+      },
+      {
+        "title": "Ambulance",
+        "number": "911"
+      },
+      {
+        "title": "Fire",
+        "number": "911"
+      }
+    ]
   }
 ]
