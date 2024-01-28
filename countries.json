@@ -1548,5 +1548,100 @@
         "number": "123"
       }
     ]
+  },
+  {
+    "id": "15",
+    "iso": "COD",
+    "alpha_2": "CD",
+    "country_name": "Democratic Republic of the Congo",
+    "cover_image": "https://images.unsplash.com/photo-1584391004942-b65b895ea6df?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/cd.svg",
+    "short_description": "Embark on an adventure to the Democratic Republic of the Congo, a country that is home to incredible wildlife and stunning natural wonders. Go gorilla watching in the rainforest, hike through the Virunga Mountains, and witness the country's unique geological formations",
+    "known_for": [
+      { "title": "🌴 Rainforests", "color": "red" },
+      { "title": "🍫 Cocoa", "color": "green" },
+      { "title": "🏞️ National Parks", "color": "pink" },
+      { "title": "💎 Diamonds", "color": "blue" },
+      { "title": "🦍 Gorilla Trekking", "color": "yellow" }
+    ],
+    "capital": "Kinshasa",
+    "major_cities": [
+      "Bakavu",
+      "Goma",
+      "Kananga",
+      "Kikwit",
+      "Kinshasa",
+      "Kisangani",
+      "Kolwezi",
+      "Likasi",
+      "Lubumbashi",
+      "Mbuji-Mayi",
+      "Tshikapa"
+    ],
+    "official_language": ["French"],
+    "currency": { "title": "Congolese franc", "symbol": "FC" },
+    "major_religions": "Protestant, Roman Catholic",
+    "national_day": { "title": "National Day", "date": "15 August" },
+    "phone": {
+      "digital_code": "+243",
+      "phone_operators": ["Africell", "Airtel", "Orange", "Tigo", "Vodacom"]
+    },
+    "plug_types": ["C", "D", "E"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [{ "title": "Yango", "url": "https://yango.com/en_cd/" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "The Democratic Republic of the Congo has a tropical climate with high temperatures and high humidity throughout the year. It experiences two main seasons: a wet season, from October to May, characterized by heavy rainfall, and a dry season, from June to September, with reduced rainfall and slightly cooler temperatures",
+      "when_to_visit": [
+        {
+          "icon": "🦍",
+          "title": "Gorilla trekking",
+          "time_period": "July to September",
+          "short_description": "Drier terrain in the famous Virunga National Park makes tracking and hiking mountain gorillas most accessible during this period"
+        },
+        {
+          "icon": "☀️",
+          "title": "Dry season",
+          "time_period": "June to September",
+          "short_description": "Less rainfall, milder temperatures and better conditions to enjoy the country's natural areas such as Kahuzi-Biega National Park and Garamba National Park"
+        },
+        {
+          "icon": "☔️",
+          "title": "Rainy season",
+          "time_period": "November to March",
+          "short_description": "Higher rainfall, increased humidity and frequent rain showers. Expect travel disruption and some areas will become inaccesible"
+        }
+      ],
+      "best_time": "The best time to visit the Democratic Republic of the Congo is during the dry season from June to September when the weather is generally drier and more suitable for exploring the country's natural wonders and wildlife, such as Virunga National Park and the Congo River"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "0"
+      },
+      {
+        "title": "Fire",
+        "number": "118"
+      }
+    ]
   }
 ]
