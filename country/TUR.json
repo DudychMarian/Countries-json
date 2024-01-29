@@ -1,0 +1,108 @@
+{
+  "id": "18",
+  "iso": "TUR",
+  "alpha_2": "TR",
+  "country_name": "Turkey",
+  "cover_image": "https://images.unsplash.com/photo-1567994200289-a98293394b69?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/tr.svg",
+  "short_description": "Indulge in the rich history, delicious cuisine, and stunning natural beauty of Turkey, where a blend of European and Middle Eastern cultures meet. Explore the ancient ruins of Ephesus, indulge in the culinary delights of Istanbul's Grand Bazaar, or relax on the beaches of Antalya",
+  "known_for": [
+    { "title": "🌉 Bosphorus Bridge", "color": "red" },
+    { "title": "🌴 Beaches", "color": "green" },
+    { "title": "🍢 Kebabs", "color": "pink" },
+    { "title": "🍬 Turkish Delight", "color": "blue" },
+    { "title": "🎈 Cappadocia", "color": "yellow" },
+    { "title": "🕌 Hagia Sophia", "color": "purple" }
+  ],
+  "capital": "Ankara",
+  "major_cities": [
+    "Adana",
+    "Ankara",
+    "Antalya",
+    "Bursa",
+    "Diyarbakir",
+    "Gaziantep",
+    "Istanbul",
+    "Izmir",
+    "Kayseri",
+    "Konya"
+  ],
+  "official_language": ["Turkish"],
+  "currency": { "title": "Turkish lira", "symbol": "₺" },
+  "major_religions": "Islam",
+  "national_day": { "title": "National day", "date": "29 October" },
+  "phone": {
+    "digital_code": "+90",
+    "phone_operators": ["Turkcell", "Türk Telekom", "Vodafone"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "BiTaksi", "url": "https://www.bitaksi.com/en" },
+      { "title": "maxim", "url": "https://taximaxim.com/tr/en/2620-istanbul/order-a-taxi-online" },
+      { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+      { "title": "Careem", "url": "https://www.careem.com/" }
+    ],
+    "metro": [
+      { "title": "Adana", "url": "https://www.urbanrail.net/as/tr/adana/adana-map.gif" },
+      { "title": "Ankara", "url": "https://www.urbanrail.net/as/tr/ankara/ankara-map.png" },
+      { "title": "Bursa", "url": "https://www.urbanrail.net/as/tr/bursa/bursa-metro-map.png" },
+      { "title": "Istanbul", "url": "https://www.urbanrail.net/as/tr/istanbul/istanbul-map-centre.png" },
+      { "title": "Izmir", "url": "https://www.urbanrail.net/as/tr/izmir/izmir-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Is it customary to tip hotel staff, including 4-5 Lira per bag to porters, 15 Lira to the concierge and 5-10 Lira per day to housekeeping",
+      "guides": "Tour guides don't work for tips but you can show appreciation with 10-15 Turkish Lirah",
+      "restaurants": "Aim to tip 5-10% in cash, depending on the level of service",
+      "taxis": "In Turkey it is not customary or expected to tip taxi drivers. You can round up the fare if you wish"
+    }
+  },
+  "weather": {
+    "title": "Turkey has a varied climate due to its diverse topography. Coastal regions have a Mediterranean climate with hot, dry summers and mild, wet winters. Inland areas experience more continental climates, with hot summers and cold winters",
+    "when_to_visit": [
+      {
+        "icon": "🏛️",
+        "title": "Sightseeing",
+        "time_period": "Spring (March to May), Autumn (September to November)",
+        "short_description": "Mild temperatures, comfortable weather conditions, and less rainfall. Great time to visit popular destinations such as Istanbul, Cappadocia, and the Aegean and Mediterranean coastal regions"
+      },
+      {
+        "icon": "🏖️",
+        "title": "Best for beaches",
+        "time_period": "Summer (June to August)",
+        "short_description": "Peak summer season offers warmer temperatures and crowds in popular beach destinations"
+      },
+      {
+        "icon": "🌞",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Milder temperatures, getting cooler the more inland you travel. Pleasant time to visit Istanbul and Cappadocia"
+      }
+    ],
+    "best_time": "The best time to visit Turkey depends on the region and activities you plan to engage in, but generally, the months of April to June and September to October offer pleasant temperatures, fewer crowds, and ideal conditions for exploring historical sites and coastal areas"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}
