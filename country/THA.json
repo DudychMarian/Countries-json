@@ -1,0 +1,89 @@
+{
+  "id": "20",
+  "iso": "THA",
+  "alpha_2": "TH",
+  "country_name": "Thailand",
+  "cover_image": "https://images.unsplash.com/photo-1504214208698-ea1916a2195a?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/th.svg",
+  "short_description": "Experience the vibrant culture, stunning temples, and delicious food of Thailand, where bustling cities, tranquil beaches, and ancient ruins await. Visit the historic temples of Chiang Mai, indulge in the street food of Bangkok, or relax on the beaches of Phuket",
+  "known_for": [
+    { "title": "🌴 Beaches", "color": "red" },
+    { "title": "🍜 Thai food", "color": "green" },
+    { "title": "🎭 Festivals", "color": "pink" },
+    { "title": "🛕 Temples", "color": "blue" },
+    { "title": "🛵 Tuk tuks", "color": "yellow" }
+  ],
+  "capital": "Bangkok",
+  "major_cities": ["Bangkok", "Chon Buri", "Nakhon Ratchasima", "Samut Prakan", "Udon Thani", "Phuket"],
+  "official_language": ["Thai"],
+  "currency": { "title": "Thai baht", "symbol": "฿" },
+  "major_religions": "Buddhism",
+  "national_day": { "title": "Anniversary of Birthday H.M. King Phumiphon", "date": "05 December" },
+  "phone": {
+    "digital_code": "+66",
+    "phone_operators": ["AIS", "Dtac", "MY", "TrueMove H"]
+  },
+  "plug_types": ["A", "B", "C"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "maxim", "url": "https://taximaxim.com/th/en/9335-chiang%20mai/order-a-taxi-online" },
+      { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+      { "title": "Grab", "url": "https://www.grab.com/sg/" }
+    ],
+    "metro": [{ "title": "Bangkok", "url": "https://www.urbanrail.net/as/bang/bangkok-map.png" }]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "20 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Offer 20-50 baht tips to hotel staff members to show your appreciation",
+      "guides": "Tip the equivalent of USD 10-20 per day for the tour guide",
+      "restaurants": "Tip 10% in high end restaurant and leave change for street food or cheaper restaurants",
+      "taxis": "Taxi drivers in Thailand will not expect you to tip, however most will round up the fare"
+    }
+  },
+  "weather": {
+    "title": "Thailand has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from May to October, with increased rainfall, and a drier season from November to April. The country is known for its stunning beaches and vibrant cultural heritage",
+    "when_to_visit": [
+      {
+        "icon": "🏝️",
+        "title": "Best for beaches",
+        "time_period": "Cool season (November to February)",
+        "short_description": "Pleasant temperatures, lower humidity, and minimal rainfall. Great time to explore popular tourist destinations such as Bangkok, Chiang Mai, Phuket, and Krabi or enjoy beach activities with calmer seas"
+      },
+      {
+        "icon": "🌞",
+        "title": "Hot season",
+        "time_period": "March to May",
+        "short_description": "Higher temperatures and humidity but still enjoyable for beach activities. Stay hydrated, seek shade, and take necessary precautions against the sun"
+      },
+      {
+        "icon": "⛈️",
+        "title": "Rainy season",
+        "time_period": "June to October",
+        "short_description": "Increased rainfall, humidity and occasional tropical storms. This period helps contribute to lush landscapes, vibrant flora and reduced crowds"
+      }
+    ],
+    "best_time": "The best time to visit Thailand depends on the region, but generally, the months of November to February offer milder temperatures, lower chances of rainfall, and ideal conditions for beach activities and exploring cultural sites"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "191"
+    },
+    {
+      "title": "Ambulance",
+      "number": "1669"
+    },
+    {
+      "title": "Fire",
+      "number": "199"
+    }
+  ]
+}
