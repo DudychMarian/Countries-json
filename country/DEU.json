@@ -1,0 +1,108 @@
+{
+  "id": "19",
+  "iso": "DEU",
+  "alpha_2": "DE",
+  "country_name": "Germany",
+  "cover_image": "https://images.unsplash.com/photo-1449452198679-05c7fd30f416?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/de.svg",
+  "short_description": "A country of rich history, culture, and stunning natural landscapes, Germany is a must-visit destination. Explore the vibrant capital city of Berlin, sample the world- famous beer in Munich, and marvel at the beauty of the Black Forest",
+  "known_for": [
+    { "title": "🌲 Black Forest", "color": "red" },
+    { "title": "🍺 Beer", "color": "green" },
+    { "title": "🎨 Bauhaus architecture", "color": "pink" },
+    { "title": "🎭 Theatre", "color": "blue" },
+    { "title": "🥨 Pretzels", "color": "yellow" }
+  ],
+  "capital": "Berlin",
+  "major_cities": [
+    "Berlin",
+    "Bremen",
+    "Cologne",
+    "Dortmund",
+    "Dusseldorf",
+    "Erfurt",
+    "Frankfurt",
+    "Hamburg",
+    "Munich",
+    "Stuttgart"
+  ],
+  "official_language": ["German"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Protestant, Roman Catholic",
+  "national_day": { "title": "Day of German Unity", "date": "03 October" },
+  "phone": {
+    "digital_code": "+49",
+    "phone_operators": ["O2", "Telekom", "Vodafone"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" }
+    ],
+    "metro": [
+      { "title": "Berlin", "url": "https://www.urbanrail.net/eu/de/b/berlin-centre-map.png" },
+      { "title": "Hamburg", "url": "https://www.urbanrail.net/eu/de/hh/hamburg-centre-map.png" },
+      { "title": "München", "url": "https://www.urbanrail.net/eu/de/m/muenchen-u-bahn-map.png" },
+      { "title": "Nürnberg", "url": "https://www.urbanrail.net/eu/de/n/nuernberg-map.gif" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "16 years old",
+    "alcohol_parchase_age": "16 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve or supply fermented alcohol beverages (beer, wine, cider and sparkling wine) to anyone under 16 years of age",
+      "However this age limit drops down to 14 if a minor is accompanied by a parent or legal guardian",
+      "It is generally prohibited to serve, sell or supply any beverage containing spirits and foods containing spirits above negligible amounts, to anyone under the age of 18 years"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is expected in hotels at around €1-3 per bag to porters and €3-5 per night to housekeeping",
+      "guides": "It's common for tourists to give tips of 10% to tour guides in Germany",
+      "restaurants": "A modest 5-10% gratuity is standard practice in Germany and be prepared to pay in cash",
+      "taxis": "Tipping isn't necessary, but most round-up the fare to the nearest Euro"
+    }
+  },
+  "weather": {
+    "title": "Germany has a temperate seasonal climate with relatively mild summers and cool winters. The country experiences moderate rainfall throughout the year, with the coastal regions being influenced by maritime influences and the eastern regions having a more continental climate",
+    "when_to_visit": [
+      {
+        "icon": "🚗",
+        "title": "Sightseeing",
+        "time_period": "Spring (May to June), Autumn (September to October)",
+        "short_description": "Generally mild weather with comfortable temperatures and longer daylight hours. Perfect for exploring popular cities like Berlin and Munich or picturesque landscapes in the Black Forest"
+      },
+      {
+        "icon": "🎶",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm weather and long days make it a popular time for tourists, leading to crowds in popular areas around beaches and lakes"
+      },
+      {
+        "icon": "❄️",
+        "title": "Festive spirit",
+        "time_period": "December to February",
+        "short_description": "Colder temperatures, shorter daylight hours and the possibility of snowfall. It's an enchanting time to visit the country's Christmas markets or experience winter sports in the Bavarian Alps"
+      }
+    ],
+    "best_time": "The best time to visit Germany is during the summer months from June to August when the weather is generally warm, festivals are in full swing, and you can explore the country's charming cities, picturesque countryside, and cultural attractions to the fullest"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "110"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}
