@@ -1,0 +1,112 @@
+{
+  "id": "23",
+  "iso": "FRA",
+  "alpha_2": "FR",
+  "country_name": "France",
+  "cover_image": "https://images.unsplash.com/photo-1583265266785-aab9e443ee68?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/fr.svg",
+  "short_description": "A country of stunning architecture, art, and cuisine, France is a must-visit destination for any traveler. Take a stroll through the charming streets of Paris, discover the world-renowned vineyards of Bordeaux, and indulge in the delicious local cuisine",
+  "known_for": [
+    { "title": "🍷 Wine", "color": "red" },
+    { "title": "🎨 Impressionist art", "color": "green" },
+    { "title": "🎭 Theatre", "color": "pink" },
+    { "title": "🗼 Eiffel Tower", "color": "blue" },
+    { "title": "🥖 Baguettes", "color": "yellow" },
+    { "title": "🧀 Cheese", "color": "purple" }
+  ],
+  "capital": "Paris",
+  "major_cities": [
+    "Bordeaux",
+    "Cannes",
+    "Lille",
+    "Lyon",
+    "Marseille",
+    "Montpellier",
+    "Nantes",
+    "Nice",
+    "Paris",
+    "Rennes",
+    "Strasbourgh",
+    "Toulouse"
+  ],
+  "official_language": ["French"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Bestille Day", "date": "14 July" },
+  "phone": {
+    "digital_code": "+33",
+    "phone_operators": ["Bouygues Telecom", "Free Mobile", "Orange", "SFR"]
+  },
+  "plug_types": ["C", "E"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Heetch", "url": "https://www.heetch.com/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" }
+    ],
+    "metro": [
+      { "title": "Lille", "url": "https://www.urbanrail.net/eu/fr/lille/lille-map.png" },
+      { "title": "Lyon", "url": "https://www.urbanrail.net/eu/fr/lyon/lyon-map.png" },
+      { "title": "Marseille", "url": "https://www.urbanrail.net/eu/fr/marseille/marseille-map.png" },
+      { "title": "Paris", "url": "https://www.urbanrail.net/eu/fr/paris/paris-map-centre.png" },
+      { "title": "Rennes ", "url": "https://www.urbanrail.net/eu/fr/rennes/rennes-metro-map.png" },
+      { "title": "Toulouse", "url": "https://www.urbanrail.net/eu/fr/toulouse/toulouse-metro-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "France has no explicitly stated consumption age, but selling alcohol beverages to a minor (under 18) is prohibited and can be fined 7500 euros"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tip good service if you feel it's appropriate. Generally aim for €1 per bag for porters, €1-1.50 per day for housekeeping and €8-20 for the concierge (depending on the hotel level)",
+      "guides": "Usually, tour guides are tipped between €2-5 after the excursion",
+      "restaurants": "Tipping is not mandatory and service charge is always included. You may tip 10% additional for exceptional service",
+      "taxis": "It is customary to tip your taxi driver 10%"
+    }
+  },
+  "weather": {
+    "title": "France has a varied climate due to its size and diverse geography. The northern regions have a temperate maritime climate with mild summers and cool winters, while the southern parts, including the Mediterranean coast, have a Mediterranean climate with hot summers and mild winters",
+    "when_to_visit": [
+      {
+        "icon": "🚶",
+        "title": "Sightseeing",
+        "time_period": "Spring (April to June), Autumn (September to October)",
+        "short_description": "Milder temperatures and fewer tourists make spring and autumn great times to visit popular destinations like Paris, Provence and Normandy"
+      },
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Long daylight hours and warmer temperatures bring many parts alive with festivals and events. Coastal areas will be popular during this period with tourists"
+      },
+      {
+        "icon": "🏔️",
+        "title": "For winter sports",
+        "time_period": "December to February",
+        "short_description": "Colder temperatures and shorter daylight hours. Excellent time for winter sports in the French Alps or festive activities"
+      }
+    ],
+    "best_time": "The best time to visit France is during the spring months of April to June and the autumn months of September to October when the weather is generally pleasant, with mild temperatures and fewer crowds, allowing for enjoyable exploration of the country's cities, countryside, and cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "17"
+    },
+    {
+      "title": "Ambulance",
+      "number": "15"
+    },
+    {
+      "title": "Fire",
+      "number": "18"
+    }
+  ]
+}
