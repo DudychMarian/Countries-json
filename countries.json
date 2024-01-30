@@ -2268,5 +2268,96 @@
         "number": "999"
       }
     ]
+  },
+  {
+    "id": "22",
+    "iso": "TZA",
+    "alpha_2": "TZ",
+    "country_name": "Tanzania",
+    "cover_image": "https://images.unsplash.com/photo-1538209647246-bb82d2e4b372?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/tz.svg",
+    "short_description": "Embark on a safari adventure and discover the stunning wildlife and natural beauty of Tanzania, with its iconic savannahs, towering mountains, and pristine beaches. Spot the Big Five in the Serengeti, hike to the summit of Mount Kilimanjaro, or relax on the beaches of Zanzibar",
+    "known_for": [
+      { "title": "🌴 Zanzibar Island", "color": "red" },
+      { "title": "🏞️ Mount Kilimanjaro", "color": "green" },
+      { "title": "🐘 Safari", "color": "pink" }
+    ],
+    "capital": "Dodoma",
+    "major_cities": ["Arusha", "Dar es Salaam", "Mbeya", "Morogoro", "Mwanza", "Zanzibar"],
+    "official_language": ["Swahili, English"],
+    "currency": { "title": "Tanzanian shilling", "symbol": "TSh" },
+    "major_religions": "Christianity",
+    "national_day": { "title": "Independence Day", "date": "9 December" },
+    "phone": {
+      "digital_code": "+255",
+      "phone_operators": ["Airtel", "Tigo", "Vodacom", "Zantel"]
+    },
+    "plug_types": ["D", "G"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Uber", "url": "https://www.uber.com/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tip porters USD 1-2 per bag and housekeeping USD 2-4 per day",
+        "guides": "Tipping is an important part of safari and trekking experiences. Check the tipping guidelines from your tour operator",
+        "restaurants": "It is customary to tip 5% where service charge isn't included",
+        "taxis": "It is not customary to tip taxi drivers but if you want to provide a tip, offer 10% or extra change from the fare"
+      }
+    },
+    "weather": {
+      "title": "Tanzania has a varied climate due to its size and diverse topography. The coastal regions have a tropical climate with high temperatures and humidity year-round. Inland areas experience a more temperate climate, and the highland regions have a cooler climate",
+      "when_to_visit": [
+        {
+          "icon": "🦌",
+          "title": "Best for safari",
+          "time_period": "Dry season (June to October)",
+          "short_description": "Warm, dry weather and less dense vegetation make it perfect for viewing wildlife. This period is famous for the Great Migration of wildebeest and other herbivores on the Serengeti plains"
+        },
+        {
+          "icon": "⛰️",
+          "title": "Mountain hiking",
+          "time_period": "January to March, Dry season (June to October)",
+          "short_description": "Clearer skies, less rainfall and better visibility in the dry seasons for hiking Mount Kilimanjaro and Mount Meru"
+        },
+        {
+          "icon": "🏝️",
+          "title": "Beach lovers",
+          "time_period": "Dry season (June to October), December to February",
+          "short_description": "Visit Zanzibar during the dry season for warm temperatures and lower humidity. A second short dry season in December to February is also a good opportunity to visit with fewer crowds"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Rainy season",
+          "time_period": "November to December, March to May",
+          "short_description": "Increased humidity and frequent rainfall. Tanzania's rainy season has a 'short rains' period from November and a 'long rains' period from March"
+        }
+      ],
+      "best_time": "The best time to visit Tanzania depends on the region and activities you plan to engage in, but generally, the months of June to October offer pleasant temperatures, dry conditions, and excellent wildlife viewing opportunities in the national parks"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "114"
+      },
+      {
+        "title": "Fire",
+        "number": "115"
+      }
+    ]
   }
 ]
