@@ -1,0 +1,108 @@
+{
+  "id": "32",
+  "iso": "ESP",
+  "alpha_2": "ES",
+  "country_name": "Spain",
+  "cover_image": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/es.svg",
+  "short_description": "Experience the vibrant, passionate culture of Spain, where tapas, flamenco, and fiestas are a way of life. Visit the architectural wonders of Gaudi in Barcelona, explore the narrow streets of Seville's Jewish Quarter, or catch a bullfight in Madrid",
+  "known_for": [
+    { "title": "⚽️ Football", "color": "green" },
+    { "title": "🍤 Tapas", "color": "red" },
+    { "title": "🍷 Wine", "color": "pink" },
+    { "title": "🏖️ Beaches", "color": "blue" },
+    { "title": "🏰 Barcelona", "color": "yellow" }
+  ],
+  "capital": "Madrid",
+  "major_cities": [
+    "Alicante",
+    "Barcelona",
+    "Bilbao",
+    "Cordoba",
+    "Gijon",
+    "Girona",
+    "Madrid",
+    "Malaga",
+    "Murcia",
+    "Sevilla",
+    "Valencia",
+    "Valladolid",
+    "Vigo",
+    "Zaragoza"
+  ],
+  "official_language": ["Spanish"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Roman Catholic",
+  "national_day": { "title": "National Day", "date": "12 October" },
+  "phone": {
+    "digital_code": "+34",
+    "phone_operators": ["Movistar", "Orange", "Vodacom", "Yoigo"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" },
+      { "title": "Cabify", "url": "https://cabify.com/es" }
+    ],
+    "metro": [
+      { "title": "Barcelona", "url": "https://www.urbanrail.net/eu/es/bcn/barcelona-metro-map.png" },
+      { "title": "Bilbao", "url": "https://www.urbanrail.net/eu/es/bilbao/bilbao-metro-map.png" },
+      { "title": "Madrid", "url": "https://www.urbanrail.net/eu/es/mad/madrid-centre-metro-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is mostly in high end hotels, at €2-5 per day for housekeeping, €5-10 for concierge and €1-2 per bag for porters",
+      "guides": "It is generally not expected to tip your tour guide, except for private tours where you should tip around €20",
+      "restaurants": "It's common practice to tip 10% in cash in restaurants, even if service charge is included",
+      "taxis": "In Spain, it is common to tip 10%, or to round-up the fare"
+    }
+  },
+  "weather": {
+    "title": "Spain has a diverse climate due to its size and varied topography. The coastal regions have a Mediterranean climate with hot, dry summers and mild, wet winters. Inland areas experience more continental climates, with hotter summers and colder winters",
+    "when_to_visit": [
+      {
+        "icon": "🚝",
+        "title": "Sightseeing",
+        "time_period": "Spring (April to June), Autumn (September to November)",
+        "short_description": "Mild, pleasant weather with fewer crowds than the summer months. Excellent time to explore popular cities like Barcelona, Madrid, and Seville"
+      },
+      {
+        "icon": "🏖️",
+        "title": "Best for beaches",
+        "time_period": "Summer (June to August)",
+        "short_description": "Warm temperatures and peak tourist season, particularly in coastal areas. Popular time for beach lovers and those seeking vibrant nightlife"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Coastal areas may experience milder temperatures whilst mountainout areas will see snowfall. Excellent time for winter sports enthusiasts to visit the ski resorts in the Pyrenees and Sierra Nevada mountains"
+      }
+    ],
+    "best_time": "The best time to visit Spain depends on the region and activities you plan to engage in, but generally, the spring months of April to June and the autumn months of September to October offer pleasant temperatures, fewer crowds, and vibrant cultural events"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}
