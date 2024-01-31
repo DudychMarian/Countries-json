@@ -3067,5 +3067,85 @@
         "number": "119"
       }
     ]
+  },
+  {
+    "id": "30",
+    "iso": "UGA",
+    "alpha_2": "UG",
+    "country_name": "Uganda",
+    "cover_image": "https://images.unsplash.com/photo-1551357141-f73a8402ceb3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ug.svg",
+    "short_description": "Embark on an unforgettable adventure in Uganda, where majestic wildlife, stunning landscapes, and warm hospitality await. Go gorilla trekking in the Bwindi Impenetrable Forest, hike to the source of the Nile River, or relax on the shores of Lake Victoria",
+    "known_for": [
+      { "title": "🌋 Volcanoes", "color": "red" },
+      { "title": "🍃 Tea Plantations", "color": "green" },
+      { "title": "🐘 Wildlife Safaris", "color": "pink" },
+      { "title": "🦍 Mountain Gorillas", "color": "blue" }
+    ],
+    "capital": "Kampala",
+    "major_cities": ["Gulu", "Kampala", "Lira"],
+    "official_language": ["English, Swahili"],
+    "currency": { "title": "Ugandan shilling", "symbol": "Sh" },
+    "major_religions": "Christianity",
+    "national_day": { "title": "Independence Day", "date": "9 October" },
+    "phone": {
+      "digital_code": "+256",
+      "phone_operators": ["Africall", "Airtel", "MTN"]
+    },
+    "plug_types": ["G"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "SafeBoda", "url": "https://safeboda.com" },
+        { "title": "Uber", "url": "https://www.uber.com/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Uganda has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from March to May and from October to November, with heavy rainfall, while the dry seasons from December to February and from June to August offer drier conditions",
+      "when_to_visit": [
+        {
+          "icon": "🦓",
+          "title": "Best for safari",
+          "time_period": "December to February, June to September",
+          "short_description": "Favorable weather conditions with lower chances of rainfall. Vegetation is less dense, improving visibility for wildlife spotting in national parks such as Bwindi Impenetrable Forest, Queen Elizabeth National Park, and Murchison Falls National Park"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Wet season",
+          "time_period": "March to May, June to September",
+          "short_description": "Higher rainfall during this period and some areas may become inaccessible"
+        }
+      ],
+      "best_time": "The best time to visit Uganda depends on the region and activities you plan to engage in, but generally, the months of December to February and June to September offer pleasant temperatures and excellent wildlife viewing opportunities"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "911"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
   }
 ]
