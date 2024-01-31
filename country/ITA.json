@@ -1,0 +1,112 @@
+{
+  "id": "25",
+  "iso": "ITA",
+  "alpha_2": "IT",
+  "country_name": "Italy",
+  "cover_image": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/it.svg",
+  "short_description": "From the romantic canals of Venice to the ancient ruins of Rome, Italy is a destination that has it all. Savor the rich flavors of Italian cuisine, sample world-renowned wines, and marvel at the stunning art and architecture. Don't miss the chance to explore the scenic countryside and charming villages",
+  "known_for": [
+    { "title": "🍕 Pizza", "color": "red" },
+    { "title": "🍝 Pasta", "color": "green" },
+    { "title": "🍷 Wine", "color": "pink" },
+    { "title": "🎨 Renaissance art", "color": "blue" },
+    { "title": "🏰 Colosseum", "color": "yellow" }
+  ],
+  "capital": "Rome",
+  "major_cities": [
+    "Bari",
+    "Bologna",
+    "Catania",
+    "Florence",
+    "Genoa",
+    "Milan",
+    "Naples",
+    "Palermo",
+    "Rome",
+    "Turin",
+    "Venice",
+    "Verona"
+  ],
+  "official_language": ["Italian"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Roman Catholic",
+  "national_day": { "title": "Republic Day / Festa della Repubblica", "date": "02 June" },
+  "phone": {
+    "digital_code": "+39",
+    "phone_operators": ["lliad", "TIM", "Vodafone", "Wind Tre"]
+  },
+  "plug_types": ["C", "F", "L"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" }
+    ],
+    "metro": [
+      { "title": "Brescia", "url": "https://www.urbanrail.net/eu/it/bre/brescia-map.gif" },
+      { "title": "Catania", "url": "https://www.urbanrail.net/eu/it/cat/catania-map.png" },
+      { "title": "Genoa", "url": "https://www.urbanrail.net/eu/it/gen/genova-metro-map.png" },
+      { "title": "Milan", "url": "https://www.urbanrail.net/eu/it/mil/milano-map.png" },
+      { "title": "Naples", "url": "https://www.urbanrail.net/eu/it/nap/napoli-metro-map.png" },
+      { "title": "Rome", "url": "https://www.urbanrail.net/eu/it/rom/roma-map.png" },
+      { "title": "Turin", "url": "https://www.urbanrail.net/eu/it/tor/torino-metro-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "Selling alcohol to those under the age of 18 in shops carries a fine between €250 and €1000",
+      "Serving alcohol beverages to those under the age of 16 is a criminal offense and is punished with prison up to one year, if the individual is 16 or 17 it will be treated as an offense that is fined between €250 and €1000"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is not expected but for great service you can tip a nominal amount to staff",
+      "guides": "Tipping guides €5-10 euros depending on the tour length is apprecaited but not expected",
+      "restaurants": "You are not expected to tip if service charge is included. f not you can round up the bill",
+      "taxis": "In Italy you can tip your cab driver, but it isn't expected nor is it common"
+    }
+  },
+  "weather": {
+    "title": "Italy has a diverse climate due to its varied topography. The northern regions have a temperate climate with cold winters and hot summers, while the central and southern regions have a Mediterranean climate with mild, wet winters and hot, dry summers",
+    "when_to_visit": [
+      {
+        "icon": "🤌",
+        "title": "Sightseeing",
+        "time_period": "Spring (March to May), Autumn (September to October)",
+        "short_description": "Generally pleasant temperatures with less crowds than summer months. Perfect for exploring cities like Rome, Florence and Venice or seeing natural landscapes in changing colors like Tuscany"
+      },
+      {
+        "icon": "🌞",
+        "title": "Peak tourist season",
+        "time_period": "Summer (June to August)",
+        "short_description": "Can be hot and crowded in popular beach destinations like Amalfi Coast and Sicily. Northern regions like the Italian Alps will be milder in this period"
+      },
+      {
+        "icon": "⛷️",
+        "title": "For winter sports",
+        "time_period": "Winter (November to February)",
+        "short_description": "Colder temperatures and snowfall in northern regions, attracting tourists to ski resorts. Central and southern regions will be milder"
+      }
+    ],
+    "best_time": "The best time to visit Italy depends on the region, but generally, the months of April to June and September to October offer pleasant temperatures, fewer crowds, and beautiful landscapes"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}
