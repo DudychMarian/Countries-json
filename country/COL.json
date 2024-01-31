@@ -1,0 +1,72 @@
+{
+    "id": "28",
+    "iso": "COL",
+    "alpha_2": "CO",
+    "country_name": "Colombia",
+    "cover_image": "https://images.unsplash.com/photo-1576018753502-1a55b66cc44a?q=80&w=2346&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/co.svg",
+    "short_description": "Experience the warmth and hospitality of the Colombian people, sample delicious cuisine, and explore the stunning natural landscapes of this beautiful country. From the vibrant cities of Bogota and Medellin to the pristine beaches of Cartagena, Colombia is a must- visit destination",
+    "known_for": [{"title": "🎨 Fernando Botero", "color":"red"}, {"title": "🎶 Cumbia music", "color": "green"}, {"title": "🏖️ Caribbean beaches", "color": "pink"}, {"title": "🏞️ Cocora Valley", "color": "blue"}, {"title": "🥘 Colombian cuisine", "color": "yellow"}],
+    "capital": "Bogota",
+    "major_cities": ["Barranquilla", "Bogota", "Bucaramanga", "Cali", "Cartagena", "Cucuta", "Ibague", "Medellin", "Santa Marta", "Soledad", "Villavicencio"],
+    "official_language": ["Spanish"],
+    "currency": {"title": "Colombian peso", "symbol": "$"},
+    "major_religions": "Roman Catholic",
+    "national_day": {"title": "Independence Day", "date": "20 July"},
+    "phone": {
+      "digital_code": "+57",
+      "phone_operators": ["Avantel", "Claro", "Movistar", "Tigo"]
+    },
+    "plug_types": ["A", "B"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [{"title": "Uber", "url": "https://www.uber.com/"}, {"title": "Cabify", "url": "https://cabify.com/es"}, {"title": "InDrive", "url": "https://indrive.com/en/home/"}, {"title": "DiDi", "url": "https://web.didiglobal.com/co/"}, {"title": "FREENOW", "url": "https://www.free-now.com"}, {"title": "maxim", "url": "https://taximaxim.com/co/en/11573-monteria/order-a-taxi-online"}],
+      "metro": [{"title": "Medellín", "url": "https://www.urbanrail.net/am/mede/medellin-map.png"}]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": ["The law prohibits the sale of alcohol to a minor (anyone under the age of 18 years). It is not prohibited for minors to buy, attempt to buy or consume alcohol"]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tip porters USD 1 per bag and housekeepng USD 2 per day",
+        "guides": "Tipping tour guides is customary and 5-10% is a good benchmark",
+        "restaurants": "Most restaurants include a 10% voluntary service charge (known as propina voluntaria). If you had exceptional sevice you can tip additional in cash",
+        "taxis": "Taxis are metered and tipping is rare"
+      }
+    },
+    "weather": {
+      "title": "Colombia has a varied climate due to its diverse geography, but in general, it is characterized by warm and tropical conditions throughout the year in most regions. However, there are variations in temperature and rainfall depending on the elevation, with cooler temperatures in the higher mountainous areas",
+      "when_to_visit": [
+        {
+          "icon": "🏖️",
+          "title": "Dry season",
+          "time_period": "December to March, July to August",
+          "short_description": "Many regions experience lower rainfall and milder temperatures, making it pleasant weather to visit popular destinations like Bogota, Medellin, Cartagena and the Coffee Triangle. Expect crowds as this is peak tourist season"
+        },
+        {
+          "icon": "😎",
+          "title": "Off peak season",
+          "time_period": "April to June, September to November",
+          "short_description": "Shoulder seasons offer travellers a chance to visit when crowds are smaller and the weather is still relatively pleasant in many regions. Be aware these periods have a higher chance of rainfall"
+        }
+      ],
+      "best_time": "The best time to visit Colombia is during the dry season, which typically runs from December to March and July to August, when you can enjoy pleasant weather and fewer rainfall interruptions"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "123"
+      },
+      {
+        "title": "Ambulance",
+        "number": "123"
+      },
+      {
+        "title": "Fire",
+        "number": "123"
+      }
+    ]
+  }
