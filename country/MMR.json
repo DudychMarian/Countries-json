@@ -1,0 +1,83 @@
+{
+  "id": "27",
+  "iso": "MMR",
+  "alpha_2": "MM",
+  "country_name": "Myanmar",
+  "cover_image": "https://images.unsplash.com/photo-1584897356466-858d9b6c53d1?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/mm.svg",
+  "short_description": "Formerly known as Burma, Myanmar is a land of ancient temples, breathtaking landscapes, and friendly locals. Marvel at the golden Shwedagon Pagoda in Yangon, take a hot air balloon ride over the temples of Bagan, and cruise down the Irrawaddy River to Mandalay",
+  "known_for": [
+    { "title": "🌄 Bagan temples", "color": "red" },
+    { "title": "🌅 Sunrises", "color": "green" },
+    { "title": "🍛 Mahinga", "color": "pink" },
+    { "title": "🐘 Elephant camps", "color": "blue" },
+    { "title": "🕌 Shwedagon Pagoda", "color": "yellow" }
+  ],
+  "capital": "Nay Pyi Taw",
+  "major_cities": ["Bago", "Mandalay", "Mawlamyine", "Monywa", "Nay Pyi Taw", "Pathein", "Taunggyi", "Yangon"],
+  "official_language": ["Burmese"],
+  "currency": { "title": "Burmese kyat", "symbol": "Ks" },
+  "major_religions": "Theravada Buddhism",
+  "national_day": { "title": "", "date": "" },
+  "phone": {
+    "digital_code": "+95",
+    "phone_operators": ["MPT", "Mytel", "Ooredoo", "Telenor"]
+  },
+  "plug_types": ["A", "C", "D", "G"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [{ "title": "Grab", "url": "https://www.grab.com/" }]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "None",
+      "guides": "None",
+      "restaurants": "None",
+      "taxis": "None"
+    }
+  },
+  "weather": {
+    "title": "Myanmar has a tropical monsoon climate with a wet and dry season. The wet season, from May to October, brings heavy rainfall, while the dry season, from November to April, is drier and cooler. Temperatures are generally high throughout the year",
+    "when_to_visit": [
+      {
+        "icon": "🏞️",
+        "title": "Sightseeing",
+        "time_period": "Dry season (November to February)",
+        "short_description": "Pleasant temperatures, low humidity, and clear skies, making it ideal for exploring major cities like Yangon and Mandalay, temple hopping in Bagan or seeking retreat at Lake Inle"
+      },
+      {
+        "icon": "💦",
+        "title": "Water festivals",
+        "time_period": "March to May",
+        "short_description": "Temperatures soar during the hot and dry season, making outdoor activities challenging. This period is also the time for water festivals, particularly the famous Thingyan Water Festival in April, which offers a unique cultural experience"
+      },
+      {
+        "icon": "🎋",
+        "title": "Rainy season",
+        "time_period": "June to October",
+        "short_description": "Frequent showers and high humidity, with some areas becoming inaccessible due to flooding. Still possible to visit during this period as showers are short-lived"
+      }
+    ],
+    "best_time": "The best time to visit Myanmar depends on the region, but generally, the months of November to February offer milder temperatures, lower chances of rainfall, and better conditions for exploring cultural sites and natural landscapes"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "999"
+    },
+    {
+      "title": "Ambulance",
+      "number": "999"
+    },
+    {
+      "title": "Fire",
+      "number": "999"
+    }
+  ]
+}
