@@ -1,0 +1,99 @@
+{
+  "id": "24",
+  "iso": "ZAF",
+  "alpha_2": "ZA",
+  "country_name": "South Africa",
+  "cover_image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/za.svg",
+  "short_description": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "known_for": [
+    { "title": "🍷 Wine", "color": "red" },
+    { "title": "🏄 Surfing", "color": "green" },
+    { "title": "🏖️ Beaches", "color": "pink" },
+    { "title": "🏞️ Caves", "color": "blue" },
+    { "title": "🔥 Braai", "color": "yellow" },
+    { "title": "🦏 Kruger National Park", "color": "purple" }
+  ],
+  "capital": "Pretoria",
+  "major_cities": [
+    "Benoni",
+    "Bloemfontein",
+    "Cape Town",
+    "Durban",
+    "East London",
+    "Johannesburg",
+    "Pietermaritzburg",
+    "Port Elizabeth",
+    "Pretoria",
+    "Vereeniging"
+  ],
+  "official_language": ["Afrikaans, English, Ndebele, Pedi, Sotho, Swazi, Tsonga, Tswana, Venda, Xhosa, Zulu"],
+  "currency": { "title": "South African rand", "symbol": "R" },
+  "major_religions": "Chrisianity",
+  "national_day": { "title": "Freedom Day", "date": "27 April" },
+  "phone": {
+    "digital_code": "+27",
+    "phone_operators": ["Cell C", "MTN", "Telkom", "Vodacom"]
+  },
+  "plug_types": ["C", "M"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+      { "title": "Uber", "url": "https://www.uber.com/" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tip 10-15 Rand per night for housekeeping and 10 Rand perbag for porters",
+      "guides": "It's considered good etiquette to tip your guide 100 Rand per person per day or 10%",
+      "restaurants": "It is customary to tip 10-15% of the bill. Gratuity may automatically be added for larger groups",
+      "taxis": "Gratuity is not included in taxi fares so people generally tip 10%"
+    }
+  },
+  "weather": {
+    "title": "South Africa has a varied climate due to its size and diverse topography. The coastal regions have a Mediterranean climate, while the inland areas have a more temperate climate. The northeastern regions have a subtropical climate, and the western regions have a desert climate",
+    "when_to_visit": [
+      {
+        "icon": "🦒",
+        "title": "Best for safari",
+        "time_period": "Winter (May to September)",
+        "short_description": "Weather is cooler and the vegetation is less dense, making it easier to spot animals in national parks and game reserves. This season is off peak for tourists"
+      },
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "November to February",
+        "short_description": "Warm to hot temperatures, particularly along coastal regions. Great for beach activities but expect more crowds during this period"
+      },
+      {
+        "icon": "🚗",
+        "title": "Sightseeing",
+        "time_period": "Spring (September and October), Autumn (March and April)",
+        "short_description": "Shoulder seasons offer mild weather and lush landscapes"
+      }
+    ],
+    "best_time": "The best time to visit South Africa depends on the region and activities you plan to engage in, but generally, the months of April to September offer milder temperatures, lower chances of rainfall, and better conditions for wildlife viewing and exploring national parks"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "10 111"
+    },
+    {
+      "title": "Ambulance",
+      "number": "10 177"
+    },
+    {
+      "title": "Fire",
+      "number": "10 177"
+    }
+  ]
+}
