@@ -1,0 +1,88 @@
+{
+  "id": "26",
+  "iso": "KEN",
+  "alpha_2": "KE",
+  "country_name": "Kenya",
+  "cover_image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/ke.svg",
+  "short_description": "A land of diverse wildlife and breathtaking landscapes, Kenya is a destination that will leave you in awe. Embark on a safari in the Masai Mara, hike to the top of Mount Kenya, and relax on the pristine beaches of the coast. Don't forget to sample the delicious flavors of Kenyan cuisine, such as nyama choma and pilau",
+  "known_for": [
+    { "title": "🌳 Mount Kenya", "color": "red" },
+    { "title": "🍲 Ugali", "color": "green" },
+    { "title": "🎨 African art", "color": "pink" },
+    { "title": "🏞️ Maasai Mara National Reserve", "color": "blue" },
+    { "title": "🦁 Safari", "color": "yellow" }
+  ],
+  "capital": "Nairobi",
+  "major_cities": ["Eldoret", "Kisumu", "Malindi", "Mombasa", "Nairobi", "Nakuru"],
+  "official_language": ["English"],
+  "currency": { "title": "Kenyan shillong", "symbol": "Sh" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Jamhuri Day", "date": "12 December" },
+  "phone": {
+    "digital_code": "+254",
+    "phone_operators": ["Airtel", "Safaricom", "Telkom Kenya"]
+  },
+  "plug_types": ["G"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "InDrive", "url": "https://indriver.com/en/home/" },
+      { "title": "Hava", "url": "https://www.hava.bz/" },
+      { "title": "Uber", "url": "https://www.uber.com/" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tip porters 50-200 shillings and housekeeping 200-500 shillings per week",
+      "guides": "If you go on a tour in Kenya, expect to tip your tour guide between 100-200 shillings per day, per person",
+      "restaurants": "Leave 10% tip of the total bill when eating out in Kenya",
+      "taxis": "Taxi drivers don't expect tips but rounding up to the nearest 100 shillings will be appreciated"
+    }
+  },
+  "weather": {
+    "title": "Kenya has a diverse climate due to its varying topography. The coastal regions have a tropical climate with high humidity, while the inland areas have a more temperate climate with cooler temperatures. It experiences two rainy seasons, the long rains from March to May and the short rains from October to December",
+    "when_to_visit": [
+      {
+        "icon": "🐃",
+        "title": "Great Migration",
+        "time_period": "Dry season (June to October)",
+        "short_description": "Lower rainfall and generally sunny and warm weather, making it an ideal time for wildlife viewing. This period is particularly popular for the 'Great Migration', the annual wildebeest migration in the Maasai Mara National Reserve"
+      },
+      {
+        "icon": "😎",
+        "title": "Off peak season",
+        "time_period": "November to April",
+        "short_description": "Shoulder seasons offer a quieter time to visit with fewer tourists and lush landscapes"
+      },
+      {
+        "icon": "⛈️",
+        "title": "Wet season",
+        "time_period": "April to June, October to December",
+        "short_description": "Be prepared for occasional rain showers and muddy conditions, especially in safari areas"
+      }
+    ],
+    "best_time": "The best time to visit Kenya depends on the region, but generally, the months of January to March and July to October offer good wildlife viewing opportunities and pleasant weather for safaris"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "999"
+    },
+    {
+      "title": "Ambulance",
+      "number": "999"
+    },
+    {
+      "title": "Fire",
+      "number": "999"
+    }
+  ]
+}
