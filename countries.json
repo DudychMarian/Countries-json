@@ -3147,5 +3147,90 @@
         "number": "112"
       }
     ]
+  },
+  {
+    "id": "31",
+    "iso": "SDN",
+    "alpha_2": "SD",
+    "country_name": "Sudan",
+    "cover_image": "https://images.unsplash.com/photo-1608666052855-a7431e7f7c52?q=80&w=2226&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/sd.svg",
+    "short_description": "Discover the mysteries of the African desert in Sudan, where ancient pyramids, hospitable locals, and stunning landscapes beckon. Visit the pyramids of Meroe, explore the bustling souqs of Khartoum, or take a camel ride through the Nubian Desert",
+    "known_for": [
+      { "title": "🎭 Folklore", "color": "red" },
+      { "title": "🏛️ Nubian Pyramids", "color": "green" },
+      { "title": "🏜️ Desert", "color": "yellow" },
+      { "title": "🦁 Wildlife", "color": "blue" }
+    ],
+    "capital": "Khartoum",
+    "major_cities": ["El Fasher", "El Obeid", "Kassala", "Khartoum", "Omdurman", "Port Sudan", "Wad Medani"],
+    "official_language": ["Arabic"],
+    "currency": { "title": "Sudanese pound", "symbol": "ج. س." },
+    "major_religions": "Islam",
+    "national_day": { "title": "National Day", "date": "1 January" },
+    "phone": {
+      "digital_code": "+249",
+      "phone_operators": ["MTN", "Sudani", "Zain"]
+    },
+    "plug_types": ["C", "D"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Lemon Taxi", "url": "http://lemontaxi.sd/" },
+        { "title": "Tirhal", "url": "https://www.tirhal.net" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "Prohibited",
+      "alcohol_parchase_age": "Prohibited",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Sudan has a desert and semi-arid climate with hot temperatures year-round. It experiences very little rainfall, and temperatures can reach extreme levels, particularly in the summer months",
+      "when_to_visit": [
+        {
+          "icon": "🛕",
+          "title": "Winter",
+          "time_period": "November to February",
+          "short_description": "More moderate temperatures, making it suitable for outdoor activities and exploring historical sites like the pyramids of Meroe and the ancient city of Dongola"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Green season",
+          "time_period": "June to September",
+          "short_description": "Heavy rainfall, particularly in southern and western parts of the country. Certain areas may be inaccesible during this rainy season"
+        },
+        {
+          "icon": "🥵",
+          "title": "Summer",
+          "time_period": "March to June",
+          "short_description": "Scorching temperatures make travel during this period difficult"
+        }
+      ],
+      "best_time": "The best time to visit Sudan is from November to February when the weather is relatively cooler, and you can comfortably explore historical sites, enjoy desert expeditions, and experience the country's rich cultural heritage"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "999"
+      },
+      {
+        "title": "Ambulance",
+        "number": "999"
+      },
+      {
+        "title": "Fire",
+        "number": "999"
+      }
+    ]
   }
 ]
