@@ -3715,5 +3715,106 @@
         "number": "119"
       }
     ]
+  },
+  {
+    "id": "37",
+    "iso": "POL",
+    "alpha_2": "PL",
+    "country_name": "Poland",
+    "cover_image": "https://images.unsplash.com/photo-1607078486875-a697a8a38e87?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/pl.svg",
+    "short_description": "A country with a tumultuous past, Poland has emerged as a vibrant destination for culture, history, and food. Visit the charming old town of Krakow, tour the sobering Auschwitz-Birkenau Memorial, or indulge in pierogi and vodka",
+    "known_for": [
+      { "title": "🍴 Pierogi", "color": "red" },
+      { "title": "🍺 Beer", "color": "green" },
+      { "title": "🎻 Music", "color": "pink" },
+      { "title": "🏊 Lakes", "color": "blue" },
+      { "title": "👑 Castles", "color": "yellow" }
+    ],
+    "capital": "Warsaw",
+    "major_cities": [
+      "Bialystok",
+      "Bydgoszcz",
+      "Gdansk",
+      "Katowice",
+      "Krakow",
+      "Lodz",
+      "Poznan",
+      "Szczecin",
+      "Warsaw",
+      "Wroclaw"
+    ],
+    "official_language": ["Polish"],
+    "currency": { "title": "Polish zloty", "symbol": "zl" },
+    "major_religions": "Roman Catholic",
+    "national_day": { "title": "National Independence Day", "date": "11 November" },
+    "phone": {
+      "digital_code": "+48",
+      "phone_operators": ["Orange", "Play", "Plus", "T-Mobile"]
+    },
+    "plug_types": ["C", "E"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "FREENOW", "url": "https://www.free-now.com" },
+        { "title": "Uber", "url": "https://www.uber.com/" }
+      ],
+      "metro": [{ "title": "Warsaw", "url": "https://www.urbanrail.net/eu/pl/war/warszawa-metro-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Safe to drink",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [
+        "Drinking in public places, with the exception of designated drinking zones, is prohibited regardless of age"
+      ]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping for good service is not obligatory in Poland but 10PLN per night would be considered a sign of good service",
+        "guides": "If the tour guide was great, it's customary to tip 10-15%",
+        "restaurants": "Tipping is expected in restaurants between 10-15%",
+        "taxis": "Tipping etiquette is 10% if the taxi is on time but don't feel obliged"
+      }
+    },
+    "weather": {
+      "title": "Poland has a temperate climate with moderately cold winters and mild summers. It experiences moderate rainfall throughout the year, with the highest precipitation occurring during the summer months",
+      "when_to_visit": [
+        {
+          "icon": "☀️",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Most favorable weather conditions with mild to warm temperatures and longer daylight hours. This is peak tourist season especially in popular destinations such as Krakow, Warsaw, Gdansk, and Zakopane"
+        },
+        {
+          "icon": "🏰",
+          "title": "Sightseeing",
+          "time_period": "Spring (April to May), Autumn (September to October)",
+          "short_description": "Great time to visit for milder temperatures and fewer crowds. Witness the blossoming of flowers in spring or the beautiful fall foliage in autumn across Poland's natural landscapes"
+        },
+        {
+          "icon": "❄️",
+          "title": "Winter",
+          "time_period": "December to February",
+          "short_description": "Cold temperatures, particularly in the northern and eastern parts of the country. Perfect time for winter sports in the Tatra Mountains or visiting festive markets"
+        }
+      ],
+      "best_time": "The best time to visit Poland is from May to September when you can enjoy mild temperatures, longer daylight hours, and various cultural events and festivals held throughout the country"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "112"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
   }
 ]
