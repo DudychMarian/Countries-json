@@ -3924,5 +3924,104 @@
         "number": "911"
       }
     ]
+  },
+  {
+    "id": "39",
+    "iso": "MAR",
+    "alpha_2": "MA",
+    "country_name": "Morocco",
+    "cover_image": "https://images.unsplash.com/photo-1569383746724-6f1b882b8f46?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ma.svg",
+    "short_description": "With its vibrant markets, colorful architecture, and delicious cuisine, Morocco is a feast for the senses. Take a camel ride through the Sahara desert, wander through the narrow alleyways of Marrakech's medina, and indulge in a cup of sweet mint tea",
+    "known_for": [
+      { "title": "🌅 Sunsets", "color": "red" },
+      { "title": "🍢 Tagine", "color": "green" },
+      { "title": "🏜️ Sahara desert", "color": "pink" },
+      { "title": "🐪 Camel trekking", "color": "blue" },
+      { "title": "🕌 Marrakesh", "color": "yellow" }
+    ],
+    "capital": "Rabat",
+    "major_cities": [
+      "Agadir",
+      "Cassablanca",
+      "Fes",
+      "Kenitra",
+      "Marrakech",
+      "Meknes",
+      "Oujda-Angad",
+      "Rabat",
+      "Safi",
+      "Tangier"
+    ],
+    "official_language": ["Arabic"],
+    "currency": { "title": "Moroccan dirham", "symbol": "د.م." },
+    "major_religions": "Islam",
+    "national_day": { "title": "Throne Day", "date": "30 July" },
+    "phone": {
+      "digital_code": "+212",
+      "phone_operators": ["Maroc Telecom", "Orange", "inwi"]
+    },
+    "plug_types": ["C", "E"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Roby", "url": "https://www.roby.taxi/" },
+        { "title": "Careem", "url": "https://www.careem.com/" },
+        { "title": "Heetch", "url": "https://www.heetch.com/en/passenger" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "16 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tip the porter 10-20 dirhams and housekeeping 20 dirhams per day",
+        "guides": "Most organized tours do not require a tip and for unofficial guides offer maximum 10 dirhams as a thanks",
+        "restaurants": "Meals are generally inexpensive so add 10-15% to your bull and/or 20-30 dirhams on the table in cash to show appreciation",
+        "taxis": "Most taxi drivers appreciate you rounding up the fare"
+      }
+    },
+    "weather": {
+      "title": "Morocco has a diverse climate due to its varying geography. The coastal regions have a Mediterranean climate with mild, wet winters and hot, dry summers. Inland areas experience a more desert-like climate with hot temperatures and little rainfall",
+      "when_to_visit": [
+        {
+          "icon": "🏔️",
+          "title": "Sightseeing",
+          "time_period": "Spring (April to May), Autumn (September to October)",
+          "short_description": "Generally sunny with fewer crowds and mild temperatures. Perfect for hiking the Atlas Mountains or visiting famous cities like Marrakech, Fez and Chefchaouen. Sea temperatures will still be warm in this period"
+        },
+        {
+          "icon": "🥵",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Higher temperatures, especially in the interior and desert regions. Coastal areas like Casablanca and Essaouira provide some relief with cooler sea breezes but they will be crowded during this time"
+        },
+        {
+          "icon": "🏄",
+          "title": "Winter sun",
+          "time_period": "December to February",
+          "short_description": "Cooler temperatures, particularly in the mountains and desert regions. Coastal areas and cities like Marrakech still have relatively mild temperatures, making it a popular destination for winter sun seekers. The Atlas Mountains offer opportunities for winter sports like skiing"
+        }
+      ],
+      "best_time": "The best time to visit Morocco depends on the region, but generally, the spring months of March to May and the autumn months of September to November offer milder temperatures and comfortable weather for exploring the country's diverse landscapes and cities"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "19"
+      },
+      {
+        "title": "Ambulance",
+        "number": "15"
+      },
+      {
+        "title": "Fire",
+        "number": "15"
+      }
+    ]
   }
 ]
