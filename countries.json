@@ -3548,5 +3548,92 @@
         "number": "14"
       }
     ]
+  },
+  {
+    "id": "35",
+    "iso": "IRQ",
+    "alpha_2": "IQ",
+    "country_name": "Iraq",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1692137225589-a6fd13ef88c1?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/iq.svg",
+    "short_description": "Home to some of the world's most breathtaking ancient sites, Iraq is a must- visit destination for history lovers. Explore the ruins of Babylon and marvel at the ancient architecture of the Erbil Citadel. Indulge in the rich flavors of Iraqi cuisine, such as lamb kebabs and spicy biryani",
+    "known_for": [
+      { "title": "🍲 Kebab", "color": "red" },
+      { "title": "Iraqi theatre", "color": "green" },
+      { "title": "🎶 Iraqi music", "color": "blue" },
+      { "title": "🏜️ Desert landscapes", "color": "red" },
+      { "title": "🕌 Islamic architecture", "color": "yellow" }
+    ],
+    "capital": "Baghdad",
+    "major_cities": ["As Sulaymaniyah", "Baghdad", "Basrah", "Erbil", "Kirkuk"],
+    "official_language": ["Arabic, Kurdish"],
+    "currency": { "title": "Iraqi dinar", "symbol": "ع.د" },
+    "major_religions": "Islam",
+    "national_day": { "title": "National Iraqi Day", "date": "3 October" },
+    "phone": {
+      "digital_code": "+964",
+      "phone_operators": ["Asia Cell", "Korek", "Zain"]
+    },
+    "plug_types": ["C", "D", "G"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "Obr", "url": "https://obr.taxi/" },
+        { "title": "Careem", "url": "https://www.careem.com/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise caution",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Iraq has a hot desert climate characterized by extremely hot summers and mild winters. It experiences very little rainfall, and temperatures can reach scorching levels, particularly in the southern regions",
+      "when_to_visit": [
+        {
+          "icon": "🕌",
+          "title": "Sightseeing",
+          "time_period": "Spring (March to May), Autumn (September to November)",
+          "short_description": "Mild and pleasant weather, with cooler temperatures than summer months. Perfect for exploring historical sites like Babylon and Erbil or enjoying natural attractions"
+        },
+        {
+          "icon": "🥵",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Extremely hot temperatures, espeically in southern parts of the country"
+        },
+        {
+          "icon": "🗻",
+          "title": "Winter",
+          "time_period": "December to February",
+          "short_description": "Cooler temperatures particularly in northern, mountainous regions. Some chance of rainfall and even snowfall"
+        }
+      ],
+      "best_time": "The best time to visit Iraq is during the spring months of March to May and the autumn months of September to November when the weather is mild, and you can explore the country's historical sites comfortably"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "104"
+      },
+      {
+        "title": "Ambulance",
+        "number": "122"
+      },
+      {
+        "title": "Fire",
+        "number": "115"
+      }
+    ]
   }
 ]
