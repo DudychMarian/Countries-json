@@ -3340,5 +3340,107 @@
         "number": "112"
       }
     ]
+  },
+  {
+    "id": "33",
+    "iso": "ARG",
+    "alpha_2": "AR",
+    "country_name": "Argentina",
+    "cover_image": "https://images.unsplash.com/photo-1599094792743-7df3e8870800?q=80&w=2316&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ar.svg",
+    "short_description": "From the cosmopolitan capital of Buenos Aires to the breathtaking landscapes of Patagonia, Argentina is a country of contrasts and wonders. Sample world- renowned wines, dance the tango, and experience the warm hospitality of the Argentine people",
+    "known_for": [
+      { "title": "⚽️ Football", "color": "green" },
+      { "title": "🌋 Perito Moreno Glacier", "color": "red" },
+      { "title": "🍷 Malbec wine", "color": "pink" },
+      { "title": "🎶 Tango", "color": "blue" },
+      { "title": "🥩 Beef", "color": "yellow" }
+    ],
+    "capital": "Buenos Aires",
+    "major_cities": [
+      "Buenos Aires",
+      "Cordoba",
+      "La Plata",
+      "Mar del Plata",
+      "Mendoza",
+      "Rosario",
+      "Salta",
+      "Sun Juan",
+      "San Miguel de Tucuman",
+      "Santa Fe"
+    ],
+    "official_language": ["Spanish"],
+    "currency": { "title": "Argentine peso", "symbol": "$" },
+    "major_religions": "Roman Catholic",
+    "national_day": { "title": "Revolution Day", "date": "25 May" },
+    "phone": {
+      "digital_code": "+54",
+      "phone_operators": ["Claro", "Movistar", "Nextel", "Personal"]
+    },
+    "plug_types": ["C", "I"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "Cabify", "url": "https://cabify.com/es" },
+        { "title": "maxim", "url": "https://taximaxim.com/ar/en/10703-mendoza/order-a-taxi-online" },
+        { "title": "FREENOW", "url": "https://www.free-now.com/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "DiDi", "url": "https://web.didiglobal.com/ar/" }
+      ],
+      "metro": [{ "title": "Buenos Aires", "url": "https://www.urbanrail.net/am/buen/buenos-aires-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tip porters 2-3 pesos per bag and maids a few pesos per day",
+        "guides": "It's good etiquette to tip 10-20% for paid tours",
+        "restaurants": "Tipping is not mandatory but 10% is sufficient if you enjoyed the service",
+        "taxis": "Not required but many leave change and round up to the nearest peso"
+      }
+    },
+    "weather": {
+      "title": "Argentina has a diverse climate due to its vast size and varying topography. The country experiences everything from subtropical in the north to arid and temperate climates in the central regions, and subpolar in the southern areas, with a range of temperatures, precipitation patterns, and seasons",
+      "when_to_visit": [
+        {
+          "icon": "⛰️",
+          "title": "Sightseeing",
+          "time_period": "Spring (September to November), Autumn (March to May)",
+          "short_description": "Mild and pleasant temperatures make it perfect to explore Argentina's cities or beautiful national parks like Patagonia or Iguazu Falls"
+        },
+        {
+          "icon": "🏖️",
+          "title": "Beach time",
+          "time_period": "December to February",
+          "short_description": "Can be hot, particularly in northern regions. Popular time for beach destinations like Mar del Plata"
+        },
+        {
+          "icon": "🥶",
+          "title": "Winter",
+          "time_period": "June to August",
+          "short_description": "Colder temperatures in southern regions and the Andes are great for winter sports. City breaks in northern regions like Buenos Aires are still possible due to milder winters"
+        }
+      ],
+      "best_time": "The best time to visit Argentina is during the spring and autumn seasons when the weather is mild, offering comfortable temperatures and fewer crowds, making it ideal for exploring diverse landscapes, cities, and cultural attractions"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "911"
+      },
+      {
+        "title": "Ambulance",
+        "number": "107"
+      },
+      {
+        "title": "Fire",
+        "number": "100"
+      }
+    ]
   }
 ]
