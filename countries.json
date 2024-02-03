@@ -4113,5 +4113,114 @@
         "number": "911"
       }
     ]
+  },
+  {
+    "id": "41",
+    "iso": "UKR",
+    "alpha_2": "UA",
+    "country_name": "Ukraine",
+    "cover_image": "https://images.unsplash.com/photo-1561629625-edea42c6da34?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ua.svg",
+    "short_description": "Explore the rich history, vibrant culture, and delicious cuisine of Ukraine, where a blend of Slavic, Jewish, and European influences come together. Visit the ancient city of Lviv, indulge in the local dumplings called varenyky, or marvel at the stunning architecture of Kyiv",
+    "known_for": [
+      { "title": "🍲 Borscht", "color": "red" },
+      { "title": "🎨 Art", "color": "green" },
+      { "title": "🏛️ Kiev Pechersk Lavra", "color": "pink" },
+      { "title": "🏰 Castles", "color": "blue" }
+    ],
+    "capital": "Kyiv",
+    "major_cities": [
+      "Kharkiv",
+      "Kryvyy Rih",
+      "Kyiv",
+      "Lahans'k",
+      "Lviv",
+      "Mariupol'",
+      "Nizhyn",
+      "Odesa",
+      "Sevastopol'",
+      "Zaporizhzhya"
+    ],
+    "official_language": ["Ukrainian"],
+    "currency": { "title": "Ukrainian hryvna", "symbol": "₴" },
+    "major_religions": "Orthodox",
+    "national_day": { "title": "Independence Day", "date": "24 August" },
+    "phone": {
+      "digital_code": "+380",
+      "phone_operators": ["3Mob", "Kyivstar", "Vodafone", "lifecell"]
+    },
+    "plug_types": ["C", "F"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Uber", "url": "https://www.uber.com/gb/en/" },
+        { "title": "Uklon", "url": "https://uklon.com.ua/" }
+      ],
+      "metro": [
+        { "title": "Dnipro", "url": "https://www.urbanrail.net/eu/ua/dnipro/dnipro-metro-map.png" },
+        { "title": "Kharkiv", "url": "https://www.urbanrail.net/eu/ua/kha/kharkiv-metro-map.png" },
+        { "title": "Kyiv", "url": "https://www.urbanrail.net/eu/ua/kiev/kyiv-metro-map.png" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping in hotels is appreciated but not expected beyond leaving your change",
+        "guides": "In Ukraine you can tip your tour guide the equivalent of USD 15-20 per day per person, if you receive good service",
+        "restaurants": "Tipping isn't part of the culture but if you wish to, aim for 10% of the bill",
+        "taxis": "Taxi drivers don't expect tips but you can round up the fare as a kind gesture"
+      }
+    },
+    "weather": {
+      "title": "Ukraine has a temperate-continental climate with hot summers and cold winters. It experiences moderate rainfall throughout the year, with the highest precipitation occurring during the summer months",
+      "when_to_visit": [
+        {
+          "icon": "⛰️",
+          "title": "Sightseeing",
+          "time_period": "Spring (March to May), Autumn (September to November)",
+          "short_description": "Milder temperatures with landscapes in full color. Great time to explore historical sites and visit destinations like Kyiv and Lviv"
+        },
+        {
+          "icon": "🍇",
+          "title": "For wine lovers",
+          "time_period": "Autumn (September to November)",
+          "short_description": "With the landscapes in vibrant fall colours, visit vineyards in the regions of Crimea and Odessa"
+        },
+        {
+          "icon": "☀️",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Hot temperatures, particularly in the southern regions. Popular time for Black Sea coastal resorts and activities in the Carpathian Mountains"
+        },
+        {
+          "icon": "Winter",
+          "title": "🌨️",
+          "time_period": "December to February",
+          "short_description": "Cold temperatures, often below freezing in northern and eastern parts of the country. Good time to experience Ukrainian winter traditions, enjoy winter sports in the Carpathian Mountains, and explore the festive atmosphere during the holiday season"
+        }
+      ],
+      "best_time": "The best time to visit Ukraine is from May to September when you can enjoy mild temperatures, longer daylight hours, and various cultural events and festivals held throughout the country."
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "102"
+      },
+      {
+        "title": "Ambulance",
+        "number": "103"
+      },
+      {
+        "title": "Fire",
+        "number": "101"
+      }
+    ]
   }
 ]
