@@ -4570,5 +4570,99 @@
         "number": "911"
       }
     ]
+  },
+  {
+    "id": "46",
+    "iso": "MYS",
+    "alpha_2": "MY",
+    "country_name": "Malaysia",
+    "cover_image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?q=80&w=2328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/my.svg",
+    "short_description": "From the bustling city of Kuala Lumpur to the pristine rainforests of Borneo, Malaysia is a land of contrasts. Explore its diverse cultures, sample its delicious cuisine, and soak up the natural beauty of this incredible country",
+    "known_for": [
+      { "title": "🌳 Rainforests", "color": "red" },
+      { "title": "🌴 Langkawi", "color": "green" },
+      { "title": "🍲 Nasi lemak", "color": "pink" },
+      { "title": "🏯 Batu Caves", "color": "blue" },
+      { "title": "🥜 Satay", "color": "yellow" }
+    ],
+    "capital": "Kuala Lumpur",
+    "major_cities": [
+      "George Town",
+      "Ipoh",
+      "Johor Bahru",
+      "Kuala Lumpur",
+      "Malacca",
+      "Putrajaya",
+      "Seremban",
+      "Shah Alam"
+    ],
+    "official_language": ["Malay"],
+    "currency": { "title": "Malaysian ringgit", "symbol": "RM" },
+    "major_religions": "Islam",
+    "national_day": { "title": "Independence Day / Malaysia Day", "date": "31 August" },
+    "phone": {
+      "digital_code": "+60",
+      "phone_operators": ["Celcom", "Digi", "Maxis", "U Mobile", "Yes 4G"]
+    },
+    "plug_types": ["G"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "maxim", "url": "https://taximaxim.com/my/en/3830-kuantan/order-a-taxi-online" },
+        { "title": "Grab", "url": "https://www.grab.com/" }
+      ],
+      "metro": [{ "title": "Kuala Lumpur", "url": "https://www.urbanrail.net/as/kual/kuala-lumpur-map-centre.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": [
+        "Anyone caught selling to persons under 21 can be fined up to RM10,000 and jailed up to 2 years",
+        "Malaysian identity cards include a designation of religion, which allows enforcement of the religion-based sales restriction"
+      ]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping is not required or expected as service charge covers this. If you want to tip, aim for RM 2-10 per staff member",
+        "guides": "A private tour guide should receive RM 20 - 30 per day, per person. Group tours don't need a tip but you can offer 10% as a gesture",
+        "restaurants": "Tipping is not required as a 10% service charge is usually added to the bill",
+        "taxis": "Tipping taxi drivers is not required. If you hire a driver for a few days, tip RM 25-50"
+      }
+    },
+    "weather": {
+      "title": "Malaysia has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from October to March, with heavy rainfall, and a drier season from April to September. The country is known for its lush rainforests and diverse wildlife",
+      "when_to_visit": [
+        {
+          "icon": "🌞",
+          "title": "Best for Peninsular Malaysia",
+          "time_period": "December to February",
+          "short_description": "Less rainfall and lower humidity, offering perfect weather for outdoor activities and popular destinations like Kuala Lumpur, Malacca, and Penang. Rain showers can still happen year-round but are typically short"
+        },
+        {
+          "icon": "🦧",
+          "title": "Best for Borneo",
+          "time_period": "Dry season (April to September)",
+          "short_description": "Clear skies and optimal conditions for exploring lush rainforests, wildlife reserves and the iconic Mount Kinabalu. Note there is a risk of rainfall on Borneo all year round, including main states Sabah and Sarawak"
+        }
+      ],
+      "best_time": "The best time to visit Malaysia depends on the region, but generally, the months of March to October offer good weather conditions, lower chances of rainfall, and pleasant temperatures for exploring the country's diverse landscapes"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "999"
+      },
+      {
+        "title": "Ambulance",
+        "number": "999"
+      },
+      {
+        "title": "Fire",
+        "number": "994"
+      }
+    ]
   }
 ]
