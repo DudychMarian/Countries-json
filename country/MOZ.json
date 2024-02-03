@@ -1,0 +1,82 @@
+{
+  "id": "48",
+  "iso": "MOZ",
+  "alpha_2": "MZ",
+  "country_name": "Mozambique",
+  "cover_image": "https://images.unsplash.com/photo-1565104165703-0777aab1b278?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/mz.svg",
+  "short_description": "This African country boasts miles of unspoiled coastline, vibrant coral reefs, and a rich cultural heritage. Visit the Bazaruto Archipelago for some of the best diving in the world, explore the historic town of llha de Mozambique, and sample some of the delicious seafood cuisine",
+  "known_for": [
+    { "title": "🌊 Bazaruto Archipelago", "color": "blue" },
+    { "title": "🎶 Marrabenta", "color": "green" },
+    { "title": "🏖️ Beaches", "color": "pink" },
+    { "title": "🐘 Gerongosa National Park", "color": "red" },
+    { "title": "🦞 Seafood", "color": "yellow" }
+  ],
+  "capital": "Maputo",
+  "major_cities": ["Beira", "Chimoio", "Maputo", "Matola", "Nampula"],
+  "official_language": ["Portuguese"],
+  "currency": { "title": "Mozambican metical", "symbol": "MT" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Independence Day", "date": "25 June" },
+  "phone": {
+    "digital_code": "+258",
+    "phone_operators": ["Movitel", "Vodacom", "mcel"]
+  },
+  "plug_types": ["C", "F", "M"],
+  "transport": {
+    "driving_side": "Left"
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "None",
+      "guides": "None",
+      "restaurants": "None",
+      "taxis": "None"
+    }
+  },
+  "weather": {
+    "title": "Mozambique has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from November to April, with heavy rainfall and the possibility of cyclones, while the dry season from May to October offers drier conditions",
+    "when_to_visit": [
+      {
+        "icon": "🌞",
+        "title": "Dry season",
+        "time_period": "April to September",
+        "short_description": "Comfortable temperatures, minimal rainfall, and optimal conditions for outdoor activities and beach relaxation"
+      },
+      {
+        "icon": "🦓",
+        "title": "Best for safari",
+        "time_period": "June to August",
+        "short_description": "Coolest and driest period, making it a popular time for wildlife safaris and visiting the pristine beaches along the Mozambican coast. Note that mornings and evenings will still be chilly"
+      },
+      {
+        "icon": "⛈️",
+        "title": "Wet season",
+        "time_period": "October to March",
+        "short_description": "High temperatures, humidity, and occasional heavy rainfall. Some areas may become inaccessible during this time"
+      }
+    ],
+    "best_time": "The best time to visit Mozambique depends on the region, but generally, the months of April to October offer pleasant temperatures, lower chances of rainfall, and ideal conditions for beach activities and wildlife viewing"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "119"
+    },
+    {
+      "title": "Ambulance",
+      "number": "117"
+    },
+    {
+      "title": "Fire",
+      "number": "198"
+    }
+  ]
+}
