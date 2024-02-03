@@ -4840,5 +4840,99 @@
         "number": "198"
       }
     ]
+  },
+  {
+    "id": "49",
+    "iso": "NPL",
+    "alpha_2": "NP",
+    "country_name": "Nepal",
+    "cover_image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/np.svg",
+    "short_description": "Home to the Himalayas and Mount Everest, Nepal is a must-visit destination for outdoor enthusiasts and spiritual seekers alike. Trek to Everest Base Camp, go white-water rafting on the Trisuli River, and explore the ancient city of Kathmandu",
+    "known_for": [
+      { "title": "🍲 Dal bhat", "color": "red" },
+      { "title": "🎨 Thangka art", "color": "green" },
+      { "title": "🏔️ Mount Everest", "color": "pink" },
+      { "title": "🐘 Elephant safaris", "color": "blue" },
+      { "title": "🛕 Pashupatinath Temple", "color": "yellow" }
+    ],
+    "capital": "Kathmandu",
+    "major_cities": ["Biratnagar", "Birganj", "Kathmandu", "Pokhara"],
+    "official_language": ["Nepali"],
+    "currency": { "title": "Nepalese rupee", "symbol": "Rs" },
+    "major_religions": "Hinduism",
+    "national_day": { "title": "Constitution Day", "date": "09 November" },
+    "phone": {
+      "digital_code": "+977",
+      "phone_operators": ["Ncell", "Nepal Telecom", "Smart Telecom"]
+    },
+    "plug_types": ["C", "D", "M"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "Pathao", "url": "https://pathao.com/np/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [
+        "A policy has reportedly been adopted that would make the legal purchase age 21. However, there are exceptions to underage consumption for purposes of religious ceremonies"
+      ]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Many large hotels include service charge or you can tip 10% of the bill",
+        "guides": "For trekking tours, tip at least USD 10 per day",
+        "restaurants": "Restaurant are not customary in Nepal",
+        "taxis": "Taxi drivers in Nepal do not expect a tip, but a small tip, such as extra change, will be greatly appreciated"
+      }
+    },
+    "weather": {
+      "title": "Nepal has a diverse climate due to its varying topography. The Terai region has a subtropical climate with hot summers and mild winters. The hilly regions have a temperate climate, while the mountainous areas, including the Himalayas, have a cold alpine climate",
+      "when_to_visit": [
+        {
+          "icon": "🌺",
+          "title": "Blooming flowers",
+          "time_period": "March to May",
+          "short_description": "Mild temperatures and clear skies during this period. Famous for blooming rhododendron across the forests"
+        },
+        {
+          "icon": "🏔️",
+          "title": "Best for trekking",
+          "time_period": "September to November",
+          "short_description": "Stable weather with dry conditions and clear skies. This is considered peak trekking season in Nepal, with popular routes like the Everest Base Camp and Annapurna Circuit attracting numerous adventure enthusiasts"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Monsoon season",
+          "time_period": "June to August",
+          "short_description": "Low season with clouds, higher rainfall and mud. Some areas are inaccessible but rain shadowed areas like Upper Mustang can still be visited"
+        },
+        {
+          "icon": "🥶",
+          "title": "Winter",
+          "time_period": "December to February",
+          "short_description": "Extremely cold, particularly in northern regions"
+        }
+      ],
+      "best_time": "The best time to visit Nepal is during the spring months of March to May and the autumn months of September to November when the weather is mild, and you can enjoy clear skies, ideal trekking conditions, and vibrant cultural festivals"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "100"
+      },
+      {
+        "title": "Ambulance",
+        "number": "102"
+      },
+      {
+        "title": "Fire",
+        "number": "101"
+      }
+    ]
   }
 ]
