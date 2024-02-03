@@ -4664,5 +4664,99 @@
         "number": "994"
       }
     ]
+  },
+  {
+    "id": "47",
+    "iso": "GHA",
+    "alpha_2": "GH",
+    "country_name": "Ghana",
+    "cover_image": "https://images.unsplash.com/photo-1589104602532-9cee07f8f62c?q=80&w=2228&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/gh.svg",
+    "short_description": "Discover the vibrant culture and stunning natural beauty of Ghana. Explore the bustling markets and historic sites of Accra, witness the majesty of the country's wildlife, and relax on the pristine beaches of Busua",
+    "known_for": [
+      { "title": "🎨 Ghanaian art", "color": "red" },
+      { "title": "🏊‍♀️ Beaches", "color": "blue" },
+      { "title": "🏞️ National parks", "color": "green" },
+      { "title": "🥁 Ghanaian music", "color": "pink" },
+      { "title": "🥘 Jollof rice", "color": "yellow" }
+    ],
+    "capital": "Accra",
+    "major_cities": ["Accra", "Cape Coast", "Kumasi", "Sekondi", "Tamale"],
+    "official_language": ["English"],
+    "currency": { "title": "Ghanaian cedi", "symbol": "₵" },
+    "major_religions": "Christianity",
+    "national_day": { "title": "Independence Day", "date": "06 March" },
+    "phone": {
+      "digital_code": "+233",
+      "phone_operators": ["Airtel", "Glo", "MTN", "Tigo", "Vodafone"]
+    },
+    "plug_types": ["D", "G"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "Yango", "url": "https://yango.com/fr_gh/" },
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Ghana has a tropical climate with two main seasons: the wet season and the dry season. The wet season, from April to October, is characterized by heavy rainfall and high humidity, while the dry season, from November to March, brings drier and slightly cooler conditions",
+      "when_to_visit": [
+        {
+          "icon": "☀️",
+          "title": "Dry season",
+          "time_period": "November to March",
+          "short_description": "Lower rainfall and more comfortable temperatures, making it an ideal period for outdoor activities and exploring the country's attractions"
+        },
+        {
+          "icon": "🐘",
+          "title": "Sightseeing",
+          "time_period": "November to December",
+          "short_description": "During these months landscapes are still lush and green from the previous rainy season which offers a beautiful backdrop for nature excursions. Temperatures are pleasant with lower humidity"
+        },
+        {
+          "icon": "⏳",
+          "title": "Harmattan season",
+          "time_period": "January to March",
+          "short_description": "Dry and dusty winds blow in from the Sahara Desert, leading to cooler temperatures and clear skies. Good time to visit Accra, Cape Coast and wildlife reserved like Mole National Park"
+        },
+        {
+          "icon": "🌧️",
+          "title": "Rainy season",
+          "time_period": "April to October",
+          "short_description": "Heaviest rainfall from May to July. Certain areas of the country become inaccessible during this period"
+        }
+      ],
+      "best_time": "The best time to visit Ghana is during the dry season from November to March when the weather is generally more pleasant, with lower humidity and less rainfall, making it ideal for exploring the country's cultural heritage, wildlife reserves, and beautiful coastline"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "999"
+      },
+      {
+        "title": "Ambulance",
+        "number": "999"
+      },
+      {
+        "title": "Fire",
+        "number": "999"
+      }
+    ]
   }
 ]
