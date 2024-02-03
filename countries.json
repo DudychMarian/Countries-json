@@ -4466,5 +4466,109 @@
         "number": "191"
       }
     ]
+  },
+  {
+    "id": "45",
+    "iso": "PER",
+    "alpha_2": "PE",
+    "country_name": "Peru",
+    "cover_image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/pe.svg",
+    "short_description": "Home to the iconic Machu Picchu and the mysterious Nazca Lines, Peru is a bucket list destination for many travelers. But this country also offers a rich culinary scene, vibrant markets, and stunning natural wonders like the Amazon rainforest",
+    "known_for": [
+      { "title": "🌮 Ceviche", "color": "red" },
+      { "title": "🍹 Pisco Sour", "color": "blue" },
+      { "title": "🎨 Textiles", "color": "pink" },
+      { "title": "🎷 Music", "color": "green" },
+      { "title": "🏞️ Machu Picchu", "color": "yellow" }
+    ],
+    "capital": "Lima",
+    "major_cities": [
+      "Arequipa",
+      "Callao",
+      "Chiclayo",
+      "Chimbote",
+      "Cusco",
+      "Huancayo",
+      "Iquitos",
+      "Lima",
+      "Piura",
+      "Pucallpa",
+      "Tacna",
+      "Trujillo"
+    ],
+    "official_language": ["Spanish", "Quechua, Aymara"],
+    "currency": { "title": "Peruvian sol", "symbol": "S/." },
+    "major_religions": "Roman Catholics",
+    "national_day": { "title": "Independence Day", "date": "28 July" },
+    "phone": {
+      "digital_code": "+51",
+      "phone_operators": ["Bitel", "Claro", "Entel", "Movistar"]
+    },
+    "plug_types": ["A", "C"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "FREENOW", "url": "https://www.free-now.com/" },
+        { "title": "maxim", "url": "https://taximaxim.com/pe/en/7944-chimbote/order-a-taxi-online" },
+        { "title": "Cabify", "url": "https://cabify.com/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "DiDi", "url": "https://web.didiglobal.com/pe/" }
+      ],
+      "metro": [{ "title": "Lima", "url": "https://www.urbanrail.net/am/lima/lima-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tipping is more expected in higher end hotels. Give porters 3 soles per bag, 5-10 soles for concierge and 1-3 soles per person per night for housekeeping",
+        "guides": "Tipping guides is customary at 20-35 soles per guide for a longer hiking tour or 10-15 soles per person for a city tour",
+        "restaurants": "Tips of around 10% are expected, particularly in more touristic restaurants",
+        "taxis": "Taxis are not commonly tipped in Peru"
+      }
+    },
+    "weather": {
+      "title": "Peru has a diverse climate due to its varied topography. Coastal regions have a desert climate with minimal rainfall. The Andean highlands experience cooler temperatures, and the Amazon rainforest has a tropical climate with high humidity and heavy rainfall",
+      "when_to_visit": [
+        {
+          "icon": "🥾",
+          "title": "Best for Inca Trail",
+          "time_period": "May to October",
+          "short_description": "These months offer beautiful dry weather with less tourists than the peak season"
+        },
+        {
+          "icon": "🌊",
+          "title": "Dry season",
+          "time_period": "May to September",
+          "short_description": "Less rainfall and more stable weather, making it ideal for exploring popular tourist destinations such as Lima, Cusco, Machu Picchu, and the Sacred Valley"
+        },
+        {
+          "icon": "⛈️",
+          "title": "Wet season",
+          "time_period": "November to March",
+          "short_description": "The best time to visit Peru depends on the region and activities you plan to engage in. Generally, the months of May to September offer drier conditions, milder temperatures, and ideal weather for trekking to Machu Picchu and exploring the Amazon rainforest"
+        }
+      ],
+      "best_time": "The best time to visit Peru depends on the region and activities you plan to engage in. Generally, the months of May to September offer drier conditions, milder temperatures, and ideal weather for trekking to Machu Picchu and exploring the Amazon rainforest"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "911"
+      },
+      {
+        "title": "Ambulance",
+        "number": "911"
+      },
+      {
+        "title": "Fire",
+        "number": "911"
+      }
+    ]
   }
 ]
