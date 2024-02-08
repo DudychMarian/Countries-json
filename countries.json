@@ -5779,5 +5779,91 @@
         "number": "113"
       }
     ]
+  },
+  {
+    "id": "60",
+    "iso": "LKA",
+    "alpha_2": "LK",
+    "country_name": "Sri Lanka",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1681255761027-357cb6059c4b?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/lk.svg",
+    "short_description": "Get ready for an adventure in the stunning island paradise of Sri Lanka, where ancient ruins, exotic wildlife, and pristine beaches await. Explore the ancient city of Sigiriya, go on safari in Minneriya National Park, or unwind on the beaches of Unawatuna",
+    "known_for": [
+      { "title": "🌊 Surfing", "color": "blue" },
+      { "title": "🏞️ National Parks", "color": "green" },
+      { "title": "🏰 Temples", "color": "pink" },
+      { "title": "🐘", "color": "yellow" }
+    ],
+    "capital": "Colombo",
+    "major_cities": ["Colombo", "Moratuwa"],
+    "official_language": ["Sinhala, Tamil"],
+    "currency": { "title": "Sri Lankan ruppe", "symbol": "Rs" },
+    "major_religions": "Buddhism",
+    "national_day": { "title": "Independence Day", "date": "04 February" },
+    "phone": {
+      "digital_code": "+94",
+      "phone_operators": ["Dialog", "Hutch", "Mobitel"]
+    },
+    "plug_types": ["D", "G"],
+    "transport": {
+      "driving_side": "Left",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "PickMe", "url": "https://pickme.lk/book-your-taxi" },
+        { "title": "Uber", "url": "https://www.uber.com/" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "None",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Aim for 50-100 Sri Lankan rupees as a tip for most hotel staff services",
+        "guides": "Tip professional guides 10% and helpful locals SR 500 for their assistance",
+        "restaurants": "It is customary to tip around 10%, more or less depending on your level of satisfaction",
+        "taxis": "Many drivers hope to be tipped by rounding up the fare"
+      }
+    },
+    "weather": {
+      "title": "Sri Lanka has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from May to September, with the southwest monsoon bringing heavy rainfall, while the dry season from December to March offers drier conditions in the northeast",
+      "when_to_visit": [
+        {
+          "icon": "🕌",
+          "title": "Best for Cultural Triangle",
+          "time_period": "December to March",
+          "short_description": "Dry, sunny weather on the west and south coasts during this time. Best time to visit popular destinations like Colombo, Galle, Kandy, and Sigiriya"
+        },
+        {
+          "icon": "🌊",
+          "title": "Best for East Coast",
+          "time_period": "April to September",
+          "short_description": "Calm seas and dry, sunny weather for the east coast during this period. Perfect for visiting Trincomalee, Arugam Bay, and Batticaloa"
+        },
+        {
+          "icon": "😎",
+          "title": "Off peak season",
+          "time_period": "April to June, October to November",
+          "short_description": "Inter-monsoonal period when weather patterns can be unpredictable, with occasional showers and thunderstorms"
+        }
+      ],
+      "best_time": "The best time to visit Sri Lanka depends on the region, but generally, the months of December to April offer drier conditions on the west and south coasts, while the months of May to September are ideal for the east coast and cultural sites"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "119"
+      },
+      {
+        "title": "Ambulance",
+        "number": "110"
+      },
+      {
+        "title": "Fire",
+        "number": "110"
+      }
+    ]
   }
 ]
