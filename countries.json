@@ -5022,5 +5022,86 @@
         "number": "118"
       }
     ]
+  },
+  {
+    "id": "51",
+    "iso": "CI",
+    "alpha_2": "CIV",
+    "country_name": "Ivory Coast",
+    "cover_image": "https://images.unsplash.com/photo-1552709586-d1aefe5d04b4?q=80&w=2356&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ci.svg",
+    "short_description": "Journey to the heart of West Africa and discover the rich history, stunning landscapes, and warm hospitality of Côte d'Ivoire. From the vibrant markets of Abidjan to the pristine beaches of Grand-Bassam, this country offers a unique and unforgettable experience for every traveler",
+    "known_for": [
+      { "title": "🍫 Cocoa", "color": "red" },
+      { "title": "🎨 Art", "color": "green" },
+      { "title": "🎭 Festivals", "color": "pink" },
+      { "title": "🎵 Music", "color": "blue" },
+      { "title": "🏖️ Beaches", "color": "yellow" }
+    ],
+    "capital": "Yamoussoukro",
+    "major_cities": ["Abidjan", "Bouake", "Daloa", "Yamoussoukro"],
+    "official_language": ["French"],
+    "currency": { "title": "West African CFA franc", "symbol": "Fr" },
+    "major_religions": "Islam",
+    "national_day": { "title": "Independence Day", "date": "07 August" },
+    "phone": {
+      "digital_code": "+225",
+      "phone_operators": ["MTN", "Moov", "Orange"]
+    },
+    "plug_types": ["C", "E"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/gb/en/" },
+        { "title": "Yango", "url": "https://yango.com/en_ci/" },
+        { "title": "Heetch", "url": "https://www.heetch.com/en/passenger" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Ivory Coast has a tropical climate with high temperatures and humidity year-round. It experiences a wet season from April to October, characterized by heavy rainfall, while the dry season from November to March offers drier conditions",
+      "when_to_visit": [
+        {
+          "icon": "☀️",
+          "title": "Dry season",
+          "time_period": "November to March",
+          "short_description": "Less rainfall and more sunshine, making it ideal for outdoor activities and sightseeing. Temperatures in interior regions will be slightly higher"
+        },
+        {
+          "icon": "💦",
+          "title": "Wet season",
+          "time_period": "April to October",
+          "short_description": "High rainfall and humidity. Travel is still possible but expect frequent rain showers and potential for tropical storms"
+        }
+      ],
+      "best_time": "The best time to visit Ivory Coast is during the dry season from November to March when you can enjoy warm temperatures, lower chances of rainfall, and ideal conditions for exploring the country's beautiful beaches, national parks, and cultural sites"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "170"
+      },
+      {
+        "title": "Ambulance",
+        "number": "185"
+      },
+      {
+        "title": "Fire",
+        "number": "180"
+      }
+    ]
   }
 ]
