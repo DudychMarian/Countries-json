@@ -1,0 +1,82 @@
+{
+  "id": "58",
+  "iso": "BFA",
+  "alpha_2": "BF",
+  "country_name": "Burkina Faso",
+  "cover_image": "https://images.unsplash.com/photo-1596021876043-3ec2658c4477?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bf.svg",
+  "short_description": "Experience the vibrant culture and stunning landscapes of Burkina Faso, a West African country that is known for its rich musical traditions and friendly people. Explore ancient ruins, sample delicious food, and dance to the rhythms of African music",
+  "known_for": [
+    { "title": "🌳 National Parks", "color": "green" },
+    { "title": "🎨 Art and Crafts", "color": "red" },
+    { "title": "🎵 Music", "color": "pink" },
+    { "title": "🐘 Safari", "color": "blue" },
+    { "title": "🥜 Peanuts", "color": "yellow" }
+  ],
+  "capital": "Ouagadougou",
+  "major_cities": ["Bobo-Dioulasso", "Ouagadougou"],
+  "official_language": ["French"],
+  "currency": { "title": "West African CFA franc", "symbol": "Fr" },
+  "major_religions": "Islam",
+  "national_day": { "title": "Independence Day", "date": "5 August" },
+  "phone": {
+    "digital_code": "+226",
+    "phone_operators": ["Orange", "Telecel Faso", "Telmob"]
+  },
+  "plug_types": ["C", "E"],
+  "transport": {
+    "driving_side": "Right"
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "None",
+      "guides": "None",
+      "restaurants": "None",
+      "taxis": "None"
+    }
+  },
+  "weather": {
+    "title": "Burkina Faso has a tropical savanna climate characterized by distinct wet and dry seasons. The wet season, from May to October, brings high temperatures, high humidity, and heavy rainfall, while the dry season, from November to April, is characterized by lower rainfall and milder temperatures, making it more suitable for outdoor activities and travel",
+    "when_to_visit": [
+      {
+        "icon": "🐘",
+        "title": "Dry season",
+        "time_period": "November to April",
+        "short_description": "The best time to visit Burkina Faso is during the dry season from November to April when the weather is milder, rainfall is minimal, and the country offers optimal conditions for outdoor exploration, cultural experiences, and wildlife viewing"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet season",
+        "time_period": "May to October",
+        "short_description": "Travel within the country hindered by heavy rainfall, increased humidity and higher temperatures"
+      },
+      {
+        "icon": "💨",
+        "title": "Harmattan winds",
+        "time_period": "December to February",
+        "short_description": "Dry and dusty winds can blow from the Sahara during this period which affects northern regions"
+      }
+    ],
+    "best_time": "The best time to visit Burkina Faso is during the dry season from November to April when the weather is milder, rainfall is minimal, and the country offers optimal conditions for outdoor exploration, cultural experiences, and wildlife viewing"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "17"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "18"
+    }
+  ]
+}
