@@ -1,0 +1,94 @@
+{
+  "id": "61",
+  "iso": "MWI",
+  "alpha_2": "MW",
+  "country_name": "Malawi",
+  "cover_image": "https://images.unsplash.com/photo-1543116696-9e33bf8c3425?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/mw.svg",
+  "short_description": "Known as the 'Warm Heart of Africa', Malawi offers travelers stunning landscapes, friendly people, and abundant wildlife. Go on safari in Liwonde National Park, kayak on Lake Malawi, or simply soak up the sun on the beach",
+  "known_for": [
+    { "title": "🌳 Liwonde National Park", "color": "red" },
+    { "title": "🍲 Nsima", "color": "green" },
+    { "title": "🎶 Malawian music", "color": "pink" },
+    { "title": "🏞️ Lake Malawi", "color": "blue" },
+    { "title": "🐘 Elephant orphanage", "color": "yellow" }
+  ],
+  "capital": "Lilongwe",
+  "major_cities": ["Blantyre", "Lilongwe"],
+  "official_language": ["Chichewa, English"],
+  "currency": { "title": "Malawian kwacha", "symbol": "MK" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Independence Day", "date": "6 July" },
+  "phone": {
+    "digital_code": "+265",
+    "phone_operators": ["Airtel", "G-Mobile", "TNM"]
+  },
+  "plug_types": ["G"],
+  "transport": {
+    "driving_side": "Left"
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "None",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "None",
+      "guides": "None",
+      "restaurants": "None",
+      "taxis": "None"
+    }
+  },
+  "weather": {
+    "title": "Malawi has a tropical climate with hot summers and cool, dry winters. It experiences a wet season from November to April, with heavy rainfall and high humidity, while the dry season from May to October has lower humidity and less rainfall",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry season",
+        "time_period": "May to October",
+        "short_description": "Minimal rainfall, clear skies and warm temperatures, making it ideal for outdoor activities"
+      },
+      {
+        "icon": "😎",
+        "title": "Off peak season",
+        "time_period": "May and June",
+        "short_description": "Fewer crowds and lower prices. Landscapes are still green and lush providing great scenery for photography and exploration"
+      },
+      {
+        "icon": "🐘",
+        "title": "Wildlife sighting",
+        "time_period": "Peak season (July to October)",
+        "short_description": "Peak tourist season when the weather is dry and sunny. Excellent for enthusiasts as animals gather around water sources. Lake Malawi is also at its clearest during this period"
+      },
+      {
+        "icon": "🦅",
+        "title": "Birdwatching",
+        "time_period": "September and October",
+        "short_description": "Popular for birdwatching as migratory birds start to arrive in Malawi, adding to the already rich birdlife of the region"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet season",
+        "time_period": "November to April",
+        "short_description": "Heavy rainfall which can make some areas challenging to access. Increased risk of malaria in many regions"
+      }
+    ],
+    "best_time": "The best time to visit Malawi is during the dry season from May to October when you can enjoy pleasant temperatures, clear skies, and excellent wildlife viewing and hiking opportunities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "997"
+    },
+    {
+      "title": "Ambulance",
+      "number": "998"
+    },
+    {
+      "title": "Fire",
+      "number": "999"
+    }
+  ]
+}
