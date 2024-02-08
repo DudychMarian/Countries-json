@@ -1,0 +1,83 @@
+{
+  "id": "56",
+  "iso": "PRK",
+  "alpha_2": "KP",
+  "country_name": "North Korea",
+  "cover_image": "https://images.unsplash.com/photo-1604359896927-0610b7a3a2be?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/kp.svg",
+  "short_description": "Travel to the enigmatic Democratic People's Republic of Korea and explore its ornate temples, towering monuments, and bustling cities. Be transported back in time to a country that remains shrouded in mystery",
+  "known_for": [
+    { "title": "🌸 Cherry blossoms", "color": "red" },
+    { "title": "🍚 Kimchi", "color": "green" },
+    { "title": "👥 Arirang Mass Games", "color": "pink" },
+    { "title": "🏯 Kumsusan Palace of the Sun", "color": "blue" },
+    { "title": "🗼 Juche Tower", "color": "yellow" }
+  ],
+  "capital": "Pyongyang",
+  "major_cities": ["Ch'ongjin", "Hamhung", "Kaesong", "Namp'o", "Pyongyang", "Sinuiju", "Wonsan"],
+  "official_language": ["Korean"],
+  "currency": { "title": "North Korean won", "symbol": "₩" },
+  "major_religions": "Shamanism and Chondoism",
+  "national_day": { "title": "North Korea's foundation Day", "date": "9 September" },
+  "phone": {
+    "digital_code": "+850",
+    "phone_operators": ["Koryolink"]
+  },
+  "plug_types": ["C"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [{ "title": "Pyongyang", "url": "https://www.urbanrail.net/as/kr/pyongyang/pyongyang-map.png" }]
+  },
+  "health": {
+    "tap_water_safety": "Exercise Caution",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [""]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "None",
+      "guides": "None",
+      "restaurants": "None",
+      "taxis": "None"
+    }
+  },
+  "weather": {
+    "title": "North Korea has a continental climate with cold, harsh winters and hot, humid summers. It experiences distinct seasonal variations with relatively low precipitation, especially in the winter months",
+    "when_to_visit": [
+      {
+        "icon": "🌸",
+        "title": "Sightseeing",
+        "time_period": "Spring (April to June), Autumn (September to October)",
+        "short_description": "Mild temperatures and limited rainfall, making it perfect for sightseeing and natural areas. Spring sees the blossoming of flowers and trees"
+      },
+      {
+        "icon": "⛅️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Hot and humid with higher chances of rainfall"
+      },
+      {
+        "icon": "🥶",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures and snow, which may limit outdoor activities and sightseeing"
+      }
+    ],
+    "best_time": "The best time to visit North Korea is during the spring months of April to June and the autumn months of September to October when the weather is mild, and you can participate in local festivities and explore the country's landmarks"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "110"
+    },
+    {
+      "title": "Ambulance",
+      "number": "119"
+    },
+    {
+      "title": "Fire",
+      "number": "119"
+    }
+  ]
+}
