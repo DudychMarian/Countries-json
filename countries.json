@@ -5197,5 +5197,82 @@
         "number": "911"
       }
     ]
+  },
+  {
+    "id": "53",
+    "iso": "CMR",
+    "alpha_2": "CM",
+    "country_name": "Cameroon",
+    "cover_image": "https://images.unsplash.com/photo-1615463738213-b9381d217b4e?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/cm.svg",
+    "short_description": "Journey to the heart of Africa and discover the diverse landscapes, rich culture, and warm hospitality of Cameroon. From the lush rainforests to the rugged mountains, this country offers an adventure like no other",
+    "known_for": [
+      { "title": "🎨 Art and crafts", "color": "red" },
+      { "title": "🏊‍♂️ Beaches", "color": "green" },
+      { "title": "🏞️ Waterfalls", "color": "pink" },
+      { "title": "🐘 Wildlife", "color": "blue" },
+      { "title": "🥘 Cameroonian cuisine", "color": "yellow" }
+    ],
+    "capital": "Yaounde",
+    "major_cities": ["Bafoussam", "Bamenda", "Doula", "Garoua", "Maroua", "Yaonde"],
+    "official_language": ["English, French"],
+    "currency": { "title": "Central African CFA franc", "symbol": "Fr" },
+    "major_religions": "Protestant, Roman Catholic",
+    "national_day": { "title": "Unitary State Day", "date": "20 May" },
+    "phone": {
+      "digital_code": "+237",
+      "phone_operators": ["Camtel", "MTN", "Nexttel", "Orange"]
+    },
+    "plug_types": ["C", "E"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [{ "title": "Yango", "url": "https://yango.com/en_cm/" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "21 years old",
+      "alcohol_parchase_age": "21 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "None",
+        "guides": "None",
+        "restaurants": "None",
+        "taxis": "None"
+      }
+    },
+    "weather": {
+      "title": "Cameroon has a diverse climate, ranging from a tropical climate in the coastal regions with high humidity and heavy rainfall, to an arid and Sahelian climate in the northern parts of the country. The coastal areas are generally hot and humid throughout the year, while the northern regions experience hot and dry conditions",
+      "when_to_visit": [
+        {
+          "icon": "🦁",
+          "title": "Dry season",
+          "time_period": "November to February",
+          "short_description": "Milder temperatures and lower rainfall, providing comfortable conditions for activities such as wildlife safaris in Waza or hiking the Ring Road"
+        },
+        {
+          "icon": "☔️",
+          "title": "Wet season",
+          "time_period": "March to October",
+          "short_description": "Expect heavy downpours and thunderstorms along with higher temperatures and humidity. Travel to remote areas will be more difficult"
+        }
+      ],
+      "best_time": "The best time to visit Cameroon is during the dry season, which typically runs from November to February, when the weather is generally more pleasant with lower rainfall and cooler temperatures"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "112"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
   }
 ]
