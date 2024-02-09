@@ -6046,5 +6046,93 @@
         "number": "999"
       }
     ]
+  },
+  {
+    "id": "63",
+    "iso": "ROU",
+    "alpha_2": "RO",
+    "country_name": "Romania",
+    "cover_image": "https://images.unsplash.com/photo-1534371020656-6b85825f2b1a?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ro.svg",
+    "short_description": "With a diverse landscape that includes the Carpathian Mountains and the Danube Delta, Romania is a nature lover's paradise. Discover the medieval towns of Transylvania, sample traditional cuisine like sarmale and mici, or visit the impressive Palace of the Parliament in Bucharest",
+    "known_for": [
+      { "title": "🍺 Beer", "color": "red" },
+      { "title": "🎨 Painted Monasteries", "color": "green" },
+      { "title": "🎻 Folk Music", "color": "pink" },
+      { "title": "🏰 Castles", "color": "blue" },
+      { "title": "🧛 Dracula", "color": "yellow" }
+    ],
+    "capital": "Bucharest",
+    "major_cities": ["Brasov", "Bucharest", "Cluj-Napoca", "Constanta", "Craiova", "Iasi", "Timisoara"],
+    "official_language": ["Romania"],
+    "currency": { "title": "Romanian leu", "symbol": "lei" },
+    "major_religions": "Eastern Orthdox",
+    "national_day": { "title": "Great Union Dat/ Unification Day", "date": "01 December" },
+    "phone": {
+      "digital_code": "+40",
+      "phone_operators": ["Digi.Mobil", "Orange", "Telekom", "Vodafone"]
+    },
+    "plug_types": ["C", "F"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Bolt", "url": "https://bolt.eu/" },
+        { "title": "Star Taxi", "url": "https://www.startaxi.com/en" },
+        { "title": "Uber", "url": "https://www.uber.com/gb/en/" }
+      ],
+      "metro": [{ "title": "Bucharest", "url": "https://www.urbanrail.net/eu/ro/buc/bucharest-metro-map.png" }]
+    },
+    "health": {
+      "tap_water_safety": "Exercise Caution",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [""]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Hotel tipping is customary in Romania. Tip 5 Lei per day to housekeeping and 5 Lei per bag to the porter",
+        "guides": "Tour guides in Romania are usually tipped about 10-20 Lei per day",
+        "restaurants": "Service charge normally isn't included SO add 5-10% for excellent service",
+        "taxis": "Even on metered rides, tip 4-5 Lei or round up the fare"
+      }
+    },
+    "weather": {
+      "title": "Romania has a temperate-continental climate with hot summers and cold winters. It experiences moderate rainfall throughout the year, with the highest precipitation occurring during the summer months",
+      "when_to_visit": [
+        {
+          "icon": "🥾",
+          "title": "Sightseeing",
+          "time_period": "Spring (March to May), Autumn (September to November)",
+          "short_description": "Pleasant temperatures, generally mild weather, and are less crowded compared to the peak summer season. Landscapes are full of color, making it perfect to visit natural areas like the Carpathian Mountains"
+        },
+        {
+          "icon": "🏞️",
+          "title": "Summer",
+          "time_period": "June to August",
+          "short_description": "Hot weather particularly in Southern regions. Black Sea resorts and mountainous areas will be more crowded during this period"
+        },
+        {
+          "icon": "🧊",
+          "title": "Winter",
+          "time_period": "December to February",
+          "short_description": "Temperatures can get cold, particularly in mountainous areas. Good time for winter sports"
+        }
+      ],
+      "best_time": "The best time to visit Romania is from May to September when you can enjoy mild temperatures, longer daylight hours, and various cultural events and festivals held throughout the country"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "112"
+      },
+      {
+        "title": "Ambulance",
+        "number": "112"
+      },
+      {
+        "title": "Fire",
+        "number": "112"
+      }
+    ]
   }
 ]
