@@ -6134,5 +6134,116 @@
         "number": "112"
       }
     ]
+  },
+  {
+    "id": "64",
+    "iso": "CHL",
+    "alpha_2": "CL",
+    "country_name": "Chile",
+    "cover_image": "https://images.unsplash.com/photo-1478827387698-1527781a4887?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/cl.svg",
+    "short_description": "From the rugged Patagonia to the vibrant cities of Santiago and Valparaiso, Chile is a country that offers a diverse range of experiences for every traveler. Sample delicious food, experience the vibrant culture, and explore the stunning natural landscapes",
+    "known_for": [
+      { "title": "🌋 Volcanoes", "color": "red" },
+      { "title": "🍷 Wine", "color": "green" },
+      { "title": "🎨 Pablo Neruda", "color": "pink" },
+      { "title": "🏔️ Andes", "color": "blue" },
+      { "title": "🏖️ Beaches", "color": "yellow" }
+    ],
+    "capital": "Santiago",
+    "major_cities": [
+      "Antofagasta",
+      "Concepcion",
+      "Rancagua",
+      "San Bernardo",
+      "Santiago",
+      "Temuco",
+      "Valparaiso",
+      "Vina del Mar"
+    ],
+    "official_language": ["Spanish"],
+    "currency": { "title": "Chilean peso", "symbol": "$" },
+    "major_religions": "Roman Catholic",
+    "national_day": { "title": "Independence Day", "date": "18 Sep" },
+    "phone": {
+      "digital_code": "+56",
+      "phone_operators": ["Claro", "Entel", "Movistar", "WOM"]
+    },
+    "plug_types": ["C", "L"],
+    "transport": {
+      "driving_side": "Right",
+      "taxi": [
+        { "title": "Uber", "url": "https://www.uber.com/" },
+        { "title": "Cabify", "url": "https://cabify.com/" },
+        { "title": "InDrive", "url": "https://indrive.com/en/home/" },
+        { "title": "FREENOW", "url": "https://www.free-now.com/" },
+        { "title": "DiDi", "url": "https://web.didiglobal.com/cl/" }
+      ],
+      "metro": [
+        { "title": "Santiago", "url": "https://www.urbanrail.net/am/sant/santiago-metro-map.png" },
+        { "title": "Valparaíso", "url": "https://www.urbanrail.net/am/valp/valparaiso-metro-map.png" }
+      ]
+    },
+    "health": {
+      "tap_water_safety": "Safe to drink",
+      "alcohol_consumption_age": "18 years old",
+      "alcohol_parchase_age": "18 years old",
+      "alcohol_info": [
+        "The minimum age is 18 to enter an enclosure that sells alcohol beverages. Selling alcohol to a minor may incur a fine. One must provide identification upon request",
+        "Residents of Chile over the age of 18 must carry their Chilean identification card issued by the Civil Registry and Identification Service at all times"
+      ]
+    },
+    "money": {
+      "tipping": {
+        "hotels": "Tips are readily accepted in Chilean hotels. Tip porters 500-1000 pesos per bag, maids 1000 pesos per night and 5000-10000 pesos for the duration of your stay",
+        "guides": "Guides rely on tips so be prepared to tip 5000-15000 pesos per person",
+        "restaurants": "Generally tip 10% of the bill or 5% if service charge is already included",
+        "taxis": "Tipping isn't customary but most drivers expect you to round up and don't give back change"
+      }
+    },
+    "weather": {
+      "title": "Chile's climate varies greatly due to its long stretch of land. The northern regions are arid with desert-like conditions, while the central and southern regions have a Mediterranean climate with mild, wet winters and warm, dry summers",
+      "when_to_visit": [
+        {
+          "icon": "📸",
+          "title": "Off peak season",
+          "time_period": "Spring (September to November), Autumn (March to May)",
+          "short_description": "Shoulder seasons offer milder temperatures and fewer crowds than summer months"
+        },
+        {
+          "icon": "💫",
+          "title": "Summer",
+          "time_period": "December to February",
+          "short_description": "Summer season is popular for outfoor activities and offers the best opportunities for stargazing"
+        },
+        {
+          "icon": "🏔️",
+          "title": "Best for Patagonia",
+          "time_period": "Summer (December to February)",
+          "short_description": "Warmer weather provides the best climate to explore Patagonia and southern regions for hiking, wildlife viewing and national parks like Torres del Paine. Bear in mind strong winds and weather changes do happen even in summer"
+        },
+        {
+          "icon": "🌵",
+          "title": "Desert exploration",
+          "time_period": "Spring (September to November), Autumn (March to May)",
+          "short_description": "The Atacama Desert has little rainfall and can be visited at any time of year but spring and autumn are popular times to visit due to more moderate temperatures"
+        }
+      ],
+      "best_time": "The best time to visit Chile is during the spring (September to November) and fall (March to May) when the weather is pleasant, and tourist crowds are smaller"
+    },
+    "emergency": [
+      {
+        "title": "Police",
+        "number": "133"
+      },
+      {
+        "title": "Ambulance",
+        "number": "131"
+      },
+      {
+        "title": "Fire",
+        "number": "132"
+      }
+    ]
   }
 ]
