@@ -1,0 +1,102 @@
+{
+  "id": "052",
+  "iso": "BRB",
+  "alpha_2": "BB",
+  "country_name": "Barbados",
+  "cover_image": "https://images.unsplash.com/photo-1633847016580-b7a15cc813d7?q=80&w=1744&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bb.svg",
+  "short_description": "Experience the vibrant island of Barbados, where pristine beaches meet rich culture and history. Discover world-class diving, rum distilleries, cricket heritage, colonial architecture, and the warm hospitality of the Bajan people in this Caribbean paradise.",
+  "known_for": [
+    { "title": "🏖️ Pristine Beaches", "color": "blue" },
+    { "title": "🥃 Rum Heritage", "color": "yellow" },
+    { "title": "🏏 Cricket Culture", "color": "green" },
+    { "title": "🤿 World-Class Diving", "color": "pink" },
+    { "title": "🏛️ Colonial History", "color": "red" }
+  ],
+  "capital": "Bridgetown",
+  "major_cities": [
+    "Bridgetown",
+    "Speightstown",
+    "Oistins",
+    "Holetown",
+    "Bathsheba",
+    "Crane",
+    "St. Lawrence Gap"
+  ],
+  "official_language": ["English"],
+  "currency": { "title": "Barbadian Dollar", "symbol": "$" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Independence Day", "date": "30 November" },
+  "phone": {
+    "digital_code": "+1 246",
+    "phone_operators": ["Flow", "Digicel"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Barbados has excellent water quality",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "Barbados is famous for its rum production and distilleries"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated for porters ($1-2 per bag) and housekeeping ($2-5 per day)",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "10-15% tip is customary for good service, though some restaurants may include a service charge",
+      "taxis": "Tipping is appreciated but not mandatory, rounding up is common"
+    }
+  },
+  "weather": {
+    "title": "Barbados has a tropical climate with warm temperatures year-round. The dry season runs from December to May, while the wet season is from June to November, with the highest chance of hurricanes from August to October.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "December to May",
+        "short_description": "Perfect weather with low humidity, minimal rainfall, and warm temperatures. This is the peak tourist season, ideal for beach activities, water sports, diving, and outdoor adventures. Best time for snorkeling and exploring the island"
+      },
+      {
+        "icon": "🌺",
+        "title": "Shoulder Season",
+        "time_period": "June to July",
+        "short_description": "Warm temperatures with occasional brief showers. Fewer crowds and lower prices make this a great time to visit. Still excellent weather for beach activities, water sports, and exploring the island"
+      },
+      {
+        "icon": "🎉",
+        "title": "Crop Over Festival",
+        "time_period": "July to August",
+        "short_description": "Experience the vibrant Crop Over festival with colorful parades, music, and cultural celebrations. Peak of the summer season with warm weather and festive atmosphere"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet Season",
+        "time_period": "August to November",
+        "short_description": "Higher humidity and more frequent rain showers, with peak hurricane season in September and October. Lower prices and fewer tourists, but be aware of weather conditions"
+      }
+    ],
+    "best_time": "The best time to visit Barbados is during the dry season from December to May when the weather is perfect with low humidity, minimal rainfall, and ideal conditions for beach activities, water sports, and outdoor adventures"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "211"
+    },
+    {
+      "title": "Ambulance",
+      "number": "511"
+    },
+    {
+      "title": "Fire",
+      "number": "311"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "040",
+  "iso": "AUT",
+  "alpha_2": "AT",
+  "country_name": "Austria",
+  "cover_image": "https://images.unsplash.com/photo-1597086831879-756db15e81d3?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/at.svg",
+  "short_description": "Discover the heart of Europe, Austria, where stunning Alpine landscapes meet rich cultural heritage. Experience world-class skiing, classical music, historic cities, imperial palaces, and the famous Viennese coffee culture in this elegant Central European destination.",
+  "known_for": [
+    { "title": "⛷️ World-Class Skiing", "color": "blue" },
+    { "title": "🎵 Classical Music", "color": "yellow" },
+    { "title": "🏛️ Imperial Architecture", "color": "red" },
+    { "title": "☕ Coffee Culture", "color": "pink" },
+    { "title": "⛰️ Alpine Landscapes", "color": "green" }
+  ],
+  "capital": "Vienna",
+  "major_cities": [
+    "Vienna",
+    "Graz",
+    "Linz",
+    "Salzburg",
+    "Innsbruck",
+    "Klagenfurt",
+    "Villach",
+    "Wels",
+    "Sankt Pölten",
+    "Dornbirn"
+  ],
+  "official_language": ["German"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Christianity (Roman Catholic)",
+  "national_day": { "title": "National Day", "date": "26 October" },
+  "phone": {
+    "digital_code": "+43",
+    "phone_operators": ["A1", "T-Mobile", "Drei"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" }
+    ],
+    "metro": [
+      { "title": "Vienna", "url": "https://www.urbanrail.net/eu/at/wien/vienna-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Austria has excellent water quality",
+    "alcohol_consumption_age": "16 years old (beer/wine), 18 years old (spirits)",
+    "alcohol_parchase_age": "16 years old (beer/wine), 18 years old (spirits)",
+    "alcohol_info": [
+      "Beer and wine can be purchased and consumed at age 16",
+      "Spirits and other alcoholic beverages require age 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters (€1-2 per bag) and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though service charge may be included",
+      "taxis": "Rounding up the fare is common, 10% tip is appreciated"
+    }
+  },
+  "weather": {
+    "title": "Austria has a temperate continental climate with cold winters and warm summers. The Alpine regions experience more extreme weather with heavy snowfall in winter, while the eastern lowlands have milder conditions.",
+    "when_to_visit": [
+      {
+        "icon": "⛷️",
+        "title": "Winter Ski Season",
+        "time_period": "December to March",
+        "short_description": "Cold and snowy conditions perfect for skiing and winter sports in the Austrian Alps. World-renowned ski resorts like Innsbruck, Kitzbühel, and St. Anton offer excellent slopes. Great time for winter activities and après-ski culture"
+      },
+      {
+        "icon": "🌺",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm and pleasant temperatures ideal for hiking, outdoor activities, and exploring cities. Perfect for visiting Vienna, Salzburg, and the beautiful Alpine lakes. Great time for music festivals and cultural events"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring historic cities, hiking in the mountains, and enjoying cultural attractions without the peak season crowds"
+      }
+    ],
+    "best_time": "The best time to visit Austria depends on your interests: visit during winter (December to March) for world-class skiing in the Alps, or during summer (June to August) for hiking, city exploration, and cultural events. Spring and autumn offer mild weather and fewer crowds"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "144"
+    },
+    {
+      "title": "Fire",
+      "number": "122"
+    }
+  ]
+}

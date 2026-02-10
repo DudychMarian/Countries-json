@@ -1,0 +1,97 @@
+{
+  "id": "016",
+  "iso": "ASM",
+  "alpha_2": "AS",
+  "country_name": "American Samoa",
+  "cover_image": "https://images.unsplash.com/photo-1634663355648-05be9f831176?q=80&w=3731&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/as.svg",
+  "short_description": "Experience the natural beauty and rich Polynesian culture of American Samoa, a U.S. territory in the South Pacific. Discover pristine beaches, lush rainforests, vibrant coral reefs, and the warm hospitality of the Samoan people.",
+  "known_for": [
+    { "title": "🏝️ Tropical Paradise", "color": "blue" },
+    { "title": "🌊 Pristine Beaches", "color": "green" },
+    { "title": "🤿 World-Class Diving", "color": "yellow" },
+    { "title": "🌺 Polynesian Culture", "color": "pink" },
+    { "title": "🏔️ Volcanic Landscapes", "color": "red" }
+  ],
+  "capital": "Pago Pago",
+  "major_cities": [
+    "Pago Pago",
+    "Tafuna",
+    "Leone",
+    "Fagatogo",
+    "Aua",
+    "Vaitogi",
+    "Utulei",
+    "Amanave"
+  ],
+  "official_language": ["English", "Samoan"],
+  "currency": { "title": "US Dollar", "symbol": "$" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Flag Day", "date": "17 April" },
+  "phone": {
+    "digital_code": "+1 684",
+    "phone_operators": ["ASTCA", "Bluesky"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Generally safe, but bottled water is recommended",
+    "alcohol_consumption_age": "21 years old",
+    "alcohol_parchase_age": "21 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 21",
+      "Alcohol can be purchased from licensed venues and stores",
+      "Public consumption laws apply similar to U.S. regulations"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated for porters and housekeeping, similar to U.S. customs",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "15-20% tip is customary for good service",
+      "taxis": "Tipping is appreciated but not mandatory"
+    }
+  },
+  "weather": {
+    "title": "American Samoa has a tropical rainforest climate with warm temperatures year-round, high humidity, and significant rainfall. The wet season runs from November to April, while the dry season is from May to October.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "May to October",
+        "short_description": "Less rainfall and slightly cooler temperatures make this the best time to visit. Perfect for beach activities, hiking, and outdoor adventures. Ideal conditions for diving and snorkeling"
+      },
+      {
+        "icon": "🌊",
+        "title": "Wet Season",
+        "time_period": "November to April",
+        "short_description": "Warmer temperatures with higher humidity and more frequent rain showers. Still enjoyable for travel, with lush green landscapes. Be prepared for tropical downpours"
+      },
+      {
+        "icon": "🐋",
+        "title": "Whale Watching",
+        "time_period": "July to October",
+        "short_description": "Humpback whales migrate through the waters during this period, making it an excellent time for whale watching tours and marine wildlife encounters"
+      }
+    ],
+    "best_time": "The best time to visit American Samoa is during the dry season from May to October when rainfall is lower and temperatures are slightly more comfortable, making it ideal for beach activities, hiking, and water sports"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "911"
+    },
+    {
+      "title": "Ambulance",
+      "number": "911"
+    },
+    {
+      "title": "Fire",
+      "number": "911"
+    }
+  ]
+}

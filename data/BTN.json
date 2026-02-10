@@ -1,0 +1,97 @@
+{
+  "id": "064",
+  "iso": "BTN",
+  "alpha_2": "BT",
+  "country_name": "Bhutan",
+  "cover_image": "https://images.unsplash.com/photo-1578556881786-851d4b79cb73?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bt.svg",
+  "short_description": "Discover Bhutan, the Land of the Thunder Dragon, nestled in the Eastern Himalayas. Experience the philosophy of Gross National Happiness, explore ancient Buddhist monasteries, trek through pristine mountain landscapes, and immerse yourself in the unique culture of this mystical kingdom.",
+  "known_for": [
+    { "title": "😊 Gross National Happiness", "color": "yellow" },
+    { "title": "⛰️ Himalayan Landscapes", "color": "green" },
+    { "title": "🕌 Buddhist Monasteries", "color": "red" },
+    { "title": "🏔️ Tiger's Nest", "color": "blue" },
+    { "title": "🎨 Rich Culture", "color": "pink" }
+  ],
+  "capital": "Thimphu",
+  "major_cities": [
+    "Thimphu",
+    "Phuntsholing",
+    "Paro",
+    "Gelephu",
+    "Samdrup Jongkhar",
+    "Wangdue Phodrang",
+    "Trongsa",
+    "Punakha"
+  ],
+  "official_language": ["Dzongkha"],
+  "currency": { "title": "Bhutanese Ngultrum", "symbol": "Nu." },
+  "major_religions": "Buddhism",
+  "national_day": { "title": "National Day", "date": "17 December" },
+  "phone": {
+    "digital_code": "+975",
+    "phone_operators": ["B-Mobile", "TashiCell"]
+  },
+  "plug_types": ["C", "D", "G"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "Bhutan has traditional alcoholic beverages like ara (rice wine)"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Bhutan has a diverse climate ranging from subtropical in the south to alpine in the north. The country experiences distinct seasons with monsoon rains from June to September, pleasant spring and autumn, and cold winters in the mountains.",
+    "when_to_visit": [
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "March to May, September to November",
+        "short_description": "Mild and pleasant temperatures perfect for trekking, visiting monasteries, and exploring the country. Ideal weather for hiking to Tiger's Nest and other cultural sites. Best time for clear mountain views"
+      },
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm temperatures with monsoon rains, especially in the south. Lush green landscapes but challenging for trekking. Good time to visit if you don't mind occasional rain showers"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures, especially in the mountains. Clear skies and excellent visibility make it great for photography and cultural visits. Some high-altitude areas may be inaccessible"
+      }
+    ],
+    "best_time": "The best time to visit Bhutan is during the spring (March to May) and autumn (September to November) months when the weather is mild and pleasant, making it ideal for trekking, visiting monasteries, and exploring the stunning Himalayan landscapes"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "113"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "110"
+    }
+  ]
+}

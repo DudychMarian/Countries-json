@@ -1,0 +1,96 @@
+{
+  "id": "204",
+  "iso": "BEN",
+  "alpha_2": "BJ",
+  "country_name": "Benin",
+  "cover_image": "https://images.unsplash.com/photo-1600241005059-71de13374958?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bj.svg",
+  "short_description": "Explore Benin, the birthplace of voodoo and home to rich African heritage. Discover the historic Kingdom of Dahomey, vibrant markets, stilt villages, national parks, and experience the unique cultural traditions of this West African nation.",
+  "known_for": [
+    { "title": "🔮 Voodoo Heritage", "color": "red" },
+    { "title": "🏛️ Kingdom of Dahomey", "color": "yellow" },
+    { "title": "🏘️ Stilt Villages", "color": "blue" },
+    { "title": "🦁 Wildlife & Parks", "color": "green" },
+    { "title": "🎨 Rich Culture", "color": "pink" }
+  ],
+  "capital": "Porto-Novo",
+  "major_cities": [
+    "Porto-Novo",
+    "Cotonou",
+    "Parakou",
+    "Djougou",
+    "Bohicon",
+    "Kandi",
+    "Abomey",
+    "Natitingou"
+  ],
+  "official_language": ["French"],
+  "currency": { "title": "West African CFA Franc", "symbol": "Fr" },
+  "major_religions": "Christianity, Islam, Traditional religions",
+  "national_day": { "title": "Independence Day", "date": "01 August" },
+  "phone": {
+    "digital_code": "+229",
+    "phone_operators": ["MTN", "Moov", "Glo"]
+  },
+  "plug_types": ["C", "E"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Not safe to drink - bottled or filtered water is recommended",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Benin has a tropical climate with two distinct seasons: a dry season from November to March and a wet season from April to October. The country experiences hot temperatures year-round, with higher humidity during the rainy season.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "November to March",
+        "short_description": "Hot and dry weather, making this the best time to visit. Perfect for exploring cities, visiting historic sites, wildlife safaris, and outdoor activities. Ideal conditions for visiting national parks and cultural sites"
+      },
+      {
+        "icon": "🌺",
+        "title": "Shoulder Season",
+        "time_period": "April to May, October",
+        "short_description": "Transition periods with occasional rain showers. Still manageable for travel, but be prepared for some rainfall. Good time to visit before or after the peak dry season"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet Season",
+        "time_period": "June to September",
+        "short_description": "Heavy rainfall and high humidity. Challenging conditions for travel, with flooding possible in some areas. Not ideal for most tourists, though the countryside is lush and green"
+      }
+    ],
+    "best_time": "The best time to visit Benin is during the dry season from November to March when the weather is hot and dry, making it ideal for exploring cities, historic sites, wildlife safaris, and outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "117"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "118"
+    }
+  ]
+}

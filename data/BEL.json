@@ -1,0 +1,106 @@
+{
+  "id": "056",
+  "iso": "BEL",
+  "alpha_2": "BE",
+  "country_name": "Belgium",
+  "cover_image": "https://images.unsplash.com/photo-1491557345352-5929e343eb89?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/be.svg",
+  "short_description": "Discover Belgium, the heart of Europe, where medieval architecture meets modern culture. Experience world-famous chocolate, exceptional beer, delicious waffles, historic cities, and the vibrant atmosphere of Brussels, the capital of the European Union.",
+  "known_for": [
+    { "title": "🍫 World-Famous Chocolate", "color": "yellow" },
+    { "title": "🍺 Exceptional Beer", "color": "green" },
+    { "title": "🏛️ Medieval Architecture", "color": "blue" },
+    { "title": "🧇 Belgian Waffles", "color": "pink" },
+    { "title": "🏛️ EU Capital", "color": "red" }
+  ],
+  "capital": "Brussels",
+  "major_cities": [
+    "Brussels",
+    "Antwerp",
+    "Ghent",
+    "Charleroi",
+    "Liège",
+    "Bruges",
+    "Namur",
+    "Leuven",
+    "Mons",
+    "Aalst"
+  ],
+  "official_language": ["Dutch", "French", "German"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Christianity (Roman Catholic)",
+  "national_day": { "title": "National Day", "date": "21 July" },
+  "phone": {
+    "digital_code": "+32",
+    "phone_operators": ["Proximus", "Orange", "Telenet"]
+  },
+  "plug_types": ["C", "E"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "FREENOW", "url": "https://www.free-now.com/" }
+    ],
+    "metro": [
+      { "title": "Brussels", "url": "https://www.urbanrail.net/eu/be/bru/brussels-map.png" },
+      { "title": "Antwerp", "url": "https://www.urbanrail.net/eu/be/ant/antwerp-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Belgium has excellent water quality",
+    "alcohol_consumption_age": "16 years old (beer/wine), 18 years old (spirits)",
+    "alcohol_parchase_age": "16 years old (beer/wine), 18 years old (spirits)",
+    "alcohol_info": [
+      "Beer and wine can be purchased and consumed at age 16",
+      "Spirits and other alcoholic beverages require age 18",
+      "Belgium is famous for its diverse beer culture with hundreds of varieties"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters (€1-2 per bag) and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though service charge may be included",
+      "taxis": "Rounding up the fare is common, 10% tip is appreciated"
+    }
+  },
+  "weather": {
+    "title": "Belgium has a temperate maritime climate with mild summers and cool, wet winters. The country experiences moderate rainfall throughout the year, with no distinct dry season.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Mild and pleasant temperatures perfect for exploring cities, visiting historic sites, and outdoor activities. Ideal time to visit Bruges, Ghent, and Brussels. Great for festivals and cultural events"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring medieval cities, and enjoying cultural attractions without the summer crowds. Great time for chocolate and beer tours"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold and damp with shorter daylight hours. Great time to visit Christmas markets, enjoy cozy cafes, and explore museums. Beautiful festive atmosphere in cities like Brussels and Bruges"
+      }
+    ],
+    "best_time": "The best time to visit Belgium is during the spring (April to May) and autumn (September to October) months when the weather is mild and pleasant, making it ideal for exploring historic cities, enjoying chocolate and beer, and experiencing the cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "020",
+  "iso": "AND",
+  "alpha_2": "AD",
+  "country_name": "Andorra",
+  "cover_image": "https://images.unsplash.com/photo-1602776078307-8747d6f9d89f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/ad.svg",
+  "short_description": "Discover the charming microstate of Andorra, nestled in the Pyrenees mountains between France and Spain. Experience world-class skiing, tax-free shopping, stunning alpine landscapes, and rich Catalan culture in this unique European principality.",
+  "known_for": [
+    { "title": "⛷️ World-Class Skiing", "color": "blue" },
+    { "title": "🛍️ Tax-Free Shopping", "color": "pink" },
+    { "title": "⛰️ Pyrenees Mountains", "color": "green" },
+    { "title": "🏛️ Romanesque Architecture", "color": "yellow" },
+    { "title": "🌲 Natural Beauty", "color": "red" }
+  ],
+  "capital": "Andorra la Vella",
+  "major_cities": [
+    "Andorra la Vella",
+    "Escaldes-Engordany",
+    "Encamp",
+    "Sant Julià de Lòria",
+    "La Massana",
+    "Ordino",
+    "Canillo"
+  ],
+  "official_language": ["Catalan"],
+  "currency": { "title": "Euro", "symbol": "€" },
+  "major_religions": "Christianity (Roman Catholic)",
+  "national_day": { "title": "Constitution Day", "date": "14 March" },
+  "phone": {
+    "digital_code": "+376",
+    "phone_operators": ["Andorra Telecom"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though service charge may be included",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Andorra has a high mountain climate with cold, snowy winters and mild, pleasant summers. The weather varies significantly with altitude, with higher elevations experiencing more extreme conditions.",
+    "when_to_visit": [
+      {
+        "icon": "⛷️",
+        "title": "Winter Ski Season",
+        "time_period": "December to March",
+        "short_description": "Cold and snowy conditions perfect for skiing and winter sports. Andorra's ski resorts are world-renowned, offering excellent slopes and facilities. Great time for winter activities and après-ski"
+      },
+      {
+        "icon": "🌺",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Mild and pleasant temperatures ideal for hiking, mountain biking, and outdoor activities. Perfect for exploring the natural beauty of the Pyrenees, visiting Romanesque churches, and enjoying the mountain scenery"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild temperatures with beautiful seasonal colors. Great for sightseeing, shopping, and enjoying the cultural attractions without the winter crowds. Ideal for hiking and exploring the capital"
+      }
+    ],
+    "best_time": "The best time to visit Andorra depends on your interests: visit during winter (December to March) for world-class skiing, or during summer (June to August) for hiking and outdoor activities in the beautiful Pyrenees mountains"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "012",
+  "iso": "DZA",
+  "alpha_2": "DZ",
+  "country_name": "Algeria",
+  "cover_image": "https://images.unsplash.com/photo-1582638682484-02feebeafc3e?q=80&w=3224&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/dz.svg",
+  "short_description": "Explore the largest country in Africa, Algeria, with its diverse landscapes from the Mediterranean coast to the vast Sahara Desert. Discover ancient Roman ruins, vibrant markets, stunning mountain ranges, and rich Berber and Arab cultural heritage.",
+  "known_for": [
+    { "title": "🏜️ Sahara Desert", "color": "yellow" },
+    { "title": "🏛️ Roman Ruins", "color": "red" },
+    { "title": "⛰️ Atlas Mountains", "color": "green" },
+    { "title": "🕌 Islamic Heritage", "color": "blue" },
+    { "title": "🍽️ North African Cuisine", "color": "pink" }
+  ],
+  "capital": "Algiers",
+  "major_cities": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Annaba",
+    "Blida",
+    "Batna",
+    "Djelfa",
+    "Sétif",
+    "Sidi Bel Abbès",
+    "Biskra"
+  ],
+  "official_language": ["Arabic", "Tamazight"],
+  "currency": { "title": "Algerian Dinar", "symbol": "د.ج" },
+  "major_religions": "Islam",
+  "national_day": { "title": "Independence Day", "date": "05 July" },
+  "phone": {
+    "digital_code": "+213",
+    "phone_operators": ["Mobilis", "Djezzy", "Ooredoo"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": [
+      { "title": "Algiers", "url": "https://www.urbanrail.net/af/dza/alg/algiers-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "Alcohol consumption is legal but restricted due to Islamic cultural norms",
+      "Alcohol can be purchased from licensed hotels and some restaurants, but availability is limited",
+      "Public consumption of alcohol is generally discouraged"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Algeria has a Mediterranean climate along the northern coast with hot, dry summers and mild, wet winters. The interior and southern regions have an arid desert climate with extreme temperature variations.",
+    "when_to_visit": [
+      {
+        "icon": "🌞",
+        "title": "Spring & Autumn",
+        "time_period": "March to May, September to November",
+        "short_description": "Mild and pleasant temperatures along the coast, perfect for exploring cities like Algiers, Oran, and Constantine. Ideal weather for visiting Roman ruins and historical sites"
+      },
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Hot along the coast, extremely hot in the desert. Good time for coastal activities, but desert travel requires careful planning. Early morning and evening are best for sightseeing"
+      },
+      {
+        "icon": "🏜️",
+        "title": "Desert Exploration",
+        "time_period": "October to April",
+        "short_description": "Cooler temperatures make this the best time for Sahara Desert adventures. Days are warm but nights can be cold. Perfect for camel treks and desert camping"
+      }
+    ],
+    "best_time": "The best time to visit Algeria is during the spring (March to May) and autumn (September to November) months when the weather along the Mediterranean coast is mild and pleasant, making it ideal for exploring cities, historical sites, and coastal areas"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "17"
+    },
+    {
+      "title": "Ambulance",
+      "number": "14"
+    },
+    {
+      "title": "Fire",
+      "number": "14"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "010",
+  "iso": "ATA",
+  "alpha_2": "AQ",
+  "country_name": "Antarctica",
+  "cover_image": "https://images.unsplash.com/photo-1535752385016-16aa049b6a8d?q=80&w=3623&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/aq.svg",
+  "short_description": "Experience the pristine wilderness of Antarctica, the world's southernmost continent. Discover breathtaking ice landscapes, unique wildlife including penguins and seals, scientific research stations, and the awe-inspiring beauty of the last great frontier on Earth.",
+  "known_for": [
+    { "title": "🐧 Unique Wildlife", "color": "blue" },
+    { "title": "🧊 Ice Landscapes", "color": "green" },
+    { "title": "🔬 Scientific Research", "color": "yellow" },
+    { "title": "🌊 Pristine Wilderness", "color": "pink" },
+    { "title": "❄️ Extreme Environment", "color": "red" }
+  ],
+  "capital": "N/A",
+  "major_cities": [
+    "McMurdo Station",
+    "Amundsen-Scott South Pole Station",
+    "Palmer Station",
+    "Rothera Research Station",
+    "Casey Station",
+    "Davis Station",
+    "Mawson Station"
+  ],
+  "official_language": ["N/A"],
+  "currency": { "title": "Varies by research station", "symbol": "N/A" },
+  "major_religions": "N/A",
+  "national_day": { "title": "Antarctica Day", "date": "01 December" },
+  "phone": {
+    "digital_code": "Varies by research station",
+    "phone_operators": ["Varies by research station"]
+  },
+  "plug_types": ["C", "I"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Water is typically sourced from melted ice and treated at research stations",
+    "alcohol_consumption_age": "Varies by research station nationality",
+    "alcohol_parchase_age": "Varies by research station nationality",
+    "alcohol_info": [
+      "Alcohol regulations depend on the nationality and policies of each research station",
+      "Most research stations have strict alcohol policies due to the extreme environment"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "N/A - Research stations operate differently",
+      "guides": "Tipping practices vary by tour operator and expedition company",
+      "restaurants": "N/A - Limited dining facilities at research stations",
+      "taxis": "N/A"
+    }
+  },
+  "weather": {
+    "title": "Antarctica has an extreme polar climate with the coldest temperatures on Earth. The continent experiences long, dark winters and short, cool summers. Weather conditions are harsh and unpredictable, with strong winds and extreme cold.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Antarctic Summer",
+        "time_period": "November to March",
+        "short_description": "The only time when tourist visits are possible. Warmer temperatures (still below freezing), 24-hour daylight, and accessible conditions. Best time for wildlife viewing, especially penguins and seals. Cruise ships operate during this period"
+      },
+      {
+        "icon": "🌙",
+        "title": "Antarctic Winter",
+        "time_period": "April to October",
+        "short_description": "Extremely cold with 24-hour darkness. Only accessible to scientific researchers at permanent stations. Not suitable for tourism due to extreme conditions and inaccessibility"
+      },
+      {
+        "icon": "🐧",
+        "title": "Wildlife Season",
+        "time_period": "December to February",
+        "short_description": "Peak wildlife activity with penguin colonies active, seals on beaches, and whales in surrounding waters. Best time for wildlife photography and observation. Warmer temperatures and longer daylight hours"
+      }
+    ],
+    "best_time": "The best time to visit Antarctica is during the Antarctic summer from November to March, when conditions are most accessible for tourism, wildlife is most active, and cruise ships operate expeditions to the continent"
+  },
+  "emergency": [
+    {
+      "title": "Emergency",
+      "number": "Varies by research station"
+    },
+    {
+      "title": "Search and Rescue",
+      "number": "Contact expedition operator or nearest research station"
+    },
+    {
+      "title": "Medical Emergency",
+      "number": "Contact expedition medical team or research station"
+    }
+  ]
+}

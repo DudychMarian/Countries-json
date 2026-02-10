@@ -1,0 +1,92 @@
+{
+  "id": "162",
+  "iso": "CXR",
+  "alpha_2": "CX",
+  "country_name": "Christmas Island",
+  "cover_image": "https://images.unsplash.com/photo-1666203395124-df1f3416c3e1?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/cx.svg",
+  "short_description": "Discover Christmas Island, an Australian territory in the Indian Ocean known for its spectacular red crab migration, unique wildlife, pristine beaches, and stunning natural beauty. Experience world-class diving, explore lush rainforests, and witness one of nature's greatest migrations.",
+  "known_for": [
+    { "title": "🦀 Red Crab Migration", "color": "red" },
+    { "title": "🤿 World-Class Diving", "color": "blue" },
+    { "title": "🌳 Pristine Rainforests", "color": "green" },
+    { "title": "🐦 Unique Wildlife", "color": "yellow" },
+    { "title": "🌊 Crystal Clear Waters", "color": "pink" }
+  ],
+  "capital": "Flying Fish Cove",
+  "major_cities": [
+    "Flying Fish Cove",
+    "Poon Saan",
+    "Silver City",
+    "Drumsite"
+  ],
+  "official_language": ["English"],
+  "currency": { "title": "Australian Dollar", "symbol": "A$" },
+  "major_religions": "Christianity, Buddhism, Islam",
+  "national_day": { "title": "Australia Day", "date": "26 January" },
+  "phone": {
+    "digital_code": "+61 8",
+    "phone_operators": ["Telstra"]
+  },
+  "plug_types": ["I"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - excellent water quality",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is not mandatory but appreciated for exceptional service",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "Tipping is not mandatory but 10% is appreciated for good service",
+      "taxis": "Tipping is not expected but rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Christmas Island has a tropical equatorial climate with warm temperatures year-round. The island experiences two distinct seasons: a dry season from May to November and a wet season from December to April, with the wet season bringing the famous red crab migration.",
+    "when_to_visit": [
+      {
+        "icon": "🦀",
+        "title": "Red Crab Migration",
+        "time_period": "October to December",
+        "short_description": "Witness the spectacular red crab migration, one of nature's greatest spectacles. Millions of red crabs migrate from the forest to the coast to spawn. This is a unique and unforgettable experience"
+      },
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "May to November",
+        "short_description": "Perfect weather with low humidity, minimal rainfall, and warm temperatures. Ideal for diving, snorkeling, hiking, and outdoor activities. Best time for exploring the island's natural beauty"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet Season",
+        "time_period": "December to April",
+        "short_description": "Higher humidity and more frequent rain showers. The wet season brings the red crab migration, making it a unique time to visit. Still possible to enjoy activities between rain showers"
+      }
+    ],
+    "best_time": "The best time to visit Christmas Island is during the dry season from May to November for ideal weather, or during October to December to witness the spectacular red crab migration"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "000"
+    },
+    {
+      "title": "Ambulance",
+      "number": "000"
+    },
+    {
+      "title": "Fire",
+      "number": "000"
+    }
+  ]
+}

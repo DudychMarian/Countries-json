@@ -1,0 +1,81 @@
+{
+  "id": "074",
+  "iso": "BVT",
+  "alpha_2": "BV",
+  "country_name": "Bouvet Island",
+  "cover_image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bv.svg",
+  "short_description": "Bouvet Island is an uninhabited Norwegian territory in the South Atlantic Ocean, one of the most remote islands in the world. Covered almost entirely by glaciers, this volcanic island is accessible only to scientific researchers and is not open to tourism.",
+  "known_for": [
+    { "title": "🏔️ Volcanic Island", "color": "red" },
+    { "title": "🧊 Glacier Covered", "color": "blue" },
+    { "title": "🌊 Remote Location", "color": "green" },
+    { "title": "🔬 Scientific Research", "color": "yellow" },
+    { "title": "❄️ Extreme Environment", "color": "pink" }
+  ],
+  "capital": "N/A",
+  "major_cities": [],
+  "official_language": ["Norwegian"],
+  "currency": { "title": "Norwegian Krone", "symbol": "kr" },
+  "major_religions": "N/A",
+  "national_day": { "title": "N/A", "date": "N/A" },
+  "phone": {
+    "digital_code": "+47",
+    "phone_operators": ["N/A - No permanent infrastructure"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Water sourced from glaciers and treated",
+    "alcohol_consumption_age": "18 years old (Norwegian law)",
+    "alcohol_parchase_age": "18 years old (Norwegian law)",
+    "alcohol_info": [
+      "Alcohol regulations follow Norwegian law",
+      "No commercial facilities available on the island"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "N/A - No tourist facilities",
+      "guides": "N/A - Not accessible to tourists",
+      "restaurants": "N/A - No commercial facilities",
+      "taxis": "N/A"
+    }
+  },
+  "weather": {
+    "title": "Bouvet Island has a polar climate with cold temperatures year-round. The island experiences harsh weather conditions with strong winds, heavy precipitation, and temperatures rarely above freezing. The island is covered almost entirely by glaciers.",
+    "when_to_visit": [
+      {
+        "icon": "🔬",
+        "title": "Research Visits",
+        "time_period": "Varies",
+        "short_description": "The island is only accessible to scientific researchers with special permits. No tourism is permitted. Access is extremely difficult due to the island's remote location, harsh weather, and lack of safe landing sites"
+      },
+      {
+        "icon": "❄️",
+        "title": "Weather Conditions",
+        "time_period": "Year-round",
+        "short_description": "Extreme weather conditions persist throughout the year. The island is almost entirely covered by glaciers, with only a small area of bare rock. Strong winds and heavy precipitation make access challenging"
+      }
+    ],
+    "best_time": "Bouvet Island is not accessible to tourists. The island is only visited by scientific researchers with special permits and authorization from Norwegian authorities"
+  },
+  "emergency": [
+    {
+      "title": "Emergency",
+      "number": "Contact Norwegian authorities or research expedition"
+    },
+    {
+      "title": "Search and Rescue",
+      "number": "Contact Norwegian Coast Guard or expedition operator"
+    },
+    {
+      "title": "Medical Emergency",
+      "number": "Contact expedition medical team or Norwegian authorities"
+    }
+  ]
+}

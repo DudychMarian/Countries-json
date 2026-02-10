@@ -1,0 +1,101 @@
+{
+  "id": "048",
+  "iso": "BHR",
+  "alpha_2": "BH",
+  "country_name": "Bahrain",
+  "cover_image": "https://images.unsplash.com/photo-1548755212-2b46ee259868?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bh.svg",
+  "short_description": "Discover Bahrain, a modern island nation in the Persian Gulf blending ancient history with contemporary luxury. Experience the Formula 1 Grand Prix, explore ancient Dilmun sites, enjoy world-class shopping and dining, and discover the rich cultural heritage of this Gulf state.",
+  "known_for": [
+    { "title": "🏎️ Formula 1 Grand Prix", "color": "red" },
+    { "title": "🏛️ Ancient Dilmun History", "color": "yellow" },
+    { "title": "🏦 Financial Hub", "color": "blue" },
+    { "title": "🛍️ Luxury Shopping", "color": "pink" },
+    { "title": "🌴 Modern Architecture", "color": "green" }
+  ],
+  "capital": "Manama",
+  "major_cities": [
+    "Manama",
+    "Riffa",
+    "Muharraq",
+    "Hamad Town",
+    "A'ali",
+    "Isa Town",
+    "Sitra",
+    "Budaiya"
+  ],
+  "official_language": ["Arabic"],
+  "currency": { "title": "Bahraini Dinar", "symbol": ".د.ب" },
+  "major_religions": "Islam",
+  "national_day": { "title": "National Day", "date": "16 December" },
+  "phone": {
+    "digital_code": "+973",
+    "phone_operators": ["Batelco", "Zain", "STC"]
+  },
+  "plug_types": ["G"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Careem", "url": "https://www.careem.com/" }
+    ],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Bahrain has excellent desalinated water",
+    "alcohol_consumption_age": "21 years old",
+    "alcohol_parchase_age": "21 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 21",
+      "Alcohol can be purchased from licensed hotels, restaurants, and some stores",
+      "Public consumption of alcohol is restricted, but available in licensed venues"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated for porters (1-2 BHD per bag) and housekeeping (2-5 BHD per day)",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10-15% tip is customary for good service, though service charge may be included",
+      "taxis": "Tipping is appreciated, rounding up is common"
+    }
+  },
+  "weather": {
+    "title": "Bahrain has an arid climate with hot, humid summers and mild winters. The country experiences very little rainfall and high temperatures during the summer months, with more pleasant weather from November to March.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Winter",
+        "time_period": "November to March",
+        "short_description": "Mild and pleasant temperatures perfect for outdoor activities, sightseeing, and exploring the country. Ideal weather for visiting historic sites, shopping, and enjoying cultural attractions. Best time for Formula 1 Grand Prix in March"
+      },
+      {
+        "icon": "🌺",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, October",
+        "short_description": "Warm temperatures with increasing humidity. Still comfortable for most activities, but be prepared for warmer weather. Good time to visit before or after the peak summer heat"
+      },
+      {
+        "icon": "🔥",
+        "title": "Summer",
+        "time_period": "June to September",
+        "short_description": "Extremely hot and humid conditions with temperatures often exceeding 40°C (104°F). Not ideal for outdoor activities during the day. Best to stay indoors or in air-conditioned spaces, with activities in early morning or evening"
+      }
+    ],
+    "best_time": "The best time to visit Bahrain is during the winter months from November to March when the weather is mild and pleasant, making it ideal for exploring historic sites, shopping, outdoor activities, and cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "999"
+    },
+    {
+      "title": "Ambulance",
+      "number": "999"
+    },
+    {
+      "title": "Fire",
+      "number": "999"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "068",
+  "iso": "BOL",
+  "alpha_2": "BO",
+  "country_name": "Bolivia",
+  "cover_image": "https://images.unsplash.com/photo-1540294437416-5ac3b561d896?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bo.svg",
+  "short_description": "Discover Bolivia, a landlocked South American nation of dramatic contrasts. Experience the world's largest salt flat at Salar de Uyuni, explore the high-altitude capital of La Paz, visit Lake Titicaca, and immerse yourself in the rich indigenous culture and stunning Andean landscapes.",
+  "known_for": [
+    { "title": "🧂 Salar de Uyuni", "color": "white" },
+    { "title": "⛰️ Andean Landscapes", "color": "green" },
+    { "title": "🌊 Lake Titicaca", "color": "blue" },
+    { "title": "🏛️ Indigenous Culture", "color": "red" },
+    { "title": "🏔️ High Altitude", "color": "yellow" }
+  ],
+  "capital": "Sucre",
+  "major_cities": [
+    "La Paz",
+    "Santa Cruz",
+    "Cochabamba",
+    "Sucre",
+    "Oruro",
+    "Potosí",
+    "Tarija",
+    "El Alto",
+    "Trinidad",
+    "Riberalta"
+  ],
+  "official_language": ["Spanish", "Quechua", "Aymara"],
+  "currency": { "title": "Bolivian Boliviano", "symbol": "Bs." },
+  "major_religions": "Christianity (Roman Catholic)",
+  "national_day": { "title": "Independence Day", "date": "06 August" },
+  "phone": {
+    "digital_code": "+591",
+    "phone_operators": ["Entel", "Tigo", "Viva"]
+  },
+  "plug_types": ["A", "C"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Cabify", "url": "https://cabify.com/" }
+    ],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Not safe to drink - bottled or filtered water is recommended",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "Altitude sickness (soroche) is common at high elevations - avoid alcohol initially"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Bolivia has diverse climates ranging from tropical in the lowlands to cold and dry in the high Andes. The country experiences distinct wet and dry seasons, with weather varying significantly by altitude.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "May to October",
+        "short_description": "Cool and dry weather, making this the best time to visit. Perfect for exploring Salar de Uyuni, hiking in the Andes, and visiting high-altitude destinations. Clear skies and ideal conditions for photography"
+      },
+      {
+        "icon": "🌺",
+        "title": "Wet Season",
+        "time_period": "November to April",
+        "short_description": "Warmer temperatures with frequent rain showers, especially in the lowlands. Salar de Uyuni becomes a mirror during this time, creating stunning reflections. Lush green landscapes but challenging for some activities"
+      },
+      {
+        "icon": "⛰️",
+        "title": "High Altitude Travel",
+        "time_period": "Year-round",
+        "short_description": "Be prepared for altitude sickness (soroche) when visiting high-altitude areas like La Paz and Salar de Uyuni. Acclimatize gradually and stay hydrated. Weather can change quickly in the mountains"
+      }
+    ],
+    "best_time": "The best time to visit Bolivia is during the dry season from May to October when the weather is cool and dry, making it ideal for exploring Salar de Uyuni, hiking in the Andes, and visiting high-altitude destinations with clear skies"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "110"
+    },
+    {
+      "title": "Ambulance",
+      "number": "118"
+    },
+    {
+      "title": "Fire",
+      "number": "119"
+    }
+  ]
+}

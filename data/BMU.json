@@ -1,0 +1,96 @@
+{
+  "id": "060",
+  "iso": "BMU",
+  "alpha_2": "BM",
+  "country_name": "Bermuda",
+  "cover_image": "https://images.unsplash.com/photo-1667978754074-0be1bba96981?q=80&w=1782&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bm.svg",
+  "short_description": "Discover Bermuda, a British Overseas Territory in the North Atlantic known for its iconic pink sand beaches, crystal-clear turquoise waters, and British colonial charm. Experience world-class golf, historic sites, and the unique culture of this subtropical island paradise.",
+  "known_for": [
+    { "title": "🏖️ Pink Sand Beaches", "color": "pink" },
+    { "title": "⛳ World-Class Golf", "color": "green" },
+    { "title": "🏛️ British Heritage", "color": "blue" },
+    { "title": "🤿 Diving & Snorkeling", "color": "yellow" },
+    { "title": "🌊 Crystal Clear Waters", "color": "red" }
+  ],
+  "capital": "Hamilton",
+  "major_cities": [
+    "Hamilton",
+    "St. George's",
+    "Somerset",
+    "Flatts Village",
+    "Warwick",
+    "Paget",
+    "Devonshire"
+  ],
+  "official_language": ["English"],
+  "currency": { "title": "Bermudian Dollar", "symbol": "$" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Bermuda Day", "date": "24 May" },
+  "phone": {
+    "digital_code": "+1 441",
+    "phone_operators": ["Digicel", "One Communications"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Bermuda has excellent water quality",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "US Dollar is widely accepted alongside the Bermudian Dollar"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated for porters ($1-2 per bag) and housekeeping ($2-5 per day)",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "15-20% tip is customary for good service, though some restaurants may include a service charge",
+      "taxis": "Tipping is appreciated, 15% is standard"
+    }
+  },
+  "weather": {
+    "title": "Bermuda has a subtropical climate with mild winters and warm, humid summers. The island experiences consistent temperatures year-round, with the warmest months from May to October and cooler temperatures from November to April.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Spring & Summer",
+        "time_period": "April to October",
+        "short_description": "Warm and pleasant temperatures perfect for beach activities, water sports, diving, and outdoor adventures. Ideal time to visit pink sand beaches, enjoy golf, and explore the island. Peak tourist season with best weather"
+      },
+      {
+        "icon": "🌺",
+        "title": "Shoulder Season",
+        "time_period": "March, November",
+        "short_description": "Mild temperatures with fewer crowds. Still excellent weather for beach activities and outdoor adventures. Great time to visit with lower prices and pleasant conditions"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Mild temperatures, though cooler than summer months. Still pleasant for sightseeing and exploring historic sites. Fewer tourists and lower prices, but some beach activities may be limited"
+      }
+    ],
+    "best_time": "The best time to visit Bermuda is during the spring and summer months from April to October when the weather is warm and pleasant, making it ideal for beach activities, water sports, diving, golf, and outdoor adventures"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "911"
+    },
+    {
+      "title": "Ambulance",
+      "number": "911"
+    },
+    {
+      "title": "Fire",
+      "number": "911"
+    }
+  ]
+}

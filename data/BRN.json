@@ -1,0 +1,94 @@
+{
+  "id": "096",
+  "iso": "BRN",
+  "alpha_2": "BN",
+  "country_name": "Brunei",
+  "cover_image": "https://images.unsplash.com/photo-1705583855040-3c25b4a9eab9?q=80&w=1744&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bn.svg",
+  "short_description": "Discover Brunei, a small but wealthy Southeast Asian nation on the island of Borneo. Experience rich Islamic culture, explore pristine rainforests, visit the magnificent Sultan Omar Ali Saifuddien Mosque, and immerse yourself in the unique blend of traditional and modern Brunei.",
+  "known_for": [
+    { "title": "🕌 Islamic Heritage", "color": "green" },
+    { "title": "🛢️ Oil Wealth", "color": "yellow" },
+    { "title": "🌳 Pristine Rainforests", "color": "green" },
+    { "title": "👑 Sultanate", "color": "red" },
+    { "title": "🏛️ Grand Mosques", "color": "blue" }
+  ],
+  "capital": "Bandar Seri Begawan",
+  "major_cities": [
+    "Bandar Seri Begawan",
+    "Kuala Belait",
+    "Seria",
+    "Tutong",
+    "Bangar"
+  ],
+  "official_language": ["Malay"],
+  "currency": { "title": "Brunei Dollar", "symbol": "$" },
+  "major_religions": "Islam",
+  "national_day": { "title": "National Day", "date": "23 February" },
+  "phone": {
+    "digital_code": "+673",
+    "phone_operators": ["DST", "Progresif"]
+  },
+  "plug_types": ["G"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Brunei has excellent water quality",
+    "alcohol_consumption_age": "N/A - Alcohol is prohibited",
+    "alcohol_parchase_age": "N/A - Alcohol is prohibited",
+    "alcohol_info": [
+      "Alcohol is prohibited in Brunei due to Islamic law",
+      "Non-Muslims over 17 years old may import limited amounts for personal consumption",
+      "Public consumption of alcohol is strictly prohibited"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated but not mandatory",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "Tipping is not customary, though service charge may be included",
+      "taxis": "Tipping is not expected but rounding up is appreciated"
+    }
+  },
+  "weather": {
+    "title": "Brunei has a tropical equatorial climate with high humidity and consistent warm temperatures year-round. The country experiences two monsoon seasons: the northeast monsoon from December to March and the southwest monsoon from June to September, with heavy rainfall throughout the year.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "March to May, September to November",
+        "short_description": "Relatively drier periods with less rainfall, making this the best time to visit. Perfect for exploring cities, visiting mosques, and outdoor activities. Ideal weather for sightseeing and cultural experiences"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Monsoon Season",
+        "time_period": "December to February, June to August",
+        "short_description": "Heavy rainfall and high humidity during monsoon periods. Still possible to visit, but be prepared for frequent rain showers. Lush green landscapes and fewer tourists"
+      },
+      {
+        "icon": "🕌",
+        "title": "Cultural Visits",
+        "time_period": "Year-round",
+        "short_description": "Brunei can be visited year-round for cultural experiences. The weather is consistently warm, and indoor attractions like mosques and museums are accessible regardless of rain"
+      }
+    ],
+    "best_time": "The best time to visit Brunei is during the relatively drier periods from March to May and September to November when rainfall is lower, making it ideal for exploring cities, visiting mosques, and outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "993"
+    },
+    {
+      "title": "Ambulance",
+      "number": "991"
+    },
+    {
+      "title": "Fire",
+      "number": "995"
+    }
+  ]
+}

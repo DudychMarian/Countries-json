@@ -1,0 +1,114 @@
+{
+    "id": "184",
+    "iso": "COK",
+    "alpha_2": "CK",
+    "country_name": "Cook Islands",
+    "cover_image": "https://images.unsplash.com/photo-1604988162322-d5d678a1d993?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/ck.svg",
+    "short_description": "The Cook Islands is a nation in the South Pacific, with political links to New Zealand. Its 15 islands are scattered over a vast area.",
+    "known_for": [
+        {
+            "title": "🏝️ Aitutaki Lagoon",
+            "color": "blue"
+        },
+        {
+            "title": "🐠 Snorkeling",
+            "color": "green"
+        },
+        {
+            "title": "🌺 Polynesian Culture",
+            "color": "pink"
+        },
+        {
+            "title": "⚫ Black Pearls",
+            "color": "black"
+        },
+        {
+            "title": "🥁 Drumming",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Avarua",
+    "major_cities": [
+        "Avarua",
+        "Amuri",
+        "Omoka",
+        "Arutanga"
+    ],
+    "official_language": [
+        "English",
+        "Cook Islands Māori"
+    ],
+    "currency": {
+        "title": "New Zealand dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Constitution Day",
+        "date": "04 August"
+    },
+    "phone": {
+        "digital_code": "+682",
+        "phone_operators": [
+            "Vodafone"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink on Rarotonga and Aitutaki, bottled recommended elsewhere",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Sunday alcohol sales are restricted"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected",
+            "restaurants": "Not expected in Polynesian culture",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "The Cook Islands enjoys a pleasant, warm, and sunny climate year-round.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "April to November",
+                "short_description": "The most popular time to visit with warm days and cool nights."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "December to March",
+                "short_description": "Warmer and more humid, with a higher chance of rain and tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is during the drier months from April to November."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "999"
+        },
+        {
+            "title": "Fire",
+            "number": "999"
+        },
+        {
+            "title": "Ambulance",
+            "number": "999"
+        }
+    ]
+}

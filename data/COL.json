@@ -1,0 +1,105 @@
+{
+  "id": "170",
+  "iso": "COL",
+  "alpha_2": "CO",
+  "country_name": "Colombia",
+  "cover_image": "https://images.unsplash.com/photo-1583531352515-8884af319dc1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/co.svg",
+  "short_description": "Discover Colombia, a vibrant South American nation known for its world-famous coffee, emeralds, diverse landscapes, and rich cultural heritage. Explore the colorful cities of Bogotá and Cartagena, experience the warmth of Colombian culture, and immerse yourself in the natural beauty of this Andean country.",
+  "known_for": [
+    { "title": "☕ World-Famous Coffee", "color": "yellow" },
+    { "title": "💎 Emeralds", "color": "green" },
+    { "title": "🏛️ Colonial Architecture", "color": "blue" },
+    { "title": "💃 Salsa & Music", "color": "red" },
+    { "title": "⛰️ Andean Landscapes", "color": "pink" }
+  ],
+  "capital": "Bogotá",
+  "major_cities": [
+    "Bogotá",
+    "Medellín",
+    "Cali",
+    "Barranquilla",
+    "Cartagena",
+    "Cúcuta",
+    "Bucaramanga",
+    "Pereira",
+    "Santa Marta",
+    "Manizales"
+  ],
+  "official_language": ["Spanish"],
+  "currency": { "title": "Colombian Peso", "symbol": "$" },
+  "major_religions": "Christianity (predominantly Roman Catholic)",
+  "national_day": { "title": "Independence Day", "date": "20 July" },
+  "phone": {
+    "digital_code": "+57",
+    "phone_operators": ["Claro", "Movistar", "Tigo", "Avantel"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Cabify", "url": "https://cabify.com/" },
+      { "title": "Didi", "url": "https://www.didiglobal.com/" }
+    ],
+    "metro": [
+      { "title": "Medellín", "url": "https://www.urbanrail.net/am/col/med/medellin-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops",
+      "Colombia is known for its aguardiente and rum"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though service charge may be included",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Colombia has diverse climates ranging from tropical along the coast to temperate in the highlands, with weather varying significantly by altitude. The country experiences two distinct seasons: a dry season and a wet season, though timing varies by region.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "December to March, July to August",
+        "short_description": "Cooler and drier weather, making this the best time to visit. Perfect for exploring cities, visiting coffee regions, and outdoor activities. Ideal conditions for sightseeing and cultural experiences"
+      },
+      {
+        "icon": "🌺",
+        "title": "Shoulder Season",
+        "time_period": "April to June, September to November",
+        "short_description": "Transition periods with occasional rain showers. Still manageable for travel, but be prepared for some rainfall. Good time to visit with fewer crowds"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet Season",
+        "time_period": "April to May, October to November",
+        "short_description": "Heavy rainfall in many regions. Challenging conditions for travel, with flooding possible in some areas. Lush green landscapes but difficult for outdoor activities"
+      }
+    ],
+    "best_time": "The best time to visit Colombia is during the dry seasons from December to March and July to August when the weather is cooler and drier, making it ideal for exploring cities, visiting coffee regions, and outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "123"
+    },
+    {
+      "title": "Ambulance",
+      "number": "123"
+    },
+    {
+      "title": "Fire",
+      "number": "123"
+    }
+  ]
+}

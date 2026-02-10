@@ -1,0 +1,96 @@
+{
+  "id": "533",
+  "iso": "ABW",
+  "alpha_2": "AW",
+  "country_name": "Aruba",
+  "cover_image": "https://images.unsplash.com/photo-1611842369902-19660614a34c?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/aw.svg",
+  "short_description": "Experience the 'One Happy Island' of Aruba, a Dutch Caribbean paradise known for its pristine white-sand beaches, crystal-clear turquoise waters, year-round sunshine, and vibrant culture. Discover Dutch colonial architecture, world-class diving, and the warm hospitality of the Aruban people.",
+  "known_for": [
+    { "title": "🏖️ Pristine Beaches", "color": "blue" },
+    { "title": "🌞 Year-Round Sunshine", "color": "yellow" },
+    { "title": "🤿 World-Class Diving", "color": "green" },
+    { "title": "🎰 Casinos & Nightlife", "color": "pink" },
+    { "title": "🏛️ Dutch Heritage", "color": "red" }
+  ],
+  "capital": "Oranjestad",
+  "major_cities": [
+    "Oranjestad",
+    "San Nicolas",
+    "Noord",
+    "Santa Cruz",
+    "Savaneta",
+    "Paradera",
+    "Pos Chiquito"
+  ],
+  "official_language": ["Dutch", "Papiamento"],
+  "currency": { "title": "Aruban Florin", "symbol": "ƒ" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Flag Day", "date": "18 March" },
+  "phone": {
+    "digital_code": "+297",
+    "phone_operators": ["Setar", "Digicel"]
+  },
+  "plug_types": ["A", "B"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink - Aruba has one of the best desalination plants in the world",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "US Dollar is widely accepted alongside the Aruban Florin"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is appreciated for porters ($1-2 per bag) and housekeeping ($2-5 per day)",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "10-15% tip is customary for good service, though some restaurants may include a service charge",
+      "taxis": "Tipping is appreciated but not mandatory, rounding up is common"
+    }
+  },
+  "weather": {
+    "title": "Aruba has a tropical semi-arid climate with consistently warm temperatures year-round and low humidity. The island is outside the hurricane belt, making it an ideal year-round destination with minimal rainfall.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Year-Round",
+        "time_period": "All year",
+        "short_description": "Aruba enjoys consistent warm weather throughout the year with average temperatures around 82°F (28°C). Perfect for beach activities, water sports, diving, and outdoor adventures at any time"
+      },
+      {
+        "icon": "🌊",
+        "title": "Peak Season",
+        "time_period": "December to April",
+        "short_description": "Dry season with minimal rainfall and perfect beach weather. This is the busiest tourist season with higher prices and more crowds. Ideal for those seeking guaranteed sunshine"
+      },
+      {
+        "icon": "🌺",
+        "title": "Shoulder Season",
+        "time_period": "May to November",
+        "short_description": "Slightly warmer with occasional brief showers, but still excellent weather. Fewer crowds and lower prices make this a great time to visit. Still perfect for all beach and water activities"
+      }
+    ],
+    "best_time": "Aruba is an excellent year-round destination due to its consistent warm weather and location outside the hurricane belt. The dry season from December to April offers guaranteed sunshine, while May to November provides great weather with fewer crowds and better prices"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "911"
+    },
+    {
+      "title": "Ambulance",
+      "number": "911"
+    },
+    {
+      "title": "Fire",
+      "number": "911"
+    }
+  ]
+}

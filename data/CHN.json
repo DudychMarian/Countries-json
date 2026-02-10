@@ -1,0 +1,106 @@
+{
+  "id": "156",
+  "iso": "CHN",
+  "alpha_2": "CN",
+  "country_name": "China",
+  "cover_image": "https://images.unsplash.com/photo-1517309230475-6736d926b979?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/cn.svg",
+  "short_description": "Discover China, the world's most populous country, where ancient history meets modern innovation. Explore the Great Wall, experience vibrant megacities like Beijing and Shanghai, discover diverse landscapes from mountains to deserts, and immerse yourself in the rich cultural heritage of this vast nation.",
+  "known_for": [
+    { "title": "🏛️ Great Wall of China", "color": "red" },
+    { "title": "🏛️ Ancient History", "color": "yellow" },
+    { "title": "🌆 Modern Megacities", "color": "blue" },
+    { "title": "🍜 Chinese Cuisine", "color": "pink" },
+    { "title": "⛰️ Diverse Landscapes", "color": "green" }
+  ],
+  "capital": "Beijing",
+  "major_cities": [
+    "Beijing",
+    "Shanghai",
+    "Guangzhou",
+    "Shenzhen",
+    "Chengdu",
+    "Chongqing",
+    "Xi'an",
+    "Hangzhou",
+    "Wuhan",
+    "Nanjing"
+  ],
+  "official_language": ["Mandarin Chinese"],
+  "currency": { "title": "Chinese Yuan", "symbol": "¥" },
+  "major_religions": "Buddhism, Taoism, Christianity, Islam",
+  "national_day": { "title": "National Day", "date": "01 October" },
+  "phone": {
+    "digital_code": "+86",
+    "phone_operators": ["China Mobile", "China Unicom", "China Telecom"]
+  },
+  "plug_types": ["A", "C", "I"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Didi", "url": "https://www.didiglobal.com/" }
+    ],
+    "metro": [
+      { "title": "Beijing", "url": "https://www.urbanrail.net/As/cn/beij/beijing-map.png" },
+      { "title": "Shanghai", "url": "https://www.urbanrail.net/As/cn/sha/shanghai-map.png" },
+      { "title": "Guangzhou", "url": "https://www.urbanrail.net/As/cn/gua/guangzhou-map.png" },
+      { "title": "Shenzhen", "url": "https://www.urbanrail.net/As/cn/she/shenzhen-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Not safe to drink - bottled or filtered water is recommended",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "China has a rich tradition of baijiu and other traditional alcoholic beverages"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is not traditionally expected but becoming more common in tourist areas",
+      "guides": "Tipping is appreciated for tour guides, though not mandatory",
+      "restaurants": "Tipping is not traditional but becoming more common in upscale restaurants",
+      "taxis": "Tipping is not expected but rounding up is appreciated"
+    }
+  },
+  "weather": {
+    "title": "China has diverse climates ranging from subarctic in the north to tropical in the south. The country experiences four distinct seasons in most regions, with significant regional variations due to its vast size and varied topography.",
+    "when_to_visit": [
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "March to May, September to November",
+        "short_description": "Mild and pleasant temperatures with beautiful seasonal colors, especially during autumn. Perfect for sightseeing, exploring cities, visiting the Great Wall, and outdoor activities. Ideal weather for most regions"
+      },
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm to hot temperatures across most of the country. Good for visiting northern regions and high-altitude areas. Southern regions can be very hot and humid. Great time for festivals and cultural events"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures in the north, milder in the south. Perfect for winter sports in northern regions and exploring cities without the summer crowds. Great time to visit southern regions like Hainan"
+      }
+    ],
+    "best_time": "The best time to visit China is during the spring (March to May) and autumn (September to November) months when the weather is mild and pleasant, making it ideal for exploring cities, visiting historical sites, and enjoying outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "110"
+    },
+    {
+      "title": "Ambulance",
+      "number": "120"
+    },
+    {
+      "title": "Fire",
+      "number": "119"
+    }
+  ]
+}

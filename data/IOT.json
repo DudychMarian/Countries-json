@@ -1,0 +1,81 @@
+{
+  "id": "086",
+  "iso": "IOT",
+  "alpha_2": "IO",
+  "country_name": "British Indian Ocean Territory",
+  "cover_image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/io.svg",
+  "short_description": "The British Indian Ocean Territory is a British territory in the Indian Ocean, consisting of the Chagos Archipelago. The territory is primarily a military base with no permanent civilian population and is not accessible to tourists.",
+  "known_for": [
+    { "title": "🏝️ Chagos Archipelago", "color": "blue" },
+    { "title": "🌊 Pristine Marine Environment", "color": "green" },
+    { "title": "🔬 Scientific Research", "color": "yellow" },
+    { "title": "🌴 Tropical Atolls", "color": "pink" },
+    { "title": "🏛️ Military Base", "color": "red" }
+  ],
+  "capital": "N/A",
+  "major_cities": [],
+  "official_language": ["English"],
+  "currency": { "title": "US Dollar", "symbol": "$" },
+  "major_religions": "N/A",
+  "national_day": { "title": "N/A", "date": "N/A" },
+  "phone": {
+    "digital_code": "+246",
+    "phone_operators": ["N/A - Military infrastructure only"]
+  },
+  "plug_types": ["G"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Water is treated and safe for military personnel",
+    "alcohol_consumption_age": "18 years old (British law)",
+    "alcohol_parchase_age": "18 years old (British law)",
+    "alcohol_info": [
+      "Alcohol regulations follow British law",
+      "No commercial facilities available - military base only"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "N/A - No tourist facilities",
+      "guides": "N/A - Not accessible to tourists",
+      "restaurants": "N/A - No commercial facilities",
+      "taxis": "N/A"
+    }
+  },
+  "weather": {
+    "title": "The British Indian Ocean Territory has a tropical marine climate with warm temperatures year-round. The territory experiences consistent warm weather with high humidity and moderate rainfall throughout the year.",
+    "when_to_visit": [
+      {
+        "icon": "🚫",
+        "title": "Not Accessible",
+        "time_period": "Year-round",
+        "short_description": "The British Indian Ocean Territory is not accessible to tourists. The territory is a military base with restricted access. Only authorized military personnel and contractors are permitted entry"
+      },
+      {
+        "icon": "🌴",
+        "title": "Climate",
+        "time_period": "Year-round",
+        "short_description": "Tropical climate with warm temperatures throughout the year. The territory consists of coral atolls with pristine marine environments, but access is restricted to authorized personnel only"
+      }
+    ],
+    "best_time": "The British Indian Ocean Territory is not accessible to tourists. The territory is a restricted military base and only authorized personnel are permitted entry"
+  },
+  "emergency": [
+    {
+      "title": "Emergency",
+      "number": "Contact British authorities or military base"
+    },
+    {
+      "title": "Search and Rescue",
+      "number": "Contact British authorities or military base"
+    },
+    {
+      "title": "Medical Emergency",
+      "number": "Contact military medical facilities or British authorities"
+    }
+  ]
+}

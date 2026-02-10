@@ -1,0 +1,110 @@
+{
+  "id": "036",
+  "iso": "AUS",
+  "alpha_2": "AU",
+  "country_name": "Australia",
+  "cover_image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/au.svg",
+  "short_description": "Discover the diverse landscapes and vibrant cities of Australia, from the iconic Sydney Opera House to the vast Outback, stunning beaches, and unique wildlife. Experience world-class dining, outdoor adventures, and the laid-back Aussie lifestyle.",
+  "known_for": [
+    { "title": "🏖️ Beautiful Beaches", "color": "blue" },
+    { "title": "🦘 Unique Wildlife", "color": "green" },
+    { "title": "🏛️ Sydney Opera House", "color": "yellow" },
+    { "title": "🌊 Great Barrier Reef", "color": "pink" },
+    { "title": "🍺 Aussie Culture", "color": "red" }
+  ],
+  "capital": "Canberra",
+  "major_cities": [
+    "Adelaide",
+    "Brisbane",
+    "Canberra",
+    "Gold Coast",
+    "Hobart",
+    "Melbourne",
+    "Newcastle",
+    "Perth",
+    "Sydney",
+    "Wollongong"
+  ],
+  "official_language": ["English"],
+  "currency": { "title": "Australian Dollar", "symbol": "A$" },
+  "major_religions": "Christianity",
+  "national_day": { "title": "Australia Day", "date": "26 January" },
+  "phone": {
+    "digital_code": "+61",
+    "phone_operators": ["Telstra", "Optus", "Vodafone"]
+  },
+  "plug_types": ["I"],
+  "transport": {
+    "driving_side": "Left",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Ola", "url": "https://www.ola.com.au/" },
+      { "title": "Didi", "url": "https://www.didiglobal.com/" },
+      { "title": "13CABS", "url": "https://www.13cabs.com.au/" }
+    ],
+    "metro": [
+      { "title": "Adelaide", "url": "https://www.urbanrail.net/Oceania/adelaide/adelaide-map.png" },
+      { "title": "Brisbane", "url": "https://www.urbanrail.net/Oceania/brisbane/brisbane-map.png" },
+      { "title": "Melbourne", "url": "https://www.urbanrail.net/Oceania/melbourne/melbourne-map.png" },
+      { "title": "Perth", "url": "https://www.urbanrail.net/Oceania/perth/perth-map.png" },
+      { "title": "Sydney", "url": "https://www.urbanrail.net/Oceania/sydney/sydney-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Minors are prohibited to consume alcohol beverages in public",
+      "Alcohol can be purchased from licensed venues, bottle shops, and some supermarkets"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Tipping is not mandatory but appreciated for exceptional service. $1-2 per bag for porters is common",
+      "guides": "10-15% tip is appreciated for tour guides",
+      "restaurants": "Tipping is not mandatory but 10% is appreciated for good service. Some restaurants may add a service charge",
+      "taxis": "Tipping is not expected but rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Australia has diverse climates ranging from tropical in the north to temperate in the south, with arid conditions in the interior. The seasons are opposite to the Northern Hemisphere.",
+    "when_to_visit": [
+      {
+        "icon": "🌞",
+        "title": "Summer",
+        "time_period": "December to February",
+        "short_description": "Warm to hot temperatures across most of the country. Perfect for beach activities, outdoor adventures, and exploring coastal cities. Great time to visit Sydney, Melbourne, and the Great Barrier Reef"
+      },
+      {
+        "icon": "🍂",
+        "title": "Autumn",
+        "time_period": "March to May",
+        "short_description": "Mild and pleasant weather with fewer crowds. Ideal for city breaks, wine regions, and outdoor activities. Great time for sightseeing and exploring national parks"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "June to August",
+        "short_description": "Cooler temperatures in the south, perfect for skiing in the Australian Alps. Northern regions remain warm and dry, making it ideal for exploring the Outback and tropical regions"
+      }
+    ],
+    "best_time": "The best time to visit Australia depends on the region, but generally spring (September to November) and autumn (March to May) offer mild temperatures and comfortable weather for exploring cities, beaches, and natural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "000"
+    },
+    {
+      "title": "Ambulance",
+      "number": "000"
+    },
+    {
+      "title": "Fire",
+      "number": "000"
+    }
+  ]
+}

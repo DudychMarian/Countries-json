@@ -1,0 +1,105 @@
+{
+  "id": "031",
+  "iso": "AZE",
+  "alpha_2": "AZ",
+  "country_name": "Azerbaijan",
+  "cover_image": "https://images.unsplash.com/photo-1596306499398-8d88944a5ec4?q=80&w=3212&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/az.svg",
+  "short_description": "Discover Azerbaijan, the Land of Fire, where ancient history meets modern architecture. Explore the vibrant capital Baku, experience the unique mud volcanoes, discover the Caspian Sea coastline, and immerse yourself in the rich cultural heritage of this Caucasus nation.",
+  "known_for": [
+    { "title": "🔥 Land of Fire", "color": "red" },
+    { "title": "🏛️ Modern Architecture", "color": "blue" },
+    { "title": "⛰️ Caucasus Mountains", "color": "green" },
+    { "title": "🏛️ Ancient History", "color": "yellow" },
+    { "title": "🍽️ Azerbaijani Cuisine", "color": "pink" }
+  ],
+  "capital": "Baku",
+  "major_cities": [
+    "Baku",
+    "Ganja",
+    "Sumqayit",
+    "Mingachevir",
+    "Lankaran",
+    "Shirvan",
+    "Nakhchivan",
+    "Shaki",
+    "Yevlakh",
+    "Khankendi"
+  ],
+  "official_language": ["Azerbaijani"],
+  "currency": { "title": "Azerbaijani Manat", "symbol": "₼" },
+  "major_religions": "Islam",
+  "national_day": { "title": "Independence Day", "date": "18 October" },
+  "phone": {
+    "digital_code": "+994",
+    "phone_operators": ["Azercell", "Bakcell", "Nar"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "Yandex.Taxi", "url": "https://yandex.com/taxi/" }
+    ],
+    "metro": [
+      { "title": "Baku", "url": "https://www.urbanrail.net/As/baku/baku-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities like Baku, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, restaurants, and stores",
+      "While Azerbaijan is a Muslim-majority country, alcohol is legal and available"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Azerbaijan has a diverse climate with semi-arid conditions in the lowlands, continental climate in the mountains, and subtropical conditions along the Caspian Sea coast. Summers are hot and dry, while winters are mild along the coast and cold in the mountains.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild and pleasant temperatures perfect for exploring cities, visiting historic sites, and hiking in the mountains. Ideal weather for sightseeing in Baku and other cultural attractions"
+      },
+      {
+        "icon": "🌞",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Hot and dry weather, especially in Baku and lowland areas. Great for visiting the Caspian Sea coast, but be prepared for high temperatures. Good time for exploring mountain regions which are cooler"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Mild along the Caspian coast but cold in the mountains. Great time to explore Baku and cultural sites without the summer heat. Mountain areas offer winter sports opportunities"
+      }
+    ],
+    "best_time": "The best time to visit Azerbaijan is during the spring (April to May) and autumn (September to October) months when the weather is mild and pleasant, making it ideal for exploring cities, historic sites, and enjoying outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "102"
+    },
+    {
+      "title": "Ambulance",
+      "number": "103"
+    },
+    {
+      "title": "Fire",
+      "number": "101"
+    }
+  ]
+}

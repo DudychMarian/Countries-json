@@ -1,0 +1,136 @@
+{
+    "id": "180",
+    "iso": "COD",
+    "alpha_2": "CD",
+    "country_name": "Democratic Republic of the Congo",
+    "cover_image": "https://images.unsplash.com/photo-1538430352266-de6bcba9a06b?q=80&w=1748&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/cd.svg",
+    "short_description": "The Democratic Republic of the Congo is a vast country in Central Africa, known for its immense rainforests, the mighty Congo River, and diverse wildlife including gorillas and okapis.",
+    "known_for": [
+        {
+            "title": "🦍 Mountain Gorillas",
+            "color": "black"
+        },
+        {
+            "title": "🌋 Mount Nyiragongo",
+            "color": "red"
+        },
+        {
+            "title": "🌊 Congo River",
+            "color": "blue"
+        },
+        {
+            "title": "🎶 Rumba Lingala",
+            "color": "yellow"
+        },
+        {
+            "title": "💎 Minerals",
+            "color": "grey"
+        }
+    ],
+    "capital": "Kinshasa",
+    "major_cities": [
+        "Kinshasa",
+        "Lubumbashi",
+        "Mbuji-Mayi",
+        "Kisangani",
+        "Goma",
+        "Bukavu",
+        "Kananga"
+    ],
+    "official_language": [
+        "French",
+        "Lingala",
+        "Kikongo",
+        "Swahili",
+        "Tshiluba"
+    ],
+    "currency": {
+        "title": "Congolese franc",
+        "symbol": "FC"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "30 June"
+    },
+    "phone": {
+        "digital_code": "+243",
+        "phone_operators": [
+            "Vodacom",
+            "Airtel",
+            "Orange",
+            "Africell"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Hoa",
+                "url": "https://play.google.com/store/apps/details?id=com.hoa.user&hl=en"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Local production of high-alcohol spirits (Lotoko) is officially banned but common"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Tips are appreciated, especially in high-end hotels",
+            "guides": "Customary to tip guides and drivers",
+            "restaurants": "5-10% is capable if service is good",
+            "taxis": "Rounding up is common"
+        }
+    },
+    "weather": {
+        "title": "The DRC has a tropical climate, hot and humid in the equatorial river basin and cooler and drier in the southern highlands.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season (North)",
+                "time_period": "December to February",
+                "short_description": "Best time to visit the northern regions."
+            },
+            {
+                "icon": "☀️",
+                "title": "Dry Season (South)",
+                "time_period": "April to October",
+                "short_description": "Ideal for visiting Kinshasa and the southern highlands."
+            },
+            {
+                "icon": "🦍",
+                "title": "Gorilla Trekking",
+                "time_period": "January, February, June to September",
+                "short_description": "Drier months offer better conditions for hiking to see gorillas."
+            }
+        ],
+        "best_time": "The best time to visit depends on the region, but generally the dry seasons offer the most comfortable travel conditions."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "112"
+        },
+        {
+            "title": "Fire",
+            "number": "118"
+        },
+        {
+            "title": "Ambulance",
+            "number": "Contact local hospital"
+        }
+    ]
+}

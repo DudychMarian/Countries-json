@@ -1,0 +1,113 @@
+{
+  "id": "076",
+  "iso": "BRA",
+  "alpha_2": "BR",
+  "country_name": "Brazil",
+  "cover_image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/br.svg",
+  "short_description": "Discover Brazil, the largest country in South America, where vibrant culture meets breathtaking natural beauty. Experience the world-famous Carnival, explore the Amazon rainforest, relax on stunning beaches, and immerse yourself in the rhythm of samba and the passion for football.",
+  "known_for": [
+    { "title": "🎉 Carnival", "color": "yellow" },
+    { "title": "⚽ Football Passion", "color": "green" },
+    { "title": "🌳 Amazon Rainforest", "color": "green" },
+    { "title": "🏖️ Beautiful Beaches", "color": "blue" },
+    { "title": "💃 Samba Culture", "color": "pink" }
+  ],
+  "capital": "Brasília",
+  "major_cities": [
+    "São Paulo",
+    "Rio de Janeiro",
+    "Brasília",
+    "Salvador",
+    "Fortaleza",
+    "Belo Horizonte",
+    "Manaus",
+    "Curitiba",
+    "Recife",
+    "Porto Alegre"
+  ],
+  "official_language": ["Portuguese"],
+  "currency": { "title": "Brazilian Real", "symbol": "R$" },
+  "major_religions": "Christianity (predominantly Roman Catholic)",
+  "national_day": { "title": "Independence Day", "date": "07 September" },
+  "phone": {
+    "digital_code": "+55",
+    "phone_operators": ["Vivo", "Claro", "TIM", "Oi"]
+  },
+  "plug_types": ["C", "N"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "99", "url": "https://www.99app.com/" },
+      { "title": "Cabify", "url": "https://cabify.com/" }
+    ],
+    "metro": [
+      { "title": "São Paulo", "url": "https://www.urbanrail.net/am/bra/sao/sao-paulo-map.png" },
+      { "title": "Rio de Janeiro", "url": "https://www.urbanrail.net/am/bra/rio/rio-de-janeiro-map.png" },
+      { "title": "Brasília", "url": "https://www.urbanrail.net/am/bra/bra/brasilia-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops",
+      "Brazil is famous for its cachaça and caipirinha cocktails"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, often included as 'serviço' on the bill",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Brazil has diverse climates ranging from tropical in the north to temperate in the south. The country experiences distinct wet and dry seasons, with weather varying significantly by region.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Dry Season",
+        "time_period": "May to September",
+        "short_description": "Cooler and drier weather, making this the best time to visit most regions. Perfect for exploring cities, visiting the Amazon, and enjoying outdoor activities. Ideal conditions for sightseeing and beach activities"
+      },
+      {
+        "icon": "🎉",
+        "title": "Carnival Season",
+        "time_period": "February to March",
+        "short_description": "Experience the world-famous Carnival celebrations, especially in Rio de Janeiro and Salvador. Hot and humid weather, but the festive atmosphere makes it a unique time to visit. Peak tourist season"
+      },
+      {
+        "icon": "🏖️",
+        "title": "Beach Season",
+        "time_period": "December to March",
+        "short_description": "Summer in Brazil with hot temperatures perfect for beach activities. Popular time for coastal destinations like Rio de Janeiro, Florianópolis, and the Northeast. Great for water sports and sunbathing"
+      },
+      {
+        "icon": "🌧️",
+        "title": "Wet Season",
+        "time_period": "October to April",
+        "short_description": "Warmer temperatures with frequent rain showers, especially in the Amazon and coastal regions. Lush green landscapes but challenging for some outdoor activities. Lower prices and fewer tourists"
+      }
+    ],
+    "best_time": "The best time to visit Brazil is during the dry season from May to September when the weather is cooler and drier, making it ideal for exploring cities, visiting the Amazon, and enjoying outdoor activities"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "190"
+    },
+    {
+      "title": "Ambulance",
+      "number": "192"
+    },
+    {
+      "title": "Fire",
+      "number": "193"
+    }
+  ]
+}

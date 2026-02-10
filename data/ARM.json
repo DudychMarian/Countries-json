@@ -1,0 +1,103 @@
+{
+  "id": "051",
+  "iso": "ARM",
+  "alpha_2": "AM",
+  "country_name": "Armenia",
+  "cover_image": "https://images.unsplash.com/photo-1600758208050-a22f17dc5bb9?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/am.svg",
+  "short_description": "Explore the ancient land of Armenia, the first Christian nation, nestled in the Caucasus mountains. Discover ancient monasteries, stunning mountain landscapes, rich cultural heritage, delicious cuisine, and the warm hospitality of the Armenian people.",
+  "known_for": [
+    { "title": "⛪ Ancient Monasteries", "color": "blue" },
+    { "title": "⛰️ Mountain Landscapes", "color": "green" },
+    { "title": "🍷 Wine Heritage", "color": "red" },
+    { "title": "🏛️ Rich History", "color": "yellow" },
+    { "title": "🍽️ Armenian Cuisine", "color": "pink" }
+  ],
+  "capital": "Yerevan",
+  "major_cities": [
+    "Yerevan",
+    "Gyumri",
+    "Vanadzor",
+    "Vagharshapat",
+    "Hrazdan",
+    "Abovyan",
+    "Kapan",
+    "Armavir"
+  ],
+  "official_language": ["Armenian"],
+  "currency": { "title": "Armenian Dram", "symbol": "֏" },
+  "major_religions": "Christianity (Armenian Apostolic Church)",
+  "national_day": { "title": "Independence Day", "date": "21 September" },
+  "phone": {
+    "digital_code": "+374",
+    "phone_operators": ["Beeline", "VivaCell-MTS", "Ucom"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Yandex.Taxi", "url": "https://yandex.com/taxi/" },
+      { "title": "GG", "url": "https://gg.taxi/" }
+    ],
+    "metro": [
+      { "title": "Yerevan", "url": "https://www.urbanrail.net/As/yerevan/yerevan-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops",
+      "Armenia has a rich wine-making tradition dating back thousands of years"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Armenia has a highland continental climate with hot summers and cold winters. The weather varies significantly with altitude, with mountainous regions experiencing more extreme conditions.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm to hot temperatures perfect for exploring cities, visiting ancient monasteries, and enjoying outdoor activities. Ideal time for hiking in the mountains and visiting Lake Sevan"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild and pleasant temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring historic sites, wine tours, and hiking. Great time to visit monasteries and cultural attractions"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures, especially in mountainous areas. Great for winter sports in Tsaghkadzor and exploring cities without the summer crowds. Yerevan remains relatively mild"
+      }
+    ],
+    "best_time": "The best time to visit Armenia is during the spring (April to May) and autumn (September to October) months when the weather is mild and pleasant, making it ideal for exploring ancient monasteries, hiking in the mountains, and enjoying the cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "102"
+    },
+    {
+      "title": "Ambulance",
+      "number": "103"
+    },
+    {
+      "title": "Fire",
+      "number": "101"
+    }
+  ]
+}

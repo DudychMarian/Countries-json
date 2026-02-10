@@ -1,0 +1,111 @@
+{
+  "id": "100",
+  "iso": "BGR",
+  "alpha_2": "BG",
+  "country_name": "Bulgaria",
+  "cover_image": "https://images.unsplash.com/photo-1601152888642-f2f1b5ee0ca2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/bg.svg",
+  "short_description": "Discover Bulgaria, a Balkan nation where ancient history meets natural beauty. Explore the Black Sea coast, hike in the Rila and Pirin mountains, visit stunning Orthodox monasteries, experience rich cultural heritage, and enjoy the warm hospitality of the Bulgarian people.",
+  "known_for": [
+    { "title": "🏖️ Black Sea Coast", "color": "blue" },
+    { "title": "⛰️ Mountain Landscapes", "color": "green" },
+    { "title": "🕌 Orthodox Monasteries", "color": "yellow" },
+    { "title": "🌹 Rose Valley", "color": "pink" },
+    { "title": "🏛️ Ancient History", "color": "red" }
+  ],
+  "capital": "Sofia",
+  "major_cities": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Burgas",
+    "Ruse",
+    "Stara Zagora",
+    "Pleven",
+    "Sliven",
+    "Dobrich",
+    "Shumen"
+  ],
+  "official_language": ["Bulgarian"],
+  "currency": { "title": "Bulgarian Lev", "symbol": "лв" },
+  "major_religions": "Christianity (Eastern Orthodox)",
+  "national_day": { "title": "Liberation Day", "date": "03 March" },
+  "phone": {
+    "digital_code": "+359",
+    "phone_operators": ["A1", "Telenor", "Vivacom"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" },
+      { "title": "TaxiMe", "url": "https://taxime.bg/" }
+    ],
+    "metro": [
+      { "title": "Sofia", "url": "https://www.urbanrail.net/eu/bg/sof/sofia-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops",
+      "Bulgaria is known for its wine production"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Bulgaria has a continental climate with hot summers and cold winters. The Black Sea coast experiences a more moderate climate, while the mountains have alpine conditions with heavy snowfall in winter.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm to hot temperatures perfect for beach activities along the Black Sea coast, hiking in the mountains, and exploring cities. Ideal time to visit Varna, Burgas, and enjoy outdoor activities"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild and pleasant temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring historic cities like Plovdiv and Sofia, visiting monasteries, and hiking in the mountains"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures, especially in the mountains. Great for winter sports in Bansko, Borovets, and Pamporovo. City breaks in Sofia and Plovdiv are still possible, though colder"
+      },
+      {
+        "icon": "🌹",
+        "title": "Rose Festival",
+        "time_period": "May to June",
+        "short_description": "Experience the famous Rose Festival in the Rose Valley, particularly in Kazanlak. Beautiful weather and unique cultural celebration. Perfect time to visit the region"
+      }
+    ],
+    "best_time": "The best time to visit Bulgaria is during the spring (April to May) and autumn (September to October) months when the weather is mild and pleasant, making it ideal for exploring historic cities, visiting monasteries, hiking in the mountains, and enjoying cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "112"
+    },
+    {
+      "title": "Ambulance",
+      "number": "112"
+    },
+    {
+      "title": "Fire",
+      "number": "112"
+    }
+  ]
+}

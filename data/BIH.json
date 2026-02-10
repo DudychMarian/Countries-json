@@ -1,0 +1,101 @@
+{
+  "id": "070",
+  "iso": "BIH",
+  "alpha_2": "BA",
+  "country_name": "Bosnia and Herzegovina",
+  "cover_image": "https://images.unsplash.com/photo-1544329095-a7c19df83018?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/ba.svg",
+  "short_description": "Discover Bosnia and Herzegovina, a Balkan nation where East meets West. Explore the historic capital Sarajevo, marvel at the iconic Stari Most bridge in Mostar, experience diverse cultures, stunning mountain landscapes, and the warm hospitality of the Bosnian people.",
+  "known_for": [
+    { "title": "🌉 Stari Most Bridge", "color": "blue" },
+    { "title": "🏛️ Ottoman Heritage", "color": "yellow" },
+    { "title": "⛰️ Mountain Landscapes", "color": "green" },
+    { "title": "☕ Coffee Culture", "color": "red" },
+    { "title": "🎨 Diverse Culture", "color": "pink" }
+  ],
+  "capital": "Sarajevo",
+  "major_cities": [
+    "Sarajevo",
+    "Banja Luka",
+    "Tuzla",
+    "Zenica",
+    "Mostar",
+    "Bijeljina",
+    "Prijedor",
+    "Doboj",
+    "Cazin",
+    "Brčko"
+  ],
+  "official_language": ["Bosnian", "Serbian", "Croatian"],
+  "currency": { "title": "Bosnia and Herzegovina Convertible Mark", "symbol": "KM" },
+  "major_religions": "Islam, Christianity (Orthodox, Catholic)",
+  "national_day": { "title": "Independence Day", "date": "01 March" },
+  "phone": {
+    "digital_code": "+387",
+    "phone_operators": ["BH Telecom", "HT Eronet", "m:tel"]
+  },
+  "plug_types": ["C", "F"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Bolt", "url": "https://bolt.eu/" }
+    ],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Generally safe in major cities, bottled water recommended in some areas",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though not always expected",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Bosnia and Herzegovina has a continental climate with hot summers and cold winters. The country experiences significant temperature variations, with mountainous regions having more extreme conditions and coastal areas experiencing milder Mediterranean influences.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "June to August",
+        "short_description": "Warm to hot temperatures perfect for exploring cities, visiting historic sites, and outdoor activities. Ideal time to visit Sarajevo, Mostar, and enjoy hiking in the mountains"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "April to May, September to October",
+        "short_description": "Mild and pleasant temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring historic cities, hiking in the mountains, and enjoying cultural attractions without the summer crowds"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "December to February",
+        "short_description": "Cold temperatures, especially in mountainous areas. Great for winter sports and exploring cities without the summer crowds. Beautiful snow-covered landscapes in the mountains"
+      }
+    ],
+    "best_time": "The best time to visit Bosnia and Herzegovina is during the spring (April to May) and autumn (September to October) months when the weather is mild and pleasant, making it ideal for exploring historic cities, hiking in the mountains, and enjoying the cultural attractions"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "122"
+    },
+    {
+      "title": "Ambulance",
+      "number": "124"
+    },
+    {
+      "title": "Fire",
+      "number": "123"
+    }
+  ]
+}

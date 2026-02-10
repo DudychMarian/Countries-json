@@ -1,0 +1,83 @@
+{
+  "id": "024",
+  "iso": "AGO",
+  "alpha_2": "AO",
+  "country_name": "Angola",
+  "cover_image": "https://images.unsplash.com/photo-1601323008793-9fc19d2e101f?q=80&w=2274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/ao.svg",
+  "short_description": "Discover the beauty and diversity of Angola, from the stunning beaches of the Atlantic coast to the lush rainforests of the interior. Explore the country's rich history and vibrant culture while savoring the flavors of Angolan cuisine.",
+  "known_for": [
+    { "title": "🌍 Luanda Coastline", "color": "blue" },
+    { "title": "🛖 Traditional Culture", "color": "green" },
+    { "title": "💎 Oil & Diamonds", "color": "yellow" },
+    { "title": "🍗 Moambe Chicken", "color": "red" },
+    { "title": "🎶 Afro-Portuguese Music", "color": "pink" }
+  ],
+  "capital": "Luanda",
+  "major_cities": [
+    "Luanda",
+    "Lubango",
+    "Benguela",
+    "Cabinda",
+    "Huambo",
+    "Malanje",
+    "Uíge",
+    "Lobito"
+  ],
+  "official_language": ["Portuguese"],
+  "currency": { "title": "Angolan Kwanza", "symbol": "AOA" },
+  "major_religions": "Christianity (predominantly)",  
+  "national_day": { "title": "Independence Day", "date": "11 November" },
+  "phone": {
+    "digital_code": "+244",
+    "phone_operators": ["Unitel", "Movicel", "Telecom Angola"]
+  },
+  "plug_types": ["C"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Heetch", "url": "" },
+      { "title": "Yango", "url": "" }
+    ],
+    "metro": []
+  },
+  "health": {
+    "tap_water_safety": "Not safe — bottled water recommended",
+    "alcohol_consumption_age": "Varies; local regulations apply",
+    "alcohol_parchase_age": "Varies; local regulations apply",
+    "alcohol_info": [
+      "Alcohol consumption and sale are regulated; check local laws and practice moderation"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tip (e.g., 500–1000 AOA for porters)",
+      "guides": "10% or negotiated small tip",
+      "restaurants": "10% if service charge not included",
+      "taxis": "Rounding up is appreciated"
+    }
+  },
+  "weather": {
+    "title": "Angola has a tropical to subtropical climate with a dry season in the south and rainy season elsewhere, and coastal cooling effects.",
+    "when_to_visit": [
+      {
+        "icon": "🦜",
+        "title": "Dry season",
+        "time_period": "May to October",
+        "short_description": "Lower humidity and rainfall combined with milder temperatures make it ideal to explore Angola's national parks"
+      },
+      {
+        "icon": "⛈️",
+        "title": "Wet season",
+        "time_period": "November to April",
+        "short_description": "Recommended to avoid planning trips during this period due to volatile rainfall, humidity and storm weather"
+      }
+    ],
+    "best_time": "The best time to visit Angola is during the dry season from May to October when the weather is generally pleasant, with less rainfall and more suitable conditions for outdoor activities and wildlife viewing"
+  },
+  "emergency": [
+    { "title": "Police", "number": "110" },
+    { "title": "Ambulance", "number": "112" },
+    { "title": "Fire", "number": "115" }
+  ]
+}

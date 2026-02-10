@@ -1,0 +1,106 @@
+{
+  "id": "152",
+  "iso": "CHL",
+  "alpha_2": "CL",
+  "country_name": "Chile",
+  "cover_image": "https://images.unsplash.com/photo-1478827387698-1527781a4887?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "flag_url": "https://flagcdn.com/cl.svg",
+  "short_description": "Discover Chile, a long, narrow South American nation stretching from the Atacama Desert to Patagonia. Experience world-class wine regions, stunning Andean landscapes, vibrant cities like Santiago, and the diverse natural beauty of this Pacific coast country.",
+  "known_for": [
+    { "title": "🍷 World-Class Wine", "color": "red" },
+    { "title": "🏜️ Atacama Desert", "color": "yellow" },
+    { "title": "🏔️ Andes Mountains", "color": "green" },
+    { "title": "🏔️ Patagonia", "color": "blue" },
+    { "title": "🌊 Pacific Coastline", "color": "pink" }
+  ],
+  "capital": "Santiago",
+  "major_cities": [
+    "Santiago",
+    "Valparaíso",
+    "Concepción",
+    "La Serena",
+    "Antofagasta",
+    "Temuco",
+    "Rancagua",
+    "Talca",
+    "Arica",
+    "Iquique"
+  ],
+  "official_language": ["Spanish"],
+  "currency": { "title": "Chilean Peso", "symbol": "$" },
+  "major_religions": "Christianity (predominantly Roman Catholic)",
+  "national_day": { "title": "Independence Day", "date": "18 September" },
+  "phone": {
+    "digital_code": "+56",
+    "phone_operators": ["Movistar", "Entel", "Claro", "WOM"]
+  },
+  "plug_types": ["C", "L"],
+  "transport": {
+    "driving_side": "Right",
+    "taxi": [
+      { "title": "Uber", "url": "https://www.uber.com/" },
+      { "title": "Cabify", "url": "https://cabify.com/" },
+      { "title": "Didi", "url": "https://www.didiglobal.com/" }
+    ],
+    "metro": [
+      { "title": "Santiago", "url": "https://www.urbanrail.net/am/chile/santiago/santiago-map.png" },
+      { "title": "Valparaíso", "url": "https://www.urbanrail.net/am/chile/valparaiso/valparaiso-map.png" }
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink in major cities",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "It is prohibited to sell, serve, or offer alcohol beverages to anyone under the age of 18",
+      "Alcohol can be purchased from licensed venues, supermarkets, and shops",
+      "Chile is famous for its wine production, particularly in the Central Valley"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "Small tips for porters and housekeeping are appreciated",
+      "guides": "10% tip is appreciated for tour guides",
+      "restaurants": "10% tip is customary for good service, though service charge may be included",
+      "taxis": "Rounding up the fare is common"
+    }
+  },
+  "weather": {
+    "title": "Chile has diverse climates ranging from desert in the north to Mediterranean in the center and sub-Antarctic in the south. The country experiences distinct seasons, with weather varying significantly by region due to its length.",
+    "when_to_visit": [
+      {
+        "icon": "☀️",
+        "title": "Summer",
+        "time_period": "December to February",
+        "short_description": "Warm temperatures perfect for exploring cities, visiting wine regions, and beach activities. Ideal time to visit Santiago, Valparaíso, and the Atacama Desert. Great for outdoor adventures and Patagonia"
+      },
+      {
+        "icon": "🍂",
+        "title": "Spring & Autumn",
+        "time_period": "September to November, March to May",
+        "short_description": "Mild and pleasant temperatures with beautiful seasonal colors. Perfect for sightseeing, exploring cities, wine tours, and hiking. Great time to visit without the summer crowds"
+      },
+      {
+        "icon": "❄️",
+        "title": "Winter",
+        "time_period": "June to August",
+        "short_description": "Cooler temperatures, especially in the south. Perfect for skiing in the Andes and winter sports. Northern regions like the Atacama Desert remain dry and pleasant. Great time for wine regions"
+      }
+    ],
+    "best_time": "The best time to visit Chile depends on the region: visit during summer (December to February) for Patagonia and beaches, or during spring and autumn for wine regions and cities. Winter (June to August) is ideal for skiing in the Andes"
+  },
+  "emergency": [
+    {
+      "title": "Police",
+      "number": "133"
+    },
+    {
+      "title": "Ambulance",
+      "number": "131"
+    },
+    {
+      "title": "Fire",
+      "number": "132"
+    }
+  ]
+}

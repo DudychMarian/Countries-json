@@ -1,0 +1,130 @@
+{
+    "id": "174",
+    "iso": "COM",
+    "alpha_2": "KM",
+    "country_name": "Comoros",
+    "cover_image": "https://images.unsplash.com/photo-1717551725335-5e1dcd57a491?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "flag_url": "https://flagcdn.com/km.svg",
+    "short_description": "A volcanic archipelago off Africa's east coast, Comoros is known for its perfumed plant life, pristine beaches, and the active Mount Karthala volcano.",
+    "known_for": [
+        {
+            "title": "🌋 Mount Karthala",
+            "color": "red"
+        },
+        {
+            "title": "🌸 Ylang-Ylang",
+            "color": "pink"
+        },
+        {
+            "title": "🐢 Sea Turtles",
+            "color": "green"
+        },
+        {
+            "title": "🐟 Coelacanth",
+            "color": "blue"
+        },
+        {
+            "title": "🍦 Vanilla",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Moroni",
+    "major_cities": [
+        "Moroni",
+        "Mutsamudu",
+        "Fomboni",
+        "Domoni",
+        "Mirontsi"
+    ],
+    "official_language": [
+        "Comorian",
+        "French",
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Comorian franc",
+        "symbol": "CF"
+    },
+    "major_religions": "Islam",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "06 July"
+    },
+    "phone": {
+        "digital_code": "+269",
+        "phone_operators": [
+            "Telma",
+            "Huri"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Sahilkom",
+                "url": "https://sahilkom.com"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Alcohol is strictly regulated due to Islamic culture",
+            "Consumption is prohibited in public areas",
+            "Available in some hotels and licensed restaurants for non-Muslims"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tips for porters are appreciated",
+            "guides": "Tips are customary, around 10%",
+            "restaurants": "10% if service charge is not included",
+            "taxis": "Not expected but rounding up is appreciated"
+        }
+    },
+    "weather": {
+        "title": "Comoros has a tropical maritime climate with two main seasons: a hot, humid, and rainy season, and a cooler, drier season.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "May to October",
+                "short_description": "The best time to visit with cooler temperatures and less rain, perfect for outdoor activities."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "November to April",
+                "short_description": "Hot and humid with frequent heavy rains and possible cyclones."
+            },
+            {
+                "icon": "🐢",
+                "title": "Turtle Watching",
+                "time_period": "May to August",
+                "short_description": "Ideal time to see Green Turtles nesting on Moheli."
+            }
+        ],
+        "best_time": "The best time to visit Comoros is during the dry season from May to October for pleasant weather and outdoor exploration."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Ambulance",
+            "number": "772-03-73"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}
