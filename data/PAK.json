@@ -1,0 +1,129 @@
+{
+    "id": "586",
+    "iso": "PAK",
+    "alpha_2": "PK",
+    "country_name": "Pakistan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/pk.svg",
+    "short_description": "Pakistan is a South Asian country with diverse landscapes ranging from the peaks of the Karakoram to the Indus River plain.",
+    "known_for": [
+        {
+            "title": "🏔️ K2 & Karakoram Range",
+            "color": "gray"
+        },
+        {
+            "title": "🛕 Badshahi Mosque (Lahore)",
+            "color": "orange"
+        },
+        {
+            "title": "🍛 Rich Mughlai Cuisine",
+            "color": "orange"
+        },
+        {
+            "title": "📦 Sialkot's Sports Goods",
+            "color": "gray"
+        },
+        {
+            "title": "🧶 Hand-knotted Carpets",
+            "color": "red"
+        }
+    ],
+    "capital": "Islamabad",
+    "major_cities": [
+        "Karachi",
+        "Lahore",
+        "Faisalabad",
+        "Rawalpindi",
+        "Gujranwala",
+        "Islamabad"
+    ],
+    "official_language": [
+        "Urdu",
+        "English"
+    ],
+    "currency": {
+        "title": "Pakistani Rupee",
+        "symbol": "₨"
+    },
+    "major_religions": "Islam (96%)",
+    "national_day": {
+        "title": "Pakistan Day",
+        "date": "23 March"
+    },
+    "phone": {
+        "digital_code": "+92",
+        "phone_operators": [
+            "Jazz",
+            "Telenor Pakistan",
+            "Zong",
+            "Ufone"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "G",
+        "M"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Careem",
+            "Bykea",
+            "InDrive"
+        ],
+        "metro": [
+            "Lahore Metro",
+            "Orange Line"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "21 years old (for non-Muslims)",
+        "alcohol_parchase_age": "21 years old (for non-Muslims)",
+        "alcohol_info": [
+            "Legal age is 21 for non-Muslims",
+            "Prohibited for Muslims; available at licensed hotels for foreigners"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₨100-200 per bag",
+            "guides": "₨500-1000 per day",
+            "restaurants": "5-10% or rounding up",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Pakistan has four seasons: a cool, dry winter, a hot, dry spring, a summer monsoon, and a retreating monsoon period.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Autumn/Spring",
+                "time_period": "Oct to Nov & Mar to Apr",
+                "short_description": "Best for visiting the cities and historical sites."
+            },
+            {
+                "icon": "🏔️",
+                "title": "Summer",
+                "time_period": "May to September",
+                "short_description": "Best for visiting the northern mountain areas."
+            }
+        ],
+        "best_time": "The best time to visit is from October to April."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "15"
+        },
+        {
+            "title": "Ambulance (Edhi)",
+            "number": "115"
+        },
+        {
+            "title": "Fire",
+            "number": "16"
+        }
+    ]
+}

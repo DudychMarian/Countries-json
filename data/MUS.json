@@ -1,0 +1,120 @@
+{
+    "id": "480",
+    "iso": "MUS",
+    "alpha_2": "MU",
+    "country_name": "Mauritius",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mu.svg",
+    "short_description": "Mauritius is an island nation in the Indian Ocean, known for its beaches, lagoons and reefs, and its mountainous interior including Black River Gorges National Park.",
+    "known_for": [
+        {
+            "title": "🏖️ Pristine Lagoons & Reefs",
+            "color": "blue"
+        },
+        {
+            "title": "🌋 Le Morne Brabant",
+            "color": "gray"
+        },
+        {
+            "title": "🌳 Seven Coloured Earths",
+            "color": "orange"
+        },
+        {
+            "title": "🐘 Chamarel Waterfall",
+            "color": "blue"
+        },
+        {
+            "title": "🍲 Dholl Puri (Street Food)",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Port Louis",
+    "major_cities": [
+        "Port Louis",
+        "Beau Bassin-Rose Hill",
+        "Vacoas-Phoenix",
+        "Curepipe",
+        "Quatre Bornes"
+    ],
+    "official_language": [
+        "English",
+        "French"
+    ],
+    "currency": {
+        "title": "Mauritian Rupee",
+        "symbol": "₨"
+    },
+    "major_religions": "Hinduism (51%), Christianity (30%), Islam (17%)",
+    "national_day": {
+        "title": "Independence and Republic Day",
+        "date": "12 March"
+    },
+    "phone": {
+        "digital_code": "+230",
+        "phone_operators": [
+            "my.t",
+            "Emtel",
+            "Chili"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": [
+            "Metro Express"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Generally safe but bottled recommended for tourists",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Local rum is a major export and cultural staple"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₨100-200 per service",
+            "guides": "₨200-500 depending on duration",
+            "restaurants": "Optional, 10% is standard",
+            "taxis": "Rounding up is common"
+        }
+    },
+    "weather": {
+        "title": "Mauritius has a mild tropical maritime climate throughout the year.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter (Dry)",
+                "time_period": "May to October",
+                "short_description": "Pleasant temperatures and less rainfall."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer (Wet)",
+                "time_period": "November to April",
+                "short_description": "Hot and humid, peak diving season but risk of cyclones."
+            }
+        ],
+        "best_time": "The best time to visit is from May to December."
+    },
+    "emergency": [
+        {
+            "title": "Police/Ambulance",
+            "number": "999"
+        },
+        {
+            "title": "Medical (SAMU)",
+            "number": "114"
+        },
+        {
+            "title": "Fire",
+            "number": "995"
+        }
+    ]
+}

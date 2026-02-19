@@ -1,0 +1,126 @@
+{
+    "id": "688",
+    "iso": "SRB",
+    "alpha_2": "RS",
+    "country_name": "Serbia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/rs.svg",
+    "short_description": "Serbia is a landlocked country in the Balkans with a rich history, vibrant cities, and diverse landscapes ranging from the Danube to the Balkan Mountains.",
+    "known_for": [
+        {
+            "title": "🏰 Belgrade Fortress (Kalemegdan)",
+            "color": "gray"
+        },
+        {
+            "title": "🏛️ Temple of Saint Sava",
+            "color": "orange"
+        },
+        {
+            "title": "⚡ Nikola Tesla's Legacy",
+            "color": "blue"
+        },
+        {
+            "title": "🏘️ Novi Sad & EXIT Festival",
+            "color": "orange"
+        },
+        {
+            "title": "🍖 Hearty Balkan Cuisine (Pljeskavica)",
+            "color": "brown"
+        }
+    ],
+    "capital": "Belgrade",
+    "major_cities": [
+        "Belgrade",
+        "Novi Sad",
+        "Niš",
+        "Kragujevac",
+        "Subotica",
+        "Leskovac"
+    ],
+    "official_language": [
+        "Serbian"
+    ],
+    "currency": {
+        "title": "Serbian Dinar",
+        "symbol": "din"
+    },
+    "major_religions": "Christianity (Serbian Orthodox 81%)",
+    "national_day": {
+        "title": "Statehood Day",
+        "date": "15 February"
+    },
+    "phone": {
+        "digital_code": "+381",
+        "phone_operators": [
+            "MTS",
+            "Yettel Serbia",
+            "A1 Serbia"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Yandex Go",
+            "Pink Taxi",
+            "Naxis Taxi"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, bottled recommended in rural areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Rakija (fruit brandy) and domestic wines"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "100-200 RSD per bag",
+            "guides": "10-15% is standard",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Serbia has a continental climate with cold winters and warm/hot summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring / Autumn",
+                "time_period": "April to June & Sept to Oct",
+                "short_description": "Mild and pleasant, ideal for sightseeing."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Hot and sunny, peak season for festivals."
+            }
+        ],
+        "best_time": "The best time to visit is from May to September."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "192"
+        },
+        {
+            "title": "Ambulance",
+            "number": "194"
+        },
+        {
+            "title": "Fire",
+            "number": "193"
+        }
+    ]
+}

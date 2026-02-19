@@ -1,0 +1,104 @@
+{
+    "id": "574",
+    "iso": "NFK",
+    "alpha_2": "NF",
+    "country_name": "Norfolk Island",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/nf.svg",
+    "short_description": "Norfolk Island is a small inhabited island in the South Pacific Ocean located between Australia, New Zealand, and New Caledonia.",
+    "known_for": [
+        {
+            "title": "🌲 Norfolk Island Pines",
+            "color": "green"
+        },
+        {
+            "title": "🏚️ Convict Settlement Ruins",
+            "color": "gray"
+        },
+        {
+            "title": "🏝️ Emily Bay",
+            "color": "blue"
+        },
+        {
+            "title": "🛶 HMS Bounty Heritage",
+            "color": "brown"
+        },
+        {
+            "title": "⛰️ Mount Pitt Panoramas",
+            "color": "blue"
+        }
+    ],
+    "capital": "Kingston",
+    "major_cities": [
+        "Kingston",
+        "Burnt Pine"
+    ],
+    "official_language": [
+        "English",
+        "Norfuk"
+    ],
+    "currency": {
+        "title": "Australian Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (48%), Non-religious (36%)",
+    "national_day": {
+        "title": "Foundation Day",
+        "date": "6 March"
+    },
+    "phone": {
+        "digital_code": "+672",
+        "phone_operators": [
+            "Norfolk Island Telecom"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Alcohol is readily available in local stores and venues"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected but small tip appreciated",
+            "restaurants": "Not expected",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Norfolk Island has a subtropical climate with mild temperatures year-round.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "December to February",
+                "short_description": "Warmest weather for beaches and outdoor exploration."
+            },
+            {
+                "icon": "🌤️",
+                "title": "Spring",
+                "time_period": "September to November",
+                "short_description": "Mild and pleasant weather with blooming nature."
+            }
+        ],
+        "best_time": "The best time to visit is from October to March."
+    },
+    "emergency": [
+        {
+            "title": "Police/Medical",
+            "number": "999"
+        }
+    ]
+}

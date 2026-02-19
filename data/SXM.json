@@ -1,0 +1,115 @@
+{
+    "id": "534",
+    "iso": "SXM",
+    "alpha_2": "SX",
+    "country_name": "Sint Maarten (Dutch part)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sx.svg",
+    "short_description": "Sint Maarten is the southern, Dutch half of a Caribbean island divided with the French territory of Saint Martin.",
+    "known_for": [
+        {
+            "title": "✈️ Maho Beach (Plane Spotting)",
+            "color": "blue"
+        },
+        {
+            "title": "🛍️ Philipsburg Duty-Free Shopping",
+            "color": "orange"
+        },
+        {
+            "title": "🎰 Island Nightlife & Casinos",
+            "color": "purple"
+        },
+        {
+            "title": "🌅 Mullet Bay",
+            "color": "blue"
+        },
+        {
+            "title": "🏎️ Simpson Bay Lagoon",
+            "color": "blue"
+        }
+    ],
+    "capital": "Philipsburg",
+    "major_cities": [
+        "Philipsburg",
+        "Lower Prince's Quarter",
+        "Simpson Bay"
+    ],
+    "official_language": [
+        "Dutch",
+        "English"
+    ],
+    "currency": {
+        "title": "Netherlands Antillean Guilder",
+        "symbol": "ƒ"
+    },
+    "major_religions": "Christianity (Roman Catholic 33%, Various Protestant)",
+    "national_day": {
+        "title": "Constitution Day",
+        "date": "10 October"
+    },
+    "phone": {
+        "digital_code": "+1-721",
+        "phone_operators": [
+            "TelEm Group",
+            "Flow"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, but bottled preferred",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Duty-Free spirits and Guavaberry liqueur"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 USD per bag",
+            "guides": "10-15% is standard",
+            "restaurants": "15% is expected (often not included)",
+            "taxis": "10-15% of the fare"
+        }
+    },
+    "weather": {
+        "title": "Sint Maarten has a tropical climate with hot temperatures and trade winds.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Peak Season (Dry)",
+                "time_period": "December to April",
+                "short_description": "Best weather but most crowded."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Hot/Wet Season",
+                "time_period": "May to November",
+                "short_description": "Risk of hurricanes, higher heat and humidity."
+            }
+        ],
+        "best_time": "The best time to visit is from December to April."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "911"
+        },
+        {
+            "title": "Ambulance",
+            "number": "912"
+        },
+        {
+            "title": "Fire",
+            "number": "919"
+        }
+    ]
+}

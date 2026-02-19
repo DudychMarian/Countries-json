@@ -1,0 +1,117 @@
+{
+    "id": "462",
+    "iso": "MDV",
+    "alpha_2": "MV",
+    "country_name": "Maldives",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mv.svg",
+    "short_description": "The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands.",
+    "known_for": [
+        {
+            "title": "🏝️ Luxury Overwater Villas",
+            "color": "blue"
+        },
+        {
+            "title": "🤿 Vibrant Coral Reefs",
+            "color": "teal"
+        },
+        {
+            "title": "🏖️ Pristine White Beaches",
+            "color": "blue"
+        },
+        {
+            "title": "🚤 Island Hopping",
+            "color": "blue"
+        },
+        {
+            "title": "🐟 Garudhiya (Fish Soup)",
+            "color": "brown"
+        }
+    ],
+    "capital": "Malé",
+    "major_cities": [
+        "Malé",
+        "Addu City",
+        "Fuvahmulah",
+        "Kulhudhuffushi"
+    ],
+    "official_language": [
+        "Dhivehi"
+    ],
+    "currency": {
+        "title": "Maldivian Rufiyaa",
+        "symbol": "Rf"
+    },
+    "major_religions": "Islam (Sunni 100%)",
+    "national_day": {
+        "title": "National Day (Qaumee Dhuvas)",
+        "date": "Varies (Lunar Calendar)"
+    },
+    "phone": {
+        "digital_code": "+960",
+        "phone_operators": [
+            "Dhiraagu",
+            "Ooredoo Maldives"
+        ]
+    },
+    "plug_types": [
+        "G",
+        "D",
+        "J",
+        "L"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old (Tourists in Resorts only)",
+        "alcohol_parchase_age": "Illegal (except in resorts)",
+        "alcohol_info": [
+            "Strictly prohibited on inhabited islands",
+            "Permitted only within designated tourist resorts"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 per bag for bellboys",
+            "guides": "$5-10 typical",
+            "restaurants": "10% service tax is often included",
+            "taxis": "Rounding up is standard"
+        }
+    },
+    "weather": {
+        "title": "The Maldives has a tropical climate with high humidity and year-round heat.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season (Iruvai)",
+                "time_period": "November to April",
+                "short_description": "Best for diving and beach holidays."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season (Hulhangu)",
+                "time_period": "May to October",
+                "short_description": "More rain and wind, but good for surfing."
+            }
+        ],
+        "best_time": "The best time to visit is from December to April."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "119"
+        },
+        {
+            "title": "Ambulance",
+            "number": "102"
+        },
+        {
+            "title": "Fire",
+            "number": "118"
+        }
+    ]
+}

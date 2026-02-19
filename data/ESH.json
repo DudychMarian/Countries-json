@@ -1,0 +1,108 @@
+{
+    "id": "732",
+    "iso": "ESH",
+    "alpha_2": "EH",
+    "country_name": "Western Sahara",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/eh.svg",
+    "short_description": "Western Sahara is a sparsely populated territory in northwest Africa, mostly desert with a long Atlantic coastline.",
+    "known_for": [
+        {
+            "title": "🏜️ Sahara Desert Dunes",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Dakhla Kitesurfing Spots",
+            "color": "blue"
+        },
+        {
+            "title": "🐫 Nomadic Sahrawi Culture",
+            "color": "brown"
+        },
+        {
+            "title": "📦 Phosphate Mining Heritage",
+            "color": "gray"
+        },
+        {
+            "title": "🏖️ Atlantic Coastline",
+            "color": "blue"
+        }
+    ],
+    "capital": "Laayoune",
+    "major_cities": [
+        "Laayoune",
+        "Dakhla",
+        "Smara",
+        "Cape Bojador",
+        "El Marsa"
+    ],
+    "official_language": [
+        "Arabic",
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Moroccan Dirham",
+        "symbol": "DH"
+    },
+    "major_religions": "Islam (Sunni 99%)",
+    "national_day": {
+        "title": "N/A (Disputed status)",
+        "date": "N/A"
+    },
+    "phone": {
+        "digital_code": "+212",
+        "phone_operators": [
+            "Maroc Telecom",
+            "Inwi",
+            "Orange Morocco"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Petit Taxis",
+            "Grand Taxis"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Bottled water recommended)",
+        "alcohol_consumption_age": "Restrictions apply",
+        "alcohol_parchase_age": "Restrictions apply",
+        "alcohol_info": [
+            "Alcohol is restricted and not widely available",
+            "Generally follows Moroccan regulations in controlled areas"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 MAD per bag",
+            "guides": "50-100 MAD per day",
+            "restaurants": "5-10% is customary",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Western Sahara has a hot desert climate with extreme seasonal heat.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter",
+                "time_period": "November to March",
+                "short_description": "Mild temperatures, best for desert exploration."
+            }
+        ],
+        "best_time": "The best time to visit is from November to March."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "150"
+        }
+    ]
+}

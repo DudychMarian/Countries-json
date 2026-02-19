@@ -1,0 +1,138 @@
+{
+    "id": "710",
+    "iso": "ZAF",
+    "alpha_2": "ZA",
+    "country_name": "South Africa",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/za.svg",
+    "short_description": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems.",
+    "known_for": [
+        {
+            "title": "🏔️ Table Mountain (Cape Town)",
+            "color": "gray"
+        },
+        {
+            "title": "🐘 Kruger National Park (Safari)",
+            "color": "green"
+        },
+        {
+            "title": "🎗️ Nelson Mandela's Legacy",
+            "color": "gray"
+        },
+        {
+            "title": "🍷 Cape Winelands",
+            "color": "red"
+        },
+        {
+            "title": "🐧 Boulders Beach (Penguins)",
+            "color": "blue"
+        }
+    ],
+    "capital": "Pretoria (Executive), Bloemfontein (Judicial), Cape Town (Legislative)",
+    "major_cities": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban",
+        "Pretoria",
+        "Port Elizabeth",
+        "Bloemfontein"
+    ],
+    "official_language": [
+        "Afrikaans",
+        "English",
+        "Xhosa",
+        "Zulu",
+        "Southern Sotho",
+        "Sesotho sa Leboa",
+        "Tswana",
+        "Venda",
+        "Tsonga",
+        "Swati",
+        "Ndebele"
+    ],
+    "currency": {
+        "title": "South African Rand",
+        "symbol": "R"
+    },
+    "major_religions": "Christianity (80%)",
+    "national_day": {
+        "title": "Freedom Day",
+        "date": "27 April"
+    },
+    "phone": {
+        "digital_code": "+27",
+        "phone_operators": [
+            "Vodacom",
+            "MTN South Africa",
+            "Telkom",
+            "Cell C"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "M",
+        "N"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Uber",
+            "Bolt",
+            "InDrive",
+            "Minibus Taxis"
+        ],
+        "metro": [
+            "Gautrain (Rapid Rail)"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, bottled recommended in rural areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for high-quality wines and Amarula liqueur"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 ZAR per bag",
+            "guides": "10-15% is standard",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up or 10%"
+        }
+    },
+    "weather": {
+        "title": "South Africa has a varied climate, ranging from Mediterranean in the southwest to subtropical in the northeast.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season (Safari)",
+                "time_period": "May to October",
+                "short_description": "Best for wildlife viewing in Kruger National Park."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer (Cape Town)",
+                "time_period": "November to March",
+                "short_description": "Hot and sunny, best for beaches and wine tours."
+            }
+        ],
+        "best_time": "The best time to visit overall is from May to September for safaris."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "10111"
+        },
+        {
+            "title": "Ambulance/Fire",
+            "number": "10177"
+        },
+        {
+            "title": "General Emergency (Mobile)",
+            "number": "112"
+        }
+    ]
+}

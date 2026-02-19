@@ -1,0 +1,118 @@
+{
+    "id": "368",
+    "iso": "IRQ",
+    "alpha_2": "IQ",
+    "country_name": "Iraq",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/iq.svg",
+    "short_description": "Iraq is a country in Western Asia, largely on the site of ancient Mesopotamia, the 'cradle of civilization'.",
+    "known_for": [
+        {
+            "title": "📜 Ancient Mesopotamia",
+            "color": "brown"
+        },
+        {
+            "title": "🏛️ Ziggurat of Ur",
+            "color": "gray"
+        },
+        {
+            "title": "🏺 Babylon Ruins",
+            "color": "gray"
+        },
+        {
+            "title": "🕌 Erbil Citadel",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Tigris & Euphrates Rivers",
+            "color": "blue"
+        }
+    ],
+    "capital": "Baghdad",
+    "major_cities": [
+        "Baghdad",
+        "Basra",
+        "Mosul",
+        "Erbil",
+        "Kirkuk"
+    ],
+    "official_language": [
+        "Arabic",
+        "Kurdish"
+    ],
+    "currency": {
+        "title": "Iraqi Dinar",
+        "symbol": "د.ع"
+    },
+    "major_religions": "Islam (Shia, Sunni), Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "3 October"
+    },
+    "phone": {
+        "digital_code": "+964",
+        "phone_operators": [
+            "Zain",
+            "Asiacell",
+            "Korek"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "Varies by region",
+        "alcohol_parchase_age": "Varies by region",
+        "alcohol_info": [
+            "Alcohol is legal in certain areas and non-conservative establishments",
+            "Illegal in some provinces and during certain religious periods"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tips for service",
+            "guides": "10-15% is standard",
+            "restaurants": "5-10% of the bill",
+            "taxis": "Rounding up is fine"
+        }
+    },
+    "weather": {
+        "title": "Iraq has a hot arid climate with extremely hot summers and mild winters.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring",
+                "time_period": "March to May",
+                "short_description": "Mild temperatures before the extreme heat of summer."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "October to November",
+                "short_description": "Pleasant weather after the summer heat."
+            }
+        ],
+        "best_time": "The best time to visit is from March to May or October to November."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "104"
+        },
+        {
+            "title": "Fire",
+            "number": "115"
+        },
+        {
+            "title": "Ambulance",
+            "number": "122"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "334",
+    "iso": "HMD",
+    "alpha_2": "HM",
+    "country_name": "Heard Island and McDonald Islands",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/hm.svg",
+    "short_description": "An uninhabited Australian external territory in the Southern Ocean, dominated by the active volcano Big Ben.",
+    "known_for": [
+        {
+            "title": "🌋 Big Ben Volcano",
+            "color": "gray"
+        },
+        {
+            "title": "🧊 Glaciers",
+            "color": "blue"
+        },
+        {
+            "title": "🐧 Colonies of Penguins",
+            "color": "blue"
+        },
+        {
+            "title": "🌊 Extreme Isolation",
+            "color": "gray"
+        },
+        {
+            "title": "🔬 Scientific Research",
+            "color": "gray"
+        }
+    ],
+    "capital": "None (Uninhabited)",
+    "major_cities": [],
+    "official_language": [
+        "English (Administrative)"
+    ],
+    "currency": {
+        "title": "Australian Dollar",
+        "symbol": "A$"
+    },
+    "major_religions": "N/A",
+    "national_day": {
+        "title": "N/A",
+        "date": "N/A"
+    },
+    "phone": {
+        "digital_code": "N/A",
+        "phone_operators": []
+    },
+    "plug_types": [],
+    "transport": {
+        "driving_side": "N/A",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "N/A",
+        "alcohol_consumption_age": "N/A",
+        "alcohol_parchase_age": "N/A",
+        "alcohol_info": [
+            "No permanent population"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "N/A",
+            "guides": "N/A",
+            "restaurants": "N/A",
+            "taxis": "N/A"
+        }
+    },
+    "weather": {
+        "title": "Antarctic climate with strong winds and frequent precipitation year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Summer",
+                "time_period": "December to February",
+                "short_description": "Brief period of milder (though still cold) weather."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "June to August",
+                "short_description": "Extremely harsh conditions."
+            }
+        ],
+        "best_time": "Visits are highly restricted and typically for research purposes in summer."
+    },
+    "emergency": [
+        {
+            "title": "Australian Antarctic Division Emergency",
+            "number": "N/A"
+        }
+    ]
+}

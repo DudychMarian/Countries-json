@@ -1,0 +1,110 @@
+{
+    "id": "344",
+    "iso": "HKG",
+    "alpha_2": "HK",
+    "country_name": "Hong Kong",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/hk.svg",
+    "short_description": "Hong Kong is a special administrative region of China and a major global financial hub with a stunning skyscraper-studded skyline.",
+    "known_for": [
+        {
+            "title": "🏙️ Victoria Peak Skyline",
+            "color": "blue"
+        },
+        {
+            "title": "🥟 Dim Sum & Gastronomy",
+            "color": "orange"
+        },
+        {
+            "title": "🛥️ Star Ferry",
+            "color": "teal"
+        },
+        {
+            "title": "🏯 Big Buddha (Tian Tan)",
+            "color": "brown"
+        },
+        {
+            "title": "🎡 Hong Kong Disneyland",
+            "color": "red"
+        }
+    ],
+    "capital": "Hong Kong",
+    "major_cities": [
+        "Victoria City",
+        "Kowloon",
+        "Sha Tin",
+        "Tuen Mun"
+    ],
+    "official_language": [
+        "Chinese (Cantonese)",
+        "English"
+    ],
+    "currency": {
+        "title": "Hong Kong Dollar",
+        "symbol": "HK$"
+    },
+    "major_religions": "Buddhism, Taoism, Christianity",
+    "national_day": {
+        "title": "National Day of the People's Republic of China",
+        "date": "1 October"
+    },
+    "phone": {
+        "digital_code": "+852",
+        "phone_operators": [
+            "HKT",
+            "SmarTone",
+            "3 Hong Kong"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": [
+            "MTR"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, though boiling is common",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Vibrant nightlife in districts like Lan Kwai Fong"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "HK$10-20 per bag",
+            "guides": "HK$50-100 per day",
+            "restaurants": "Rounding up or 10% if not included",
+            "taxis": "Rounding up to the nearest dollar"
+        }
+    },
+    "weather": {
+        "title": "Hong Kong has a subtropical climate with distinct seasons and a summer monsoon.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Sunny and pleasant weather, best for city exploration."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Hot, humid, and risk of typhoons."
+            }
+        ],
+        "best_time": "The best time to visit is from October to early December."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "999"
+        }
+    ]
+}

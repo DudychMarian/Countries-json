@@ -1,0 +1,119 @@
+{
+    "id": "705",
+    "iso": "SVN",
+    "alpha_2": "SI",
+    "country_name": "Slovenia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/si.svg",
+    "short_description": "Slovenia is a central European country known for its mountains, ski resorts and lakes.",
+    "known_for": [
+        {
+            "title": "🏔️ Lake Bled (Emerald Lake)",
+            "color": "blue"
+        },
+        {
+            "title": "🐉 Ljubljana Dragon Bridge",
+            "color": "green"
+        },
+        {
+            "title": "🧀 Postojna Cave (Karst)",
+            "color": "brown"
+        },
+        {
+            "title": "🍇 Julian Alps Vineyards",
+            "color": "green"
+        },
+        {
+            "title": "🏰 Predjama Castle",
+            "color": "gray"
+        }
+    ],
+    "capital": "Ljubljana",
+    "major_cities": [
+        "Ljubljana",
+        "Maribor",
+        "Celje",
+        "Kranj",
+        "Velenje",
+        "Koper"
+    ],
+    "official_language": [
+        "Slovenian"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity (Roman Catholic 73%)",
+    "national_day": {
+        "title": "Statehood Day",
+        "date": "25 June"
+    },
+    "phone": {
+        "digital_code": "+386",
+        "phone_operators": [
+            "Telekom Slovenije",
+            "A1 Slovenija",
+            "Telemach",
+            "T-2"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Taxi Metro",
+            "Taxi Ljubljana",
+            "Bolt"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for high-quality wines and Laško/Union beers"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1-2 € per bag",
+            "guides": "5-10 € for half-day tours",
+            "restaurants": "10% is appreciated",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Slovenia has a mixture of Alpine, Mediterranean, and continental climates.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring / Autumn",
+                "time_period": "May to June & Sept to Oct",
+                "short_description": "Perfect for outdoor activities like hiking and cycling."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "July to August",
+                "short_description": "Warm weather, popular for coastal trips and lake activities."
+            }
+        ],
+        "best_time": "The best time to visit is from May to September."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "113"
+        }
+    ]
+}

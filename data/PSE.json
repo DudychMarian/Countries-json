@@ -1,0 +1,117 @@
+{
+    "id": "275",
+    "iso": "PSE",
+    "alpha_2": "PS",
+    "country_name": "Palestine, State of",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ps.svg",
+    "short_description": "Palestine is a de jure sovereign state in Western Asia, comprising the West Bank and Gaza Strip.",
+    "known_for": [
+        {
+            "title": "⛪ Church of the Nativity (Bethlehem)",
+            "color": "gray"
+        },
+        {
+            "title": "🕌 Dome of the Rock",
+            "color": "yellow"
+        },
+        {
+            "title": "⛪ Church of the Holy Sepulchre",
+            "color": "gray"
+        },
+        {
+            "title": "🏘️ Old City of Hebron",
+            "color": "brown"
+        },
+        {
+            "title": "🫓 Traditional Palestinian Hummus",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Jerusalem",
+    "major_cities": [
+        "Gaza City",
+        "Hebron",
+        "Nablus",
+        "Khan Yunis",
+        "Ramallah",
+        "Bethlehem"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Israeli New Sheqel",
+        "symbol": "₪"
+    },
+    "major_religions": "Islam (98%), Christianity (1%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "15 November"
+    },
+    "phone": {
+        "digital_code": "+970",
+        "phone_operators": [
+            "Jawwal",
+            "Ooredoo Palestine"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "H"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "None",
+        "alcohol_parchase_age": "None",
+        "alcohol_info": [
+            "Alcohol is available in some cities like Ramallah and Bethlehem",
+            "Socially conservative norms apply regarding consumption"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "5-10 ILS per service",
+            "guides": "10% is appreciated",
+            "restaurants": "10% if not included",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Palestine has a Mediterranean climate with mild, rainy winters and hot, dry summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring",
+                "time_period": "March to May",
+                "short_description": "Pleasant temperatures and blossoming nature."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Mild weather, ideal for cultural exploration."
+            }
+        ],
+        "best_time": "The best time to visit is from April to May or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "100"
+        },
+        {
+            "title": "Ambulance",
+            "number": "101"
+        },
+        {
+            "title": "Fire",
+            "number": "102"
+        }
+    ]
+}

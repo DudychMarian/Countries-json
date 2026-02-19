@@ -1,0 +1,113 @@
+{
+    "id": "624",
+    "iso": "GNB",
+    "alpha_2": "GW",
+    "country_name": "Guinea-Bissau",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gw.svg",
+    "short_description": "Guinea-Bissau is a tropical country on West Africa’s Atlantic coast known for its diverse ecosystems and the stunning Bijagós Archipelago.",
+    "known_for": [
+        {
+            "title": "🏝️ Bijagós Archipelago",
+            "color": "blue"
+        },
+        {
+            "title": "🎭 Guinea-Bissau Carnival",
+            "color": "orange"
+        },
+        {
+            "title": "🐢 Marine Biodiversity",
+            "color": "teal"
+        },
+        {
+            "title": "📜 Portuguese Colonial History",
+            "color": "gray"
+        },
+        {
+            "title": "🛶 Traditional Culture",
+            "color": "brown"
+        }
+    ],
+    "capital": "Bissau",
+    "major_cities": [
+        "Bissau",
+        "Bafatá",
+        "Gabú",
+        "Cacheu",
+        "Bolama"
+    ],
+    "official_language": [
+        "Portuguese"
+    ],
+    "currency": {
+        "title": "West African CFA franc",
+        "symbol": "XOF"
+    },
+    "major_religions": "Islam (45%), Traditional beliefs, Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "24 September"
+    },
+    "phone": {
+        "digital_code": "+245",
+        "phone_operators": [
+            "Orange",
+            "MTN"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "N/A (No national legal minimum)",
+        "alcohol_parchase_age": "N/A (No national legal minimum)",
+        "alcohol_info": [
+            "Alcohol is legal",
+            "No national legal minimum age",
+            "Respect local religious norms"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "500-1000 XOF",
+            "guides": "10-15%",
+            "restaurants": "10-15% in upscale places",
+            "taxis": "Rounding up is common"
+        }
+    },
+    "weather": {
+        "title": "Guinea-Bissau has a tropical climate with a rainy season and a dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to May",
+                "short_description": "Best time for travel with sunny days."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "June to October",
+                "short_description": "High humidity and heavy tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is from November to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "117"
+        }
+    ]
+}

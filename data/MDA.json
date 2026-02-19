@@ -1,0 +1,112 @@
+{
+    "id": "498",
+    "iso": "MDA",
+    "alpha_2": "MD",
+    "country_name": "Moldova (the Republic of)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/md.svg",
+    "short_description": "Moldova is a landlocked country in Eastern Europe, bordered by Romania to the west and Ukraine to the north, east and south, famous for its wine and monastic complexes.",
+    "known_for": [
+        {
+            "title": "🍷 Mileștii Mici (World's Largest Wine Cellar)",
+            "color": "red"
+        },
+        {
+            "title": "🏛️ Orheiul Vechi Monastery",
+            "color": "gray"
+        },
+        {
+            "title": "🏰 Soroca Fortress",
+            "color": "gray"
+        },
+        {
+            "title": "🌳 Codru Forest Reserve",
+            "color": "green"
+        },
+        {
+            "title": "🍇 Legendary Vineyard Landscapes",
+            "color": "red"
+        }
+    ],
+    "capital": "Chișinău",
+    "major_cities": [
+        "Chișinău",
+        "Bălți",
+        "Tiraspol",
+        "Bender",
+        "Rîbnița"
+    ],
+    "official_language": [
+        "Romanian"
+    ],
+    "currency": {
+        "title": "Moldovan Leu",
+        "symbol": "L"
+    },
+    "major_religions": "Christianity (Eastern Orthodox 93%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "27 August"
+    },
+    "phone": {
+        "digital_code": "+373",
+        "phone_operators": [
+            "Orange Moldova",
+            "Moldcell",
+            "Unite"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Yandex Go",
+            "iTaxi"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Produces some of Europe's most famous wines"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "20-50 MDL per service",
+            "guides": "100-200 MDL per day",
+            "restaurants": "5-10% of the bill",
+            "taxis": "Rounding up is standard"
+        }
+    },
+    "weather": {
+        "title": "Moldova has a moderately continental climate with four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "April to June",
+                "short_description": "Pleasant temperatures and fresh nature."
+            },
+            {
+                "icon": "🍇",
+                "title": "Autumn",
+                "time_period": "September to October",
+                "short_description": "Harvest season and Wine Festival in October."
+            }
+        ],
+        "best_time": "The best time to visit is from April to June or September to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        }
+    ]
+}

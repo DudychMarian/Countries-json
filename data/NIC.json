@@ -1,0 +1,116 @@
+{
+    "id": "558",
+    "iso": "NIC",
+    "alpha_2": "NI",
+    "country_name": "Nicaragua",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ni.svg",
+    "short_description": "Nicaragua is a Central American nation known for its dramatic terrain of lakes, volcanoes and beaches.",
+    "known_for": [
+        {
+            "title": "🌋 Volcán Masaya",
+            "color": "red"
+        },
+        {
+            "title": "🏝️ Ometepe Island",
+            "color": "green"
+        },
+        {
+            "title": "🏘️ Granada Colonial Architecture",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Corn Islands (Corn Island & Little Corn)",
+            "color": "blue"
+        },
+        {
+            "title": "🏄 Surfing in San Juan del Sur",
+            "color": "blue"
+        }
+    ],
+    "capital": "Managua",
+    "major_cities": [
+        "Managua",
+        "León",
+        "Granada",
+        "Masaya",
+        "Chinandega"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Nicaraguan Córdoba",
+        "symbol": "C$"
+    },
+    "major_religions": "Christianity (Roman Catholic 50%, Evangelical 33%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "15 September"
+    },
+    "phone": {
+        "digital_code": "+505",
+        "phone_operators": [
+            "Tigo",
+            "Claro"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Flor de Caña rum is a world-famous local product"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 USD per bag",
+            "guides": "$2-5 USD is customary",
+            "restaurants": "10% is standard",
+            "taxis": "Not expected but rounding up ok"
+        }
+    },
+    "weather": {
+        "title": "Nicaragua has a tropical climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Best for exploring volcanos and outdoor cities."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Green lush scenery but humid with heavy rain."
+            }
+        ],
+        "best_time": "The best time to visit is from December to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "118"
+        },
+        {
+            "title": "Ambulance",
+            "number": "128"
+        },
+        {
+            "title": "Fire",
+            "number": "115"
+        }
+    ]
+}

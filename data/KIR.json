@@ -1,0 +1,114 @@
+{
+    "id": "296",
+    "iso": "KIR",
+    "alpha_2": "KI",
+    "country_name": "Kiribati",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ki.svg",
+    "short_description": "Kiribati is an island country in the central Pacific Ocean, composed of 32 atolls and one raised coral island, Banaba.",
+    "known_for": [
+        {
+            "title": "🏝️ South Tarawa Atoll",
+            "color": "blue"
+        },
+        {
+            "title": "🦅 Christmas Island (Kiritimati)",
+            "color": "teal"
+        },
+        {
+            "title": "🥥 Traditional Culture",
+            "color": "brown"
+        },
+        {
+            "title": "🌊 World-Class Fishing",
+            "color": "blue"
+        },
+        {
+            "title": "🌅 First Country for New Year",
+            "color": "yellow"
+        }
+    ],
+    "capital": "South Tarawa",
+    "major_cities": [
+        "South Tarawa",
+        "Kiritimati",
+        "Tabwakea",
+        "London"
+    ],
+    "official_language": [
+        "English",
+        "Gilbertese"
+    ],
+    "currency": {
+        "title": "Australian Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Roman Catholic, Protestant)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "12 July"
+    },
+    "phone": {
+        "digital_code": "+686",
+        "phone_operators": [
+            "Vodafone Kiribati"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Import limits apply for travelers"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Appreciated but not mandatory",
+            "restaurants": "Not customary",
+            "taxis": "Not customary"
+        }
+    },
+    "weather": {
+        "title": "Kiribati has a tropical climate, moderated by trade winds with a wet season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "June to October",
+                "short_description": "Lower humidity and less rainfall."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "December to May",
+                "short_description": "Higher humidity and frequent tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is from June to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "999"
+        },
+        {
+            "title": "Police",
+            "number": "992"
+        },
+        {
+            "title": "Ambulance",
+            "number": "994"
+        }
+    ]
+}

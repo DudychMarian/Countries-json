@@ -1,0 +1,112 @@
+{
+    "id": "706",
+    "iso": "SOM",
+    "alpha_2": "SO",
+    "country_name": "Somalia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/so.svg",
+    "short_description": "Somalia is a country located in the Horn of Africa, known for its strategic coastline and rich oral traditions.",
+    "known_for": [
+        {
+            "title": "🌊 Longest Coastline in Africa",
+            "color": "blue"
+        },
+        {
+            "title": "🎨 Laas Geel (Ancient Rock Art)",
+            "color": "orange"
+        },
+        {
+            "title": "🐫 Camels & Livestock Heritage",
+            "color": "brown"
+        },
+        {
+            "title": "📜 Land of Poets (Oral History)",
+            "color": "gray"
+        },
+        {
+            "title": "🕌 Arba'a Rukun Mosque",
+            "color": "gray"
+        }
+    ],
+    "capital": "Mogadishu",
+    "major_cities": [
+        "Mogadishu",
+        "Hargeisa",
+        "Bosaso",
+        "Galkayo",
+        "Borama",
+        "Kismayo"
+    ],
+    "official_language": [
+        "Somali",
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Somali Shilling",
+        "symbol": "Sh.So."
+    },
+    "major_religions": "Islam (Sunni 99%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "1 July"
+    },
+    "phone": {
+        "digital_code": "+252",
+        "phone_operators": [
+            "Hormuud Telecom",
+            "Telesom",
+            "Golis Telecom",
+            "Somtel"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "Strictly prohibited",
+        "alcohol_parchase_age": "Strictly prohibited",
+        "alcohol_info": [
+            "Alcohol is strictly illegal throughout the country",
+            "Somali tea (Shaah) is the national beverage"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included or small tip",
+            "guides": "10% is appreciated",
+            "restaurants": "Rounding up or 5-10%",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Somalia has an arid and semi-arid climate with hot temperatures year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cooler Months",
+                "time_period": "December to February",
+                "short_description": "Slightly milder temperatures, best for coastal visits."
+            },
+            {
+                "icon": "☀️",
+                "title": "Hot Season",
+                "time_period": "May to September",
+                "short_description": "Extremely hot and dry in the interior."
+            }
+        ],
+        "best_time": "The best time to visit is from December to March."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "999"
+        }
+    ]
+}

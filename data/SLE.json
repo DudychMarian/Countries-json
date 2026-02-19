@@ -1,0 +1,115 @@
+{
+    "id": "694",
+    "iso": "SLE",
+    "alpha_2": "SL",
+    "country_name": "Sierra Leone",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sl.svg",
+    "short_description": "Sierra Leone is a West African country known for its white-sand beaches, green mountains and rich history of freedom.",
+    "known_for": [
+        {
+            "title": "🏖️ Freetown Peninsula Beaches",
+            "color": "blue"
+        },
+        {
+            "title": "🐒 Tacugama Chimpanzee Sanctuary",
+            "color": "green"
+        },
+        {
+            "title": "🏝️ Bunce Island (Heritage Site)",
+            "color": "gray"
+        },
+        {
+            "title": "🌳 The Cotton Tree (Symbol)",
+            "color": "green"
+        },
+        {
+            "title": "💎 Diamond Mining Heritage",
+            "color": "blue"
+        }
+    ],
+    "capital": "Freetown",
+    "major_cities": [
+        "Freetown",
+        "Bo",
+        "Kenema",
+        "Makeni",
+        "Koidu"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Sierra Leonean Leone",
+        "symbol": "Le"
+    },
+    "major_religions": "Islam (78%), Christianity (21%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "27 April"
+    },
+    "phone": {
+        "digital_code": "+232",
+        "phone_operators": [
+            "Orange Sierra Leone",
+            "Africell Sierra Leone"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Kekes (Tricycles)",
+            "Okadas (Motorbikes)"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Star Beer is the national favorite"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tip appreciated",
+            "guides": "10% is standard",
+            "restaurants": "10% of the bill",
+            "taxis": "Rounding up or small tip"
+        }
+    },
+    "weather": {
+        "title": "Sierra Leone has a tropical climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Best for travel and beach relaxation."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Heavy rain and high humidity."
+            }
+        ],
+        "best_time": "The best time to visit is from November to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "112"
+        },
+        {
+            "title": "Fire/Ambulance",
+            "number": "999"
+        }
+    ]
+}

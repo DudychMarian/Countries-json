@@ -1,0 +1,124 @@
+{
+    "id": "686",
+    "iso": "SEN",
+    "alpha_2": "SN",
+    "country_name": "Senegal",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sn.svg",
+    "short_description": "Senegal is a country on Africa’s west coast known for its French colonial heritage and natural beauty.",
+    "known_for": [
+        {
+            "title": "⛓️ Gorée Island (Memory of Slavery)",
+            "color": "gray"
+        },
+        {
+            "title": "💖 Lake Retba (Pink Lake)",
+            "color": "pink"
+        },
+        {
+            "title": "🥁 Vibrant African Music Scene",
+            "color": "red"
+        },
+        {
+            "title": "🏙️ African Renaissance Monument",
+            "color": "brown"
+        },
+        {
+            "title": "🦜 Djoudj Bird Sanctuary",
+            "color": "green"
+        }
+    ],
+    "capital": "Dakar",
+    "major_cities": [
+        "Dakar",
+        "Touba",
+        "Thiès",
+        "Rufisque",
+        "Kaolack"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "West African CFA franc",
+        "symbol": "CFA"
+    },
+    "major_religions": "Islam (97%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "4 April"
+    },
+    "phone": {
+        "digital_code": "+221",
+        "phone_operators": [
+            "Orange Senegal",
+            "Free Senegal",
+            "Expresso"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "E",
+        "K"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Yango"
+        ],
+        "metro": [
+            "TER Dakar (Regional Express)"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Gazelle Beer and bissap juice"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "500-1000 XOF per bag",
+            "guides": "2000-5000 XOF per day",
+            "restaurants": "10% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Senegal has a tropical climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to May",
+                "short_description": "Best weather for travel, cooler and drier."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "June to October",
+                "short_description": "Hot and humid with frequent thunderstorms."
+            }
+        ],
+        "best_time": "The best time to visit is from December to May."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Medical",
+            "number": "15"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}

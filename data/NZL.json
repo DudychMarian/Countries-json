@@ -1,0 +1,112 @@
+{
+    "id": "554",
+    "iso": "NZL",
+    "alpha_2": "NZ",
+    "country_name": "New Zealand",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/nz.svg",
+    "short_description": "New Zealand is an island country in the southwestern Pacific Ocean, known for its stunning natural geography including mountains, lakes and glaciers.",
+    "known_for": [
+        {
+            "title": "🏔️ Southern Alps Landscapes",
+            "color": "gray"
+        },
+        {
+            "title": "🧙 Hobbiton & Movie Locations",
+            "color": "green"
+        },
+        {
+            "title": "🏈 All Blacks & Rugby",
+            "color": "black"
+        },
+        {
+            "title": "🥝 Kiwi Fruit & Birds",
+            "color": "brown"
+        },
+        {
+            "title": "🌊 Milford Sound Fjords",
+            "color": "blue"
+        }
+    ],
+    "capital": "Wellington",
+    "major_cities": [
+        "Auckland",
+        "Wellington",
+        "Christchurch",
+        "Hamilton",
+        "Tauranga"
+    ],
+    "official_language": [
+        "English",
+        "Māori",
+        "New Zealand Sign Language"
+    ],
+    "currency": {
+        "title": "New Zealand Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "No religion (52%), Christianity (32%)",
+    "national_day": {
+        "title": "Waitangi Day",
+        "date": "6 February"
+    },
+    "phone": {
+        "digital_code": "+64",
+        "phone_operators": [
+            "One NZ",
+            "Spark",
+            "2degrees"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Uber"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Renowned for its Marlborough Sauvignon Blanc wines"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not customary",
+            "guides": "Optional but standard for private tours",
+            "restaurants": "Not expected but 10% for exceptional service",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "New Zealand have a temperate climate with four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "December to February",
+                "short_description": "Best for beaches and outdoor activities."
+            },
+            {
+                "icon": "🏂",
+                "title": "Winter",
+                "time_period": "June to August",
+                "short_description": "Ideal for skiing in the Southern Alps."
+            }
+        ],
+        "best_time": "The best time to visit is from December to March."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "111"
+        }
+    ]
+}

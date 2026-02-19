@@ -1,0 +1,122 @@
+{
+    "id": "158",
+    "iso": "TWN",
+    "alpha_2": "TW",
+    "country_name": "Taiwan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/tw.svg",
+    "short_description": "Taiwan is a vibrant island nation in East Asia, known for its bustling night markets, mountain scenery and high-tech cities.",
+    "known_for": [
+        {
+            "title": "🏙️ Taipei 101 (Skyscraper)",
+            "color": "gray"
+        },
+        {
+            "title": "🍜 Night Market Street Food",
+            "color": "orange"
+        },
+        {
+            "title": "🍵 Oolong Tea Culture",
+            "color": "green"
+        },
+        {
+            "title": "🏞️ Taroko Gorge National Park",
+            "color": "gray"
+        },
+        {
+            "title": "💻 Global Semiconductor Hub",
+            "color": "blue"
+        }
+    ],
+    "capital": "Taipei",
+    "major_cities": [
+        "Taipei",
+        "Kaohsiung",
+        "Taichung",
+        "Tainan",
+        "Taoyuan",
+        "Keelung"
+    ],
+    "official_language": [
+        "Mandarin Chinese"
+    ],
+    "currency": {
+        "title": "New Taiwan Dollar",
+        "symbol": "NT$"
+    },
+    "major_religions": "Buddhism, Taoism (Mixed 93%)",
+    "national_day": {
+        "title": "National Day (Double Tenth Day)",
+        "date": "10 October"
+    },
+    "phone": {
+        "digital_code": "+886",
+        "phone_operators": [
+            "Chunghwa Telecom",
+            "Taiwan Mobile",
+            "FarEasTone"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Taiwan Taxi",
+            "Uber",
+            "Line Taxi"
+        ],
+        "metro": [
+            "Taipei Metro (MRT)",
+            "Kaohsiung MRT"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Boiling or filtering recommended)",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Taiwan Beer is the national brand",
+            "Public drinking is generally legal"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "50-100 NT$ per bag",
+            "guides": "10% is standard",
+            "restaurants": "Often included as 10% service charge",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Taiwan has a subtropical climate with humid summers and mild winters.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Autumn",
+                "time_period": "October to November",
+                "short_description": "Best weather, mild temperatures and very little rain."
+            },
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "March to May",
+                "short_description": "Cherry blossom season, but can be foggy."
+            }
+        ],
+        "best_time": "The best time to visit is from October to December."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "110"
+        },
+        {
+            "title": "Ambulance/Fire",
+            "number": "119"
+        }
+    ]
+}

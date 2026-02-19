@@ -1,0 +1,115 @@
+{
+    "id": "591",
+    "iso": "PAN",
+    "alpha_2": "PA",
+    "country_name": "Panama",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/pa.svg",
+    "short_description": "Panama is a country on the isthmus linking Central and South America, famous for the Panama Canal, an engineering marvel.",
+    "known_for": [
+        {
+            "title": "🚢 Panama Canal",
+            "color": "blue"
+        },
+        {
+            "title": "🏘️ Casco Viejo (Old Town)",
+            "color": "orange"
+        },
+        {
+            "title": "🏝️ San Blas Islands",
+            "color": "blue"
+        },
+        {
+            "title": "👒 Panama Hats Heritage",
+            "color": "gray"
+        },
+        {
+            "title": "🧗 Boquete Highlands",
+            "color": "green"
+        }
+    ],
+    "capital": "Panama City",
+    "major_cities": [
+        "Panama City",
+        "San Miguelito",
+        "Tocumen",
+        "David",
+        "Arraiján",
+        "Colón"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Panamanian Balboa / US Dollar",
+        "symbol": "B/. / $"
+    },
+    "major_religions": "Christianity (Roman Catholic 80%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "28 November"
+    },
+    "phone": {
+        "digital_code": "+507",
+        "phone_operators": [
+            "Tigo",
+            "+Móvil",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Cabify"
+        ],
+        "metro": [
+            "Panama Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, bottled recommended elsewhere",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Atlas and Balboa local beers"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 USD per bag",
+            "guides": "10-15% of tour cost",
+            "restaurants": "10% is standard",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Panama has a tropical maritime climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "January to April",
+                "short_description": "Best for canal tours and beach resorts."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "May to June & Sept to Dec",
+                "short_description": "Hot and humid with afternoon showers."
+            }
+        ],
+        "best_time": "The best time to visit is from January to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

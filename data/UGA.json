@@ -1,0 +1,120 @@
+{
+    "id": "800",
+    "iso": "UGA",
+    "alpha_2": "UG",
+    "country_name": "Uganda",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ug.svg",
+    "short_description": "Uganda is a landlocked East African country known for its diverse landscapes, mountain gorillas and the source of the Nile.",
+    "known_for": [
+        {
+            "title": "🦍 Mountain Gorilla Trekking (Bwindi)",
+            "color": "green"
+        },
+        {
+            "title": "🌊 Source of the White Nile",
+            "color": "blue"
+        },
+        {
+            "title": "🏔️ Rwenzori Mountains (Mountains of the Moon)",
+            "color": "gray"
+        },
+        {
+            "title": "🦁 Tree-Climbing Lions (Queen Elizabeth Park)",
+            "color": "orange"
+        },
+        {
+            "title": "🐘 African Big Five",
+            "color": "gray"
+        }
+    ],
+    "capital": "Kampala",
+    "major_cities": [
+        "Kampala",
+        "Nansana",
+        "Kira",
+        "Mbarara",
+        "Mukono",
+        "Gulu"
+    ],
+    "official_language": [
+        "English",
+        "Swahili"
+    ],
+    "currency": {
+        "title": "Ugandan Shilling",
+        "symbol": "USh"
+    },
+    "major_religions": "Christianity (84%), Islam (14%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "9 October"
+    },
+    "phone": {
+        "digital_code": "+256",
+        "phone_operators": [
+            "MTN Uganda",
+            "Airtel Uganda",
+            "Lycamobile Uganda"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "SafeBoda",
+            "Uber",
+            "Bolt",
+            "Matatus"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Waragi is the traditional Ugandan gin favorite",
+            "Nile Special and Club are popular local beers"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1000-2000 USh per bag",
+            "guides": "$5-10 USD per day",
+            "restaurants": "5-10% is customary",
+            "taxis": "Rounding up is fine"
+        }
+    },
+    "weather": {
+        "title": "Uganda has a tropical climate with two rainy and two dry seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🦍",
+                "title": "Gorilla Trekking",
+                "time_period": "June to August & Dec to Feb",
+                "short_description": "Best dry months for hiking through dense forest."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Seasons",
+                "time_period": "March to May & Sept to Nov",
+                "short_description": "Lush scenery but trekking can be difficult."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August or December to February."
+    },
+    "emergency": [
+        {
+            "title": "Police/Emergency",
+            "number": "999"
+        },
+        {
+            "title": "Mobile Emergency",
+            "number": "112"
+        }
+    ]
+}

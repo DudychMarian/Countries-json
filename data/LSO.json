@@ -1,0 +1,112 @@
+{
+    "id": "426",
+    "iso": "LSO",
+    "alpha_2": "LS",
+    "country_name": "Lesotho",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ls.svg",
+    "short_description": "Lesotho is a high-altitude, landlocked kingdom encircled by South Africa, crisscrossed by a network of rivers and mountain ranges.",
+    "known_for": [
+        {
+            "title": "🏔️ Maloti Mountains",
+            "color": "blue"
+        },
+        {
+            "title": "💦 Maletsunyane Falls",
+            "color": "teal"
+        },
+        {
+            "title": "🐎 Pony Trekking",
+            "color": "brown"
+        },
+        {
+            "title": "🧣 Basotho Blanket",
+            "color": "gray"
+        },
+        {
+            "title": "🌊 Katse Dam",
+            "color": "blue"
+        }
+    ],
+    "capital": "Maseru",
+    "major_cities": [
+        "Maseru",
+        "Teyateyaneng",
+        "Mafeteng",
+        "Hlotse",
+        "Mohale's Hoek"
+    ],
+    "official_language": [
+        "Sesotho",
+        "English"
+    ],
+    "currency": {
+        "title": "Lesotho Loti",
+        "symbol": "L"
+    },
+    "major_religions": "Christianity (92%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "4 October"
+    },
+    "phone": {
+        "digital_code": "+266",
+        "phone_operators": [
+            "Vodacom Lesotho",
+            "Econet Telecom"
+        ]
+    },
+    "plug_types": [
+        "M"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe in cities, sterilization recommended elsewhere",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Homemade sorghum beer is common in villages"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "5-10 Loti per service",
+            "guides": "10-15% is common",
+            "restaurants": "10-15% of the bill",
+            "taxis": "10% of the fare"
+        }
+    },
+    "weather": {
+        "title": "Lesotho has a mountain climate with cool to cold winters and warm summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring/Autumn",
+                "time_period": "April to May / September to October",
+                "short_description": "Dry and mild, best for outdoor activities."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "June to August",
+                "short_description": "Cold, with frequent snow on higher peaks."
+            }
+        ],
+        "best_time": "The best time to visit is from April to May or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "123"
+        },
+        {
+            "title": "Ambulance",
+            "number": "121"
+        }
+    ]
+}

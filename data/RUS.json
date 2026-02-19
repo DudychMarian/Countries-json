@@ -1,0 +1,116 @@
+{
+    "id": "643",
+    "iso": "RUS",
+    "alpha_2": "RU",
+    "country_name": "Russian Federation (the)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ru.svg",
+    "short_description": "Russia is the world's largest nation, spanning Eastern Europe and Northern Asia, known for its rich culture and imperial history.",
+    "known_for": [
+        {
+            "title": "🏛️ Moscow Kremlin & Red Square",
+            "color": "red"
+        },
+        {
+            "title": "🩰 Bolshoi & Mariinsky Ballet",
+            "color": "gray"
+        },
+        {
+            "title": "🖼️ Hermitage Museum (St. Petersburg)",
+            "color": "orange"
+        },
+        {
+            "title": "🚂 Trans-Siberian Railway",
+            "color": "gray"
+        },
+        {
+            "title": "💧 Lake Baikal (Deepest Lake)",
+            "color": "blue"
+        }
+    ],
+    "capital": "Moscow",
+    "major_cities": [
+        "Moscow",
+        "Saint Petersburg",
+        "Novosibirsk",
+        "Yekaterinburg",
+        "Kazan",
+        "Nizhny Novgorod"
+    ],
+    "official_language": [
+        "Russian"
+    ],
+    "currency": {
+        "title": "Russian Ruble",
+        "symbol": "₽"
+    },
+    "major_religions": "Christianity (Russian Orthodox 75%)",
+    "national_day": {
+        "title": "Russia Day",
+        "date": "12 June"
+    },
+    "phone": {
+        "digital_code": "+7",
+        "phone_operators": [
+            "MTS",
+            "MegaFon",
+            "Beeline",
+            "Tele2 Russia"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Yandex Go"
+        ],
+        "metro": [
+            "Moscow Metro",
+            "St. Petersburg Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for high-quality Vodka and tea culture"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "50-100 ₽ per bag",
+            "guides": "10-15% is appreciated",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Russia has a highly varied climate, from arctic in the north to humid continental in the populated center.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Warm weather, ideal for exploring Moscow and St. Petersburg."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "December to February",
+                "short_description": "Frigid temperatures, but beautiful snow scenes and festivities."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        }
+    ]
+}

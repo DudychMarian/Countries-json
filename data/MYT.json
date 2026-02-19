@@ -1,0 +1,117 @@
+{
+    "id": "175",
+    "iso": "MYT",
+    "alpha_2": "YT",
+    "country_name": "Mayotte",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/yt.svg",
+    "short_description": "Mayotte is an overseas department and region of France consisting of a main island, a smaller island, and several islets, located in the northern Mozambique Channel.",
+    "known_for": [
+        {
+            "title": "🌊 World's Largest Lagoon",
+            "color": "blue"
+        },
+        {
+            "title": "🤿 Sea Turtle Watching",
+            "color": "teal"
+        },
+        {
+            "title": "🌋 Mount Choungui",
+            "color": "gray"
+        },
+        {
+            "title": "🧴 Ylang-Ylang Production",
+            "color": "yellow"
+        },
+        {
+            "title": "🐋 Whales (July to Oct)",
+            "color": "blue"
+        }
+    ],
+    "capital": "Mamoudzou",
+    "major_cities": [
+        "Mamoudzou",
+        "Koungou",
+        "Dzaoudzi",
+        "Dembeni",
+        "Tsingoni"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Islam (97%), Christianity (3%)",
+    "national_day": {
+        "title": "Bastille Day",
+        "date": "14 July"
+    },
+    "phone": {
+        "digital_code": "+262",
+        "phone_operators": [
+            "SFR Mayotte",
+            "Orange",
+            "Only"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Available in restaurants/hotels but less common elsewhere"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included",
+            "guides": "5-10% is appreciated",
+            "restaurants": "Included, additional gratuity optional",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Mayotte has a tropical marine climate with two distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cool Season",
+                "time_period": "May to October",
+                "short_description": "Dry and breezy, best for outdoor activities."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Hot Season",
+                "time_period": "November to April",
+                "short_description": "Rainy and humid, peak whale/turtle viewing season."
+            }
+        ],
+        "best_time": "The best time to visit is from June to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Ambulance",
+            "number": "15"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "581",
+    "iso": "UMI",
+    "alpha_2": "UM",
+    "country_name": "United States Minor Outlying Islands",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/um.svg",
+    "short_description": "The United States Minor Outlying Islands consist of eight insular areas in the Pacific and one in the Caribbean, mostly uninhabited wildlife refuges.",
+    "known_for": [
+        {
+            "title": "🏝️ Midway Atoll National Wildlife Refuge",
+            "color": "blue"
+        },
+        {
+            "title": "🐦 Seabird & Green Sea Turtle Sanctuary",
+            "color": "green"
+        },
+        {
+            "title": "🚢 Wake Island Airfield & WWII Relics",
+            "color": "gray"
+        },
+        {
+            "title": "🪸 Johnston Atoll Biological Stations",
+            "color": "blue"
+        },
+        {
+            "title": "🔬 Scientific Research Base (Palmyra)",
+            "color": "gray"
+        }
+    ],
+    "capital": "Washington, D.C. (Admin)",
+    "major_cities": [],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "United States Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "N/A (Uninhabited)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "4 July"
+    },
+    "phone": {
+        "digital_code": "+1",
+        "phone_operators": []
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Lack of fresh water infrastructure)",
+        "alcohol_consumption_age": "21 years old",
+        "alcohol_parchase_age": "21 years old",
+        "alcohol_info": [
+            "US Federal law applies",
+            "Islands are generally closed to the general public"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "N/A",
+            "guides": "N/A",
+            "restaurants": "N/A",
+            "taxis": "N/A"
+        }
+    },
+    "weather": {
+        "title": "Most islands have a tropical climate, while others are desert-like with minimal rainfall.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Period",
+                "time_period": "Variable",
+                "short_description": "Best for scientific expeditions when authorized."
+            }
+        ],
+        "best_time": "Access is highly restricted and requires special permits."
+    },
+    "emergency": [
+        {
+            "title": "US Coast Guard",
+            "number": "VHF Channel 16"
+        }
+    ]
+}

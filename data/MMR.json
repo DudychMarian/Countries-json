@@ -1,0 +1,122 @@
+{
+    "id": "104",
+    "iso": "MMR",
+    "alpha_2": "MM",
+    "country_name": "Myanmar",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mm.svg",
+    "short_description": "Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand.",
+    "known_for": [
+        {
+            "title": "🛕 Bagan Temple Plain",
+            "color": "orange"
+        },
+        {
+            "title": "✨ Shwedagon Pagoda",
+            "color": "yellow"
+        },
+        {
+            "title": "🛶 Inle Lake (Leg Rowers)",
+            "color": "blue"
+        },
+        {
+            "title": "🪨 Golden Rock (Kyaiktiyo)",
+            "color": "yellow"
+        },
+        {
+            "title": "🍜 Mohinga (National Dish)",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Naypyidaw",
+    "major_cities": [
+        "Yangon",
+        "Mandalay",
+        "Naypyidaw",
+        "Bago",
+        "Mawlamyine"
+    ],
+    "official_language": [
+        "Burmese"
+    ],
+    "currency": {
+        "title": "Myanmar Kyat",
+        "symbol": "K"
+    },
+    "major_religions": "Buddhism (88%), Christianity (6%), Islam (4%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "4 January"
+    },
+    "phone": {
+        "digital_code": "+95",
+        "phone_operators": [
+            "MPT",
+            "Atom",
+            "Ooredoo",
+            "Mytel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "C",
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Grab"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Myanmar Beer is a popular local choice"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1,000-2,000 K per bag",
+            "guides": "$5-10 per day",
+            "restaurants": "Not expected but small change appreciated",
+            "taxis": "Not customary"
+        }
+    },
+    "weather": {
+        "title": "Myanmar has a tropical climate with three distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cool Season",
+                "time_period": "November to February",
+                "short_description": "Dry and relatively cool, best for travel."
+            },
+            {
+                "icon": "☀️",
+                "title": "Hot Season",
+                "time_period": "March to May",
+                "short_description": "Extremely hot, especially in central regions."
+            }
+        ],
+        "best_time": "The best time to visit is from November to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "199"
+        },
+        {
+            "title": "Ambulance",
+            "number": "192"
+        },
+        {
+            "title": "Fire",
+            "number": "191"
+        }
+    ]
+}

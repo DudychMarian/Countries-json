@@ -1,0 +1,118 @@
+{
+    "id": "516",
+    "iso": "NAM",
+    "alpha_2": "NA",
+    "country_name": "Namibia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/na.svg",
+    "short_description": "Namibia is a country in southwest Africa, distinguished by the Namib Desert along its Atlantic Ocean coast, home to diverse wildlife including a significant cheetah population.",
+    "known_for": [
+        {
+            "title": "🏜️ Sossusvlei Dunes",
+            "color": "brown"
+        },
+        {
+            "title": "🐘 Etosha National Park",
+            "color": "green"
+        },
+        {
+            "title": "☠️ Skeleton Coast",
+            "color": "gray"
+        },
+        {
+            "title": "⛰️ Fish River Canyon",
+            "color": "gray"
+        },
+        {
+            "title": "🌌 Dark Sky Stargazing",
+            "color": "blue"
+        }
+    ],
+    "capital": "Windhoek",
+    "major_cities": [
+        "Windhoek",
+        "Walvis Bay",
+        "Swakopmund",
+        "Henties Bay",
+        "Otjiwarongo"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Namibian Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (80-90%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "21 March"
+    },
+    "phone": {
+        "digital_code": "+264",
+        "phone_operators": [
+            "MTC",
+            "Telecom Namibia"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "M"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "LEFA"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, bottled recommended elsewhere",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Strong German influence in beer production (Windhoek Lager)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 NAD per bag",
+            "guides": "50-100 NAD per person per day",
+            "restaurants": "10% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Namibia has a predominantly arid climate with plenty of sunshine and high evaporation rates.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cool Season (Dry)",
+                "time_period": "May to October",
+                "short_description": "Best for wildlife viewing in Etosha."
+            },
+            {
+                "icon": "🌦️",
+                "title": "Rainy Season",
+                "time_period": "November to April",
+                "short_description": "Lush landscapes and vibrant birdlife."
+            }
+        ],
+        "best_time": "The best time to visit is from June to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "10111"
+        },
+        {
+            "title": "Ambulance",
+            "number": "10177"
+        }
+    ]
+}

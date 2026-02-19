@@ -1,0 +1,117 @@
+{
+    "id": "328",
+    "iso": "GUY",
+    "alpha_2": "GY",
+    "country_name": "Guyana",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gy.svg",
+    "short_description": "Guyana is a South American country on the North Atlantic coast, defined by its dense rainforest and colonial architecture.",
+    "known_for": [
+        {
+            "title": "🌊 Kaieteur Falls",
+            "color": "blue"
+        },
+        {
+            "title": "🌳 Amazon Rainforest",
+            "color": "green"
+        },
+        {
+            "title": "🏛️ St. George's Cathedral",
+            "color": "gray"
+        },
+        {
+            "title": "🦜 Amazing Birdwatching",
+            "color": "orange"
+        },
+        {
+            "title": "🏏 Cricket Passion",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Georgetown",
+    "major_cities": [
+        "Georgetown",
+        "Linden",
+        "New Amsterdam",
+        "Bartica"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Guyanese Dollar",
+        "symbol": "GY$"
+    },
+    "major_religions": "Christianity (64%), Hinduism (25%), Islam (7%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "26 May"
+    },
+    "phone": {
+        "digital_code": "+592",
+        "phone_operators": [
+            "GTT",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Strict laws against public intoxication in some areas"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-3 per service",
+            "guides": "$2-10 per day",
+            "restaurants": "10-15% is standard",
+            "taxis": "Rounding up or $1-3"
+        }
+    },
+    "weather": {
+        "title": "Guyana has a tropical climate with two rainy seasons and two dry seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Seasons",
+                "time_period": "Februrary to April / September to October",
+                "short_description": "Best time for visiting falls and rainforest."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Seasons",
+                "time_period": "May to August / November to January",
+                "short_description": "High humidity and frequent heavy rains."
+            }
+        ],
+        "best_time": "The best time to visit is from September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "911"
+        },
+        {
+            "title": "Fire",
+            "number": "912"
+        },
+        {
+            "title": "Ambulance",
+            "number": "913"
+        }
+    ]
+}

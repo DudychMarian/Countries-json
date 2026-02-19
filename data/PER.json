@@ -1,0 +1,126 @@
+{
+    "id": "604",
+    "iso": "PER",
+    "alpha_2": "PE",
+    "country_name": "Peru",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/pe.svg",
+    "short_description": "Peru is a country in South America that's home to a section of Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains.",
+    "known_for": [
+        {
+            "title": "🏔️ Machu Picchu & Incan Trail",
+            "color": "green"
+        },
+        {
+            "title": "🐟 Ceviche (National Dish)",
+            "color": "blue"
+        },
+        {
+            "title": "🪐 Nazca Lines",
+            "color": "brown"
+        },
+        {
+            "title": "🎒 Cusco Heritage",
+            "color": "gray"
+        },
+        {
+            "title": "🌊 Lake Titicaca",
+            "color": "blue"
+        }
+    ],
+    "capital": "Lima",
+    "major_cities": [
+        "Lima",
+        "Arequipa",
+        "Trujillo",
+        "Chiclayo",
+        "Piura",
+        "Cusco"
+    ],
+    "official_language": [
+        "Spanish",
+        "Quechua",
+        "Aymara"
+    ],
+    "currency": {
+        "title": "Peruvian Sol",
+        "symbol": "S/"
+    },
+    "major_religions": "Christianity (Roman Catholic 76%, Evangelical 16%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "28 July"
+    },
+    "phone": {
+        "digital_code": "+51",
+        "phone_operators": [
+            "Movistar",
+            "Claro",
+            "Entel",
+            "Bitel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "C"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Cabify"
+        ],
+        "metro": [
+            "Lima Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Pisco Sour and Cusqueña beer"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "3-5 S/ per bag",
+            "guides": "10-20 S/ per person per day",
+            "restaurants": "10% is standard",
+            "taxis": "Not expected but rounding up ok"
+        }
+    },
+    "weather": {
+        "title": "Peru has highly diverse climates ranging from the tropical Amazon to the arid coastal desert and cool Andes.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season (Andes)",
+                "time_period": "May to October",
+                "short_description": "Best for trekking Machu Picchu and mountain views."
+            },
+            {
+                "icon": "🌦️",
+                "title": "Wet Season (Andes)",
+                "time_period": "November to April",
+                "short_description": "Rainier with lush green landscapes, quieter for travel."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August for the highlands."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "105"
+        },
+        {
+            "title": "Ambulance",
+            "number": "117"
+        },
+        {
+            "title": "Fire",
+            "number": "116"
+        }
+    ]
+}

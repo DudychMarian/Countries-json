@@ -1,0 +1,107 @@
+{
+    "id": "659",
+    "iso": "KNA",
+    "alpha_2": "KN",
+    "country_name": "Saint Kitts and Nevis",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/kn.svg",
+    "short_description": "Saint Kitts and Nevis is a dual-island nation between the Atlantic Ocean and Caribbean Sea, known for tall mountains and beaches.",
+    "known_for": [
+        {
+            "title": "🏰 Brimstone Hill Fortress",
+            "color": "gray"
+        },
+        {
+            "title": "🚂 Scenic Railway Tour",
+            "color": "orange"
+        },
+        {
+            "title": "🏖️ Cockleshell Bay",
+            "color": "blue"
+        },
+        {
+            "title": "🏔️ Mount Liamuiga",
+            "color": "green"
+        },
+        {
+            "title": "🏠 Alexander Hamilton's Birthplace (Nevis)",
+            "color": "gray"
+        }
+    ],
+    "capital": "Basseterre",
+    "major_cities": [
+        "Basseterre",
+        "Charlestown",
+        "Saddlers",
+        "Cayon"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "East Caribbean Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Anglican 17%, Methodist 16%, Pentecostal 15%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "19 September"
+    },
+    "phone": {
+        "digital_code": "+1-869",
+        "phone_operators": [
+            "Flow",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, but bottled recommended",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Carib Beer and Brinley Shipwreck Rum"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 USD per bag",
+            "guides": "10-15% is standard",
+            "restaurants": "10-15% if not included",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Saint Kitts and Nevis has a tropical climate moderated by trade winds.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "December to April",
+                "short_description": "Most popular time to visit, with lower humidity."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to November",
+                "short_description": "Hotter and more humid, with potential tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is from December to May."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

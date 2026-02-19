@@ -1,0 +1,117 @@
+{
+    "id": "422",
+    "iso": "LBN",
+    "alpha_2": "LB",
+    "country_name": "Lebanon",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/lb.svg",
+    "short_description": "Lebanon is a country in Western Asia, bordered by Syria to the north and east and Israel to the south, while Cyprus lies west across the Mediterranean Sea.",
+    "known_for": [
+        {
+            "title": "🏛️ Baalbek Roman Ruins",
+            "color": "gray"
+        },
+        {
+            "title": "🌲 Cedars of Lebanon",
+            "color": "green"
+        },
+        {
+            "title": "🏙️ Beirut Nightlife",
+            "color": "blue"
+        },
+        {
+            "title": "🥙 Lebanese Meze",
+            "color": "orange"
+        },
+        {
+            "title": "🏘️ Byblos Ancient Port",
+            "color": "teal"
+        }
+    ],
+    "capital": "Beirut",
+    "major_cities": [
+        "Beirut",
+        "Tripoli",
+        "Sidon",
+        "Tyre",
+        "Baalbek"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Lebanese Pound",
+        "symbol": "ل.ل"
+    },
+    "major_religions": "Islam (61%), Christianity (34%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "22 November"
+    },
+    "phone": {
+        "digital_code": "+961",
+        "phone_operators": [
+            "Alfa",
+            "Touch"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Vibrant wine industry and nightlife"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-3 per service",
+            "guides": "$5-10 per day",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Lebanon has a Mediterranean climate with mild, wet winters and hot, dry summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "March to May",
+                "short_description": "Best for hiking and exploring ruins."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Pleasant temperatures after the summer heat."
+            }
+        ],
+        "best_time": "The best time to visit is from April to May or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "112"
+        },
+        {
+            "title": "Red Cross (Ambulance)",
+            "number": "140"
+        },
+        {
+            "title": "Fire",
+            "number": "175"
+        }
+    ]
+}

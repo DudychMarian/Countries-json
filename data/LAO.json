@@ -1,0 +1,121 @@
+{
+    "id": "418",
+    "iso": "LAO",
+    "alpha_2": "LA",
+    "country_name": "Lao People's Democratic Republic (the)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/la.svg",
+    "short_description": "Laos is a Southeast Asian country traversed by the Mekong River and known for mountainous terrain, French colonial architecture, hill tribe settlements and Buddhist monasteries.",
+    "known_for": [
+        {
+            "title": "🛕 Luang Prabang Temples",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Mekong River",
+            "color": "blue"
+        },
+        {
+            "title": "💦 Kuang Si Falls",
+            "color": "teal"
+        },
+        {
+            "title": "🏺 Plain of Jars",
+            "color": "gray"
+        },
+        {
+            "title": "🥢 Sticky Rice (Khao Niew)",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Vientiane",
+    "major_cities": [
+        "Vientiane",
+        "Luang Prabang",
+        "Pakse",
+        "Savannakhet",
+        "Vang Vieng"
+    ],
+    "official_language": [
+        "Lao"
+    ],
+    "currency": {
+        "title": "Lao Kip",
+        "symbol": "₭"
+    },
+    "major_religions": "Buddhism (66%)",
+    "national_day": {
+        "title": "Republic Day",
+        "date": "2 December"
+    },
+    "phone": {
+        "digital_code": "+856",
+        "phone_operators": [
+            "Unitel",
+            "Lao Telecom",
+            "Tplus",
+            "ETL"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Beerlao is the national icon"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10,000 Kip per bag",
+            "guides": "20,000-50,000 Kip per day",
+            "restaurants": "10% is standard for good service",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Laos has a tropical monsoon climate with distinct wet and dry seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Cool and dry, best for travel."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Lush landscapes but outdoor activities can be restricted."
+            }
+        ],
+        "best_time": "The best time to visit is from November to January."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "191"
+        },
+        {
+            "title": "Ambulance",
+            "number": "195"
+        },
+        {
+            "title": "Fire",
+            "number": "190"
+        }
+    ]
+}

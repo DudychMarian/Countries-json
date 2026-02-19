@@ -1,0 +1,116 @@
+{
+    "id": "478",
+    "iso": "MRT",
+    "alpha_2": "MR",
+    "country_name": "Mauritania",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mr.svg",
+    "short_description": "Mauritania is a sovereign country in Northwest Africa, bordered by the Atlantic Ocean to the west and the Sahara Desert to the north and east.",
+    "known_for": [
+        {
+            "title": "🏜️ Adrar Desert Ruins",
+            "color": "brown"
+        },
+        {
+            "title": "🦅 Banc d'Arguin National Park",
+            "color": "teal"
+        },
+        {
+            "title": "🚆 Iron Ore Train",
+            "color": "gray"
+        },
+        {
+            "title": "🏺 Chinguetti Library",
+            "color": "yellow"
+        },
+        {
+            "title": "🍵 Mauritanian Tea Culture",
+            "color": "green"
+        }
+    ],
+    "capital": "Nouakchott",
+    "major_cities": [
+        "Nouakchott",
+        "Nouadhibou",
+        "Kiffa",
+        "Néma",
+        "Kaédi"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Mauritanian Ouguiya",
+        "symbol": "UM"
+    },
+    "major_religions": "Islam (100%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "28 November"
+    },
+    "phone": {
+        "digital_code": "+222",
+        "phone_operators": [
+            "Mauritel",
+            "Chinguitel",
+            "Mattel"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "Illegal",
+        "alcohol_parchase_age": "Illegal",
+        "alcohol_info": [
+            "Alcohol is strictly prohibited by law"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included",
+            "guides": "5-10% of price",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up is fine"
+        }
+    },
+    "weather": {
+        "title": "Mauritania has a predominantly hot and dry desert climate.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cool Season",
+                "time_period": "November to March",
+                "short_description": "Milder temperatures, though desert nights can be cold."
+            },
+            {
+                "icon": "☀️",
+                "title": "Hot Season",
+                "time_period": "April to October",
+                "short_description": "Extremely hot and dry conditions."
+            }
+        ],
+        "best_time": "The best time to visit is from November to March."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Ambulance",
+            "number": "101"
+        },
+        {
+            "title": "Traffic Police",
+            "number": "19"
+        }
+    ]
+}

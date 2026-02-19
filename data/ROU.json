@@ -1,0 +1,117 @@
+{
+    "id": "642",
+    "iso": "ROU",
+    "alpha_2": "RO",
+    "country_name": "Romania",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ro.svg",
+    "short_description": "Romania is a southeastern European country known for the forested region of Transylvania and its preserved medieval towns.",
+    "known_for": [
+        {
+            "title": "🏰 Bran Castle (Dracula's Castle)",
+            "color": "orange"
+        },
+        {
+            "title": "🛣️ Transfăgărășan Highway",
+            "color": "gray"
+        },
+        {
+            "title": "🏛️ Palace of the Parliament",
+            "color": "orange"
+        },
+        {
+            "title": "🌳 Danube Delta Biodiversity",
+            "color": "green"
+        },
+        {
+            "title": "🏘️ Medieval Sighișoara",
+            "color": "brown"
+        }
+    ],
+    "capital": "Bucharest",
+    "major_cities": [
+        "Bucharest",
+        "Cluj-Napoca",
+        "Timișoara",
+        "Iași",
+        "Constanța",
+        "Craiova"
+    ],
+    "official_language": [
+        "Romanian"
+    ],
+    "currency": {
+        "title": "Romanian Leu",
+        "symbol": "lei"
+    },
+    "major_religions": "Christianity (Eastern Orthodox 81%)",
+    "national_day": {
+        "title": "Great Union Day",
+        "date": "1 December"
+    },
+    "phone": {
+        "digital_code": "+40",
+        "phone_operators": [
+            "Orange Romania",
+            "Vodafone Romania",
+            "Digi Romania",
+            "Telekom Romania"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Bolt",
+            "Star Taxi"
+        ],
+        "metro": [
+            "Bucharest Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, bottled recommended in rural areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Țuică (plum brandy) and quality wines"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "5-10 RON per bag",
+            "guides": "10-15% is standard",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Romania has a temperate-continental climate with four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Late Spring / Early Autumn",
+                "time_period": "May to June & Sept to Oct",
+                "short_description": "Pleasant weather, ideal for exploring Transylvania."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "December to February",
+                "short_description": "Cold with snow, great for skiing and traditions."
+            }
+        ],
+        "best_time": "The best time to visit is from May to September."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        }
+    ]
+}

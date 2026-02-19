@@ -1,0 +1,112 @@
+{
+    "id": "744",
+    "iso": "SJM",
+    "alpha_2": "SJ",
+    "country_name": "Svalbard and Jan Mayen",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sj.svg",
+    "short_description": "Svalbard and Jan Mayen are Norwegian territories in the Arctic Ocean, famous for glaciers, polar bears and rugged polar beauty.",
+    "known_for": [
+        {
+            "title": "🐻 Polar Bears & Arctic Wildlife",
+            "color": "blue"
+        },
+        {
+            "title": "❄️ Glaciers & Ice Fjords",
+            "color": "blue"
+        },
+        {
+            "title": "🌌 Northern Lights (Aurora Borealis)",
+            "color": "purple"
+        },
+        {
+            "title": "🌍 Global Seed Vault",
+            "color": "gray"
+        },
+        {
+            "title": "🏔️ Spitsbergen Mountaineering",
+            "color": "gray"
+        }
+    ],
+    "capital": "Longyearbyen",
+    "major_cities": [
+        "Longyearbyen",
+        "Barentsburg",
+        "Ny-Ålesund"
+    ],
+    "official_language": [
+        "Norwegian"
+    ],
+    "currency": {
+        "title": "Norwegian Krone",
+        "symbol": "kr"
+    },
+    "major_religions": "Christianity (Protestant)",
+    "national_day": {
+        "title": "Constitution Day",
+        "date": "17 May"
+    },
+    "phone": {
+        "digital_code": "+47",
+        "phone_operators": [
+            "Telenor Svalbard",
+            "Telia"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Longyearbyen Taxi"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old (20 for spirits)",
+        "alcohol_parchase_age": "20 years old (for spirits)",
+        "alcohol_info": [
+            "Legal age is 18 for beer/wine, 20 for spirits",
+            "Strict quotas for alcohol purchases exist on Svalbard"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "5-10% extra is nice",
+            "restaurants": "Rounding up or 5-10%",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Svalbard has an Arctic climate with extremely cold winters and cool summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Polar Summer",
+                "time_period": "May to September",
+                "short_description": "Constant daylight and milder temperatures."
+            },
+            {
+                "icon": "🌌",
+                "title": "Polar Night",
+                "time_period": "November to January",
+                "short_description": "Total darkness, ideal for Northern Lights."
+            }
+        ],
+        "best_time": "The best time to visit for outdoor activities is from June to August."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Medical",
+            "number": "113"
+        }
+    ]
+}

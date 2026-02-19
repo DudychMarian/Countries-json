@@ -1,0 +1,127 @@
+{
+    "id": "858",
+    "iso": "URY",
+    "alpha_2": "UY",
+    "country_name": "Uruguay",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/uy.svg",
+    "short_description": "Uruguay is a South American country known for its verdant interior and beach-lined coast.",
+    "known_for": [
+        {
+            "title": "🏖️ Punta del Este Beaches",
+            "color": "blue"
+        },
+        {
+            "title": "🏘️ Colonia del Sacramento (UNESCO)",
+            "color": "brown"
+        },
+        {
+            "title": "🥩 Asado & Parrilla Culture",
+            "color": "red"
+        },
+        {
+            "title": "🧉 Mate Tea Tradition",
+            "color": "green"
+        },
+        {
+            "title": "🤠 Gaucho Heritage",
+            "color": "orange"
+        }
+    ],
+    "capital": "Montevideo",
+    "major_cities": [
+        "Montevideo",
+        "Salto",
+        "Ciudad de la Costa",
+        "Paysandú",
+        "Las Piedras",
+        "Maldonado"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Uruguayan Peso",
+        "symbol": "$U"
+    },
+    "major_religions": "Christianity (58%), Unaffiliated (37%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "25 August"
+    },
+    "phone": {
+        "digital_code": "+598",
+        "phone_operators": [
+            "Antel",
+            "Movistar",
+            "Claro"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F",
+        "I",
+        "L"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Cabify"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink in cities",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Zero tolerance policy for drink-driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "40-80 UYU per bag",
+            "guides": "10% is appreciated",
+            "restaurants": "10% is customary",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Uruguay has a temperate climate with mild temperatures and four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🏖️",
+                "title": "Summer",
+                "time_period": "December to March",
+                "short_description": "Best for beaches and coastal resorts."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "April to June",
+                "short_description": "Pleasant weather for city exploration."
+            }
+        ],
+        "best_time": "The best time to visit is from December to March."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        },
+        {
+            "title": "Police",
+            "number": "109"
+        },
+        {
+            "title": "Ambulance",
+            "number": "105"
+        },
+        {
+            "title": "Fire",
+            "number": "104"
+        }
+    ]
+}

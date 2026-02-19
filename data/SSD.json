@@ -1,0 +1,112 @@
+{
+    "id": "728",
+    "iso": "SSD",
+    "alpha_2": "SS",
+    "country_name": "South Sudan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ss.svg",
+    "short_description": "South Sudan is a landlocked country in East-Central Africa, the world's youngest sovereign state.",
+    "known_for": [
+        {
+            "title": "🌊 The Sudd (World's Largest Swamp)",
+            "color": "blue"
+        },
+        {
+            "title": "🦒 Boma National Park Migration",
+            "color": "green"
+        },
+        {
+            "title": "🛶 White Nile River",
+            "color": "blue"
+        },
+        {
+            "title": "🐂 Dinka Cattle Culture",
+            "color": "brown"
+        },
+        {
+            "title": "🏔️ Imatong Mountains",
+            "color": "green"
+        }
+    ],
+    "capital": "Juba",
+    "major_cities": [
+        "Juba",
+        "Wau",
+        "Malakal",
+        "Aweil",
+        "Bor",
+        "Yei"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "South Sudanese Pound",
+        "symbol": "£"
+    },
+    "major_religions": "Christianity (60%), Traditional Faiths (33%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "9 July"
+    },
+    "phone": {
+        "digital_code": "+211",
+        "phone_operators": [
+            "Zain South Sudan",
+            "MTN South Sudan",
+            "Digitel"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Boda Bodas (Motorbike Taxis)"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "White Bull Beer is a popular local brand"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tip appreciated",
+            "guides": "10-15% is standard",
+            "restaurants": "Rounding up or 5-10%",
+            "taxis": "Rounding up or small tip"
+        }
+    },
+    "weather": {
+        "title": "South Sudan has a tropical climate with a long rainy season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Best for travel and wildlife viewing."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Heavy rain, many roads become impassable."
+            }
+        ],
+        "best_time": "The best time to visit is from December to February."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "777"
+        }
+    ]
+}

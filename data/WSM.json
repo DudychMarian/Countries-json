@@ -1,0 +1,107 @@
+{
+    "id": "882",
+    "iso": "WSM",
+    "alpha_2": "WS",
+    "country_name": "Samoa",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ws.svg",
+    "short_description": "Samoa is an island country in Polynesia, known for its volcanic islands, reef-bordered beaches and the 'Fa'a Samoa' way of life.",
+    "known_for": [
+        {
+            "title": "🌊 To Sua Ocean Trench",
+            "color": "blue"
+        },
+        {
+            "title": "🏝️ Savai'i & Upolu Islands",
+            "color": "green"
+        },
+        {
+            "title": "📜 Robert Louis Stevenson Museum",
+            "color": "brown"
+        },
+        {
+            "title": "🗿 Fa'a Samoa (Traditional Culture)",
+            "color": "gray"
+        },
+        {
+            "title": "🐳 Whale & Turtle Watching",
+            "color": "blue"
+        }
+    ],
+    "capital": "Apia",
+    "major_cities": [
+        "Apia",
+        "Salelologa",
+        "Asau",
+        "Afega"
+    ],
+    "official_language": [
+        "Samoan",
+        "English"
+    ],
+    "currency": {
+        "title": "Samoan Tala",
+        "symbol": "T"
+    },
+    "major_religions": "Christianity (99%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "1 June"
+    },
+    "phone": {
+        "digital_code": "+685",
+        "phone_operators": [
+            "Digicel Samoa",
+            "Vodafone Samoa"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "21 years old",
+        "alcohol_info": [
+            "Legal consumption age is 18, purchase is 21",
+            "Vailima Beer is the local favorite"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Appreciated but not mandatory",
+            "restaurants": "Not expected, rounding up is fine",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Samoa has a tropical climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "May to October",
+                "short_description": "Most popular time, with cooler temperatures and less rain."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "November to April",
+                "short_description": "Hot and humid with more rain and potential cyclones."
+            }
+        ],
+        "best_time": "The best time to visit is from May to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

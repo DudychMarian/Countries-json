@@ -1,0 +1,108 @@
+{
+    "id": "580",
+    "iso": "MNP",
+    "alpha_2": "MP",
+    "country_name": "Northern Mariana Islands (the)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mp.svg",
+    "short_description": "The Northern Mariana Islands is a U.S. commonwealth in the northwestern Pacific Ocean, consisting of 14 islands.",
+    "known_for": [
+        {
+            "title": "🤿 The Grotto (Sea Cave)",
+            "color": "blue"
+        },
+        {
+            "title": "🏖️ Managaha Island",
+            "color": "blue"
+        },
+        {
+            "title": "🧗 Mount Tapochau Views",
+            "color": "gray"
+        },
+        {
+            "title": "🚢 WWII Memorials & Wrecks",
+            "color": "gray"
+        },
+        {
+            "title": "🌴 Saipan's Tropical Coast",
+            "color": "blue"
+        }
+    ],
+    "capital": "Saipan",
+    "major_cities": [
+        "Saipan",
+        "Tinian",
+        "Rota"
+    ],
+    "official_language": [
+        "English",
+        "Chamorro",
+        "Carolinian"
+    ],
+    "currency": {
+        "title": "United States Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Roman Catholic)",
+    "national_day": {
+        "title": "Commonwealth Day",
+        "date": "8 January"
+    },
+    "phone": {
+        "digital_code": "+1-670",
+        "phone_operators": [
+            "Docomo Pacific",
+            "IT&E"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "21 years old",
+        "alcohol_parchase_age": "21 years old",
+        "alcohol_info": [
+            "Legal age is 21",
+            "Subject to U.S. laws and local regulations"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included",
+            "guides": "15-20% is standard",
+            "restaurants": "15-20% is typical",
+            "taxis": "10-15% of fare"
+        }
+    },
+    "weather": {
+        "title": "The Northern Mariana Islands have a tropical oceanic climate, hot and humid year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "December to June",
+                "short_description": "Best for outdoor activities and beach days."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "July to November",
+                "short_description": "Hot and humid with higher rainfall and risk of typhoons."
+            }
+        ],
+        "best_time": "The best time to visit is from December to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "id": "804",
+    "iso": "UKR",
+    "alpha_2": "UA",
+    "country_name": "Ukraine",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ua.svg",
+    "short_description": "Ukraine is a country in Eastern Europe known for its diverse landscapes, golden-domed churches and rich cultural history.",
+    "known_for": [
+        {
+            "title": "⛪ Kyiv Pechersk Lavra",
+            "color": "yellow"
+        },
+        {
+            "title": "🏛️ Lviv Old Town Architecture",
+            "color": "brown"
+        },
+        {
+            "title": "🌻 Sunflower Oil Production",
+            "color": "yellow"
+        },
+        {
+            "title": "🌿 Carpathian Mountains",
+            "color": "green"
+        },
+        {
+            "title": "🥨 Borscht & Varenyky Heritage",
+            "color": "red"
+        }
+    ],
+    "capital": "Kyiv",
+    "major_cities": [
+        "Kyiv",
+        "Kharkiv",
+        "Odesa",
+        "Dnipro",
+        "Donetsk",
+        "Lviv"
+    ],
+    "official_language": [
+        "Ukrainian"
+    ],
+    "currency": {
+        "title": "Ukrainian Hryvnia",
+        "symbol": "₴"
+    },
+    "major_religions": "Christianity (Orthodox 67%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "24 August"
+    },
+    "phone": {
+        "digital_code": "+380",
+        "phone_operators": [
+            "Kyivstar",
+            "Vodafone Ukraine",
+            "lifecell"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uklon",
+            "Uber",
+            "Bolt"
+        ],
+        "metro": [
+            "Kyiv Metro",
+            "Kharkiv Metro",
+            "Dnipro Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Boiling or filtering recommended)",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Horilka is the traditional Ukrainian spirit",
+            "Zero tolerance for drink-driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "20-50 UAH per bag",
+            "guides": "10-15% extra is standard",
+            "restaurants": "10-15% is customary",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Ukraine has a temperate continental climate with cold winters and warm summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Late Spring / Early Autumn",
+                "time_period": "May to June & Sept",
+                "short_description": "Best weather for exploring cities and nature."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "July to August",
+                "short_description": "Warm to hot, popular for Black Sea resorts like Odesa."
+            }
+        ],
+        "best_time": "The best time to visit is from May to June or September."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "102"
+        },
+        {
+            "title": "Ambulance",
+            "number": "103"
+        },
+        {
+            "title": "Fire",
+            "number": "101"
+        }
+    ]
+}

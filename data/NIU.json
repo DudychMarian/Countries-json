@@ -1,0 +1,107 @@
+{
+    "id": "570",
+    "iso": "NIU",
+    "alpha_2": "NU",
+    "country_name": "Niue",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/nu.svg",
+    "short_description": "Niue is a small island nation in the South Pacific, known for its limestone cliffs and coral-reef dive sites.",
+    "known_for": [
+        {
+            "title": "🐋 Humpback Whale Watching",
+            "color": "blue"
+        },
+        {
+            "title": "🐚 Limestone Caves & Chasms",
+            "color": "gray"
+        },
+        {
+            "title": "🤿 Crystal Clear Diving",
+            "color": "blue"
+        },
+        {
+            "title": "🚣 Traditional Vaka Paddling",
+            "color": "orange"
+        },
+        {
+            "title": "🏰 Matapa Chasm",
+            "color": "teal"
+        }
+    ],
+    "capital": "Alofi",
+    "major_cities": [
+        "Alofi",
+        "Hakupu",
+        "Makefu",
+        "Tuapa",
+        "Avatele"
+    ],
+    "official_language": [
+        "Niuean",
+        "English"
+    ],
+    "currency": {
+        "title": "New Zealand Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Congregational Christian Church of Niue 62%)",
+    "national_day": {
+        "title": "Constitution Day",
+        "date": "19 October"
+    },
+    "phone": {
+        "digital_code": "+683",
+        "phone_operators": [
+            "Telecom Niue"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe but boiling recommended for tourists",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Available in local clubs and restaurants"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected but rounding up ok",
+            "restaurants": "Not expected",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Niue has a tropical climate with hot and rainy weather year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "May to October",
+                "short_description": "Cooler and drier, best for travel."
+            },
+            {
+                "icon": "🐋",
+                "title": "Whale Season",
+                "time_period": "July to October",
+                "short_description": "Best for seeing humpback whales migrating."
+            }
+        ],
+        "best_time": "The best time to visit is from June to September."
+    },
+    "emergency": [
+        {
+            "title": "Police/Ambulance",
+            "number": "999"
+        }
+    ]
+}

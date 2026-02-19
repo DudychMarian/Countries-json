@@ -1,0 +1,106 @@
+{
+    "id": "520",
+    "iso": "NRU",
+    "alpha_2": "NR",
+    "country_name": "Nauru",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/nr.svg",
+    "short_description": "Nauru is a tiny island country in Micronesia, northeast of Australia, once known as 'Pleasant Island'. It is the smallest island nation in the world.",
+    "known_for": [
+        {
+            "title": "⛏️ Phosphate Mining History",
+            "color": "gray"
+        },
+        {
+            "title": "🏝️ Anibare Bay",
+            "color": "blue"
+        },
+        {
+            "title": "⚓ Mooring Buoys",
+            "color": "blue"
+        },
+        {
+            "title": "🏚️ Command Ridge",
+            "color": "gray"
+        },
+        {
+            "title": "🌊 Buada Lagoon",
+            "color": "blue"
+        }
+    ],
+    "capital": "Yaren (de facto)",
+    "major_cities": [
+        "Yaren",
+        "Denigomodu",
+        "Aiwo",
+        "Meneng"
+    ],
+    "official_language": [
+        "Nauruan",
+        "English"
+    ],
+    "currency": {
+        "title": "Australian Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (80%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "31 January"
+    },
+    "phone": {
+        "digital_code": "+674",
+        "phone_operators": [
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Available in licensed clubs and hotels"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not customary",
+            "guides": "Small gift or tip is appreciated",
+            "restaurants": "Not expected",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Nauru has a tropical climate with high humidity and consistent heat.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "March to October",
+                "short_description": "Less rainfall and more favorable humidity."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "November to February",
+                "short_description": "Heavier rain and increased humidity."
+            }
+        ],
+        "best_time": "The best time to visit is from March to October."
+    },
+    "emergency": [
+        {
+            "title": "Police/Ambulance/Fire",
+            "number": "110"
+        }
+    ]
+}

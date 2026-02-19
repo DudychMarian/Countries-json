@@ -1,0 +1,108 @@
+{
+    "id": "887",
+    "iso": "YEM",
+    "alpha_2": "YE",
+    "country_name": "Yemen",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ye.svg",
+    "short_description": "Yemen is an Arab country on the southern end of the Arabian Peninsula, known for its historic mud-brick architecture and Socotra island.",
+    "known_for": [
+        {
+            "title": "🏢 Old City of Sana'a (UNESCO)",
+            "color": "brown"
+        },
+        {
+            "title": "🌳 Socotra's Dragon Blood Trees",
+            "color": "green"
+        },
+        {
+            "title": "🏘️ Shibam (Manhattan of the Desert)",
+            "color": "orange"
+        },
+        {
+            "title": "🏰 Dar al-Hajar (Rock Palace)",
+            "color": "gray"
+        },
+        {
+            "title": "🍯 Sidr Honey Heritage",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Sana'a",
+    "major_cities": [
+        "Sana'a",
+        "Aden",
+        "Taiz",
+        "Al Hudaydah",
+        "Al Mukalla"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Yemeni Rial",
+        "symbol": "﷼"
+    },
+    "major_religions": "Islam (99%)",
+    "national_day": {
+        "title": "Unity Day",
+        "date": "22 May"
+    },
+    "phone": {
+        "digital_code": "+967",
+        "phone_operators": [
+            "Yemen Mobile",
+            "Sabafon",
+            "MTN Yemen"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Bottled water only)",
+        "alcohol_consumption_age": "Prohibited for Muslims",
+        "alcohol_parchase_age": "Prohibited",
+        "alcohol_info": [
+            "Alcohol is strictly prohibited for Yemenis",
+            "Non-Muslims may consume in private, but public drinking is illegal"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tip appreciated",
+            "guides": "10-15% for good service",
+            "restaurants": "10% is customary in tourist hotels",
+            "taxis": "Rounding up is fine"
+        }
+    },
+    "weather": {
+        "title": "Yemen has an arid desert climate with high temperatures and minimal rainfall.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter",
+                "time_period": "October to March",
+                "short_description": "Mildest temperatures for sightseeing."
+            }
+        ],
+        "best_time": "The best time to visit is from October to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "199"
+        },
+        {
+            "title": "Police/Emergency",
+            "number": "112"
+        }
+    ]
+}

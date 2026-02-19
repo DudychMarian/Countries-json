@@ -1,0 +1,125 @@
+{
+    "id": "356",
+    "iso": "IND",
+    "alpha_2": "IN",
+    "country_name": "India",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/in.svg",
+    "short_description": "India is a vast South Asian country with diverse terrain—from Himalayan peaks to Indian Ocean coastline—and a history reaching back 5 millennia.",
+    "known_for": [
+        {
+            "title": "🕌 Taj Mahal",
+            "color": "gray"
+        },
+        {
+            "title": "🍛 Spices & Cuisine",
+            "color": "orange"
+        },
+        {
+            "title": "🧘 Yoga & Spirituality",
+            "color": "yellow"
+        },
+        {
+            "title": "💃 Bollywood Culture",
+            "color": "red"
+        },
+        {
+            "title": "🐘 Wildlife Sanctuaries",
+            "color": "green"
+        }
+    ],
+    "capital": "New Delhi",
+    "major_cities": [
+        "Mumbai",
+        "Delhi",
+        "Bengaluru",
+        "Chennai",
+        "Kolkata",
+        "Jaipur"
+    ],
+    "official_language": [
+        "Hindi",
+        "English"
+    ],
+    "currency": {
+        "title": "Indian Rupee",
+        "symbol": "₹"
+    },
+    "major_religions": "Hinduism (80%), Islam (14%), Christianity, Sikhism",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "15 August"
+    },
+    "phone": {
+        "digital_code": "+91",
+        "phone_operators": [
+            "Jio",
+            "Airtel",
+            "Vi"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "M"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": [
+            "Delhi Metro",
+            "Mumbai Metro",
+            "Bengaluru Metro",
+            "Kolkata Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "Varies by state (18 to 25)",
+        "alcohol_parchase_age": "Varies by state (18 to 25)",
+        "alcohol_info": [
+            "Legal age varies from 18 to 25 depending on the state",
+            "Some states like Gujarat are dry states where alcohol is prohibited"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₹50-100 per service",
+            "guides": "₹200-500 per day",
+            "restaurants": "5-10% of the bill",
+            "taxis": "Rounding up or ₹50-100"
+        }
+    },
+    "weather": {
+        "title": "India's climate varies from tropical in the south to temperate in the north, with a major monsoon season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter",
+                "time_period": "November to February",
+                "short_description": "Best time for most parts of the country with pleasant weather."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Monsoon",
+                "time_period": "June to September",
+                "short_description": "Heavy rainfall, humid but lush landscapes."
+            }
+        ],
+        "best_time": "The best time to visit is from October to March."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "100"
+        },
+        {
+            "title": "Fire",
+            "number": "101"
+        },
+        {
+            "title": "Ambulance",
+            "number": "102"
+        }
+    ]
+}

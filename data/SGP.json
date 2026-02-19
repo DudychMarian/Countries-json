@@ -1,0 +1,119 @@
+{
+    "id": "702",
+    "iso": "SGP",
+    "alpha_2": "SG",
+    "country_name": "Singapore",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sg.svg",
+    "short_description": "Singapore is a tropical city-state in Southeast Asia, known for its futuristic architecture, clean streets and diverse culinary scene.",
+    "known_for": [
+        {
+            "title": "🏢 Marina Bay Sands",
+            "color": "gray"
+        },
+        {
+            "title": "🌳 Gardens by the Bay",
+            "color": "green"
+        },
+        {
+            "title": "🦁 Merlion Park",
+            "color": "gray"
+        },
+        {
+            "title": "🍜 Hawker Center Food Culture",
+            "color": "orange"
+        },
+        {
+            "title": "🏙️ Jewel Changi Airport",
+            "color": "blue"
+        }
+    ],
+    "capital": "Singapore",
+    "major_cities": [
+        "Singapore"
+    ],
+    "official_language": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Tamil"
+    ],
+    "currency": {
+        "title": "Singapore Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Buddhism (31%), Christianity (19%), Islam (16%)",
+    "national_day": {
+        "title": "National Day",
+        "date": "9 August"
+    },
+    "phone": {
+        "digital_code": "+65",
+        "phone_operators": [
+            "Singtel",
+            "StarHub",
+            "M1",
+            "SIMBA"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Grab",
+            "Gojek",
+            "ComfortDelGro"
+        ],
+        "metro": [
+            "MRT (Mass Rapid Transit)"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Strict rules on public drinking after 10:30 PM",
+            "Tiger Beer is the national brand"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Small tip appreciated for exceptional service",
+            "restaurants": "Usually included as 10% service charge",
+            "taxis": "Not expected, rounding up is common"
+        }
+    },
+    "weather": {
+        "title": "Singapore has a tropical rainforest climate, hot and humid year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Drier Months",
+                "time_period": "February to April",
+                "short_description": "Slightly less rain and lower humidity."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Monsoon Season",
+                "time_period": "November to January",
+                "short_description": "Frequent and sometimes heavy rain showers."
+            }
+        ],
+        "best_time": "The best time to visit is from February to April."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "999"
+        },
+        {
+            "title": "Ambulance/Fire",
+            "number": "995"
+        }
+    ]
+}

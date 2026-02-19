@@ -1,0 +1,119 @@
+{
+    "id": "768",
+    "iso": "TGO",
+    "alpha_2": "TG",
+    "country_name": "Togo",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/tg.svg",
+    "short_description": "Togo is a West African nation on the Gulf of Guinea, known for its palm-lined beaches and hilltop villages.",
+    "known_for": [
+        {
+            "title": "🏯 Koutammakou (Batammariba Houses)",
+            "color": "brown"
+        },
+        {
+            "title": "🏖️ Lomé Grand Market & Beaches",
+            "color": "blue"
+        },
+        {
+            "title": "🛶 Lake Togo & Agbodrafo",
+            "color": "blue"
+        },
+        {
+            "title": "🌿 Kpalimé Coffee & Cocoa Regions",
+            "color": "green"
+        },
+        {
+            "title": "🎭 Voodoo Culture & Fetish Markets",
+            "color": "gray"
+        }
+    ],
+    "capital": "Lomé",
+    "major_cities": [
+        "Lomé",
+        "Sokodé",
+        "Kara",
+        "Atakpamé",
+        "Palimé",
+        "Dapaong"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "West African CFA franc",
+        "symbol": "CFA"
+    },
+    "major_religions": "Christianity (42%), Folk Religions (37%), Islam (14%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "27 April"
+    },
+    "phone": {
+        "digital_code": "+228",
+        "phone_operators": [
+            "Togo cell",
+            "Moov Togo"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Zémidjans (Motorbike Taxis)"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Tchoukoutou is a popular local millet beer"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "500-1000 CFA per bag",
+            "guides": "10% is appreciated",
+            "restaurants": "Rounding up or 5-10%",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Togo has a tropical climate with hot and humid conditions year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to February",
+                "short_description": "Best for travel, cooler and less humid."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "April to July",
+                "short_description": "Heavy tropical rains, especially in the south."
+            }
+        ],
+        "best_time": "The best time to visit is from November to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "117"
+        },
+        {
+            "title": "Ambulance",
+            "number": "8202"
+        },
+        {
+            "title": "Fire Brigade",
+            "number": "118"
+        }
+    ]
+}

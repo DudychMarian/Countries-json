@@ -1,0 +1,108 @@
+{
+    "id": "352",
+    "iso": "ISL",
+    "alpha_2": "IS",
+    "country_name": "Iceland",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/is.svg",
+    "short_description": "Iceland is a Nordic island nation defined by its dramatic landscape with volcanoes, geysers, hot springs and enormous glaciers.",
+    "known_for": [
+        {
+            "title": "🌌 Northern Lights",
+            "color": "purple"
+        },
+        {
+            "title": "🌋 Volcanic Landscapes",
+            "color": "gray"
+        },
+        {
+            "title": "♨️ Blue Lagoon",
+            "color": "blue"
+        },
+        {
+            "title": "💦 Gulffoss & Waterfalls",
+            "color": "teal"
+        },
+        {
+            "title": "🐋 Whale Watching",
+            "color": "blue"
+        }
+    ],
+    "capital": "Reykjavík",
+    "major_cities": [
+        "Reykjavík",
+        "Kópavogur",
+        "Hafnarfjörður",
+        "Akureyri"
+    ],
+    "official_language": [
+        "Icelandic"
+    ],
+    "currency": {
+        "title": "Icelandic Króna",
+        "symbol": "kr"
+    },
+    "major_religions": "Christianity (Lutheran)",
+    "national_day": {
+        "title": "National Day",
+        "date": "17 June"
+    },
+    "phone": {
+        "digital_code": "+354",
+        "phone_operators": [
+            "Siminn",
+            "Vodafone",
+            "Nova"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe and very clean",
+        "alcohol_consumption_age": "20 years old",
+        "alcohol_parchase_age": "20 years old",
+        "alcohol_info": [
+            "Legal age is 20",
+            "Alcohol is only sold in state-run liquor stores (Vínbúðin)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected but appreciated",
+            "restaurants": "Included in service, tipping 5-10% is optional",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Iceland has a subarctic oceanic climate with mild winters and cool summers.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Midnight sun and best weather for road trips."
+            },
+            {
+                "icon": "🌌",
+                "title": "Winter",
+                "time_period": "September to April",
+                "short_description": "Best time for Northern Lights and ice cave tours."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August for mild weather, or February to March for Northern Lights."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        }
+    ]
+}

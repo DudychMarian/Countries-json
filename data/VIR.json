@@ -1,0 +1,110 @@
+{
+    "id": "850",
+    "iso": "VIR",
+    "alpha_2": "VI",
+    "country_name": "Virgin Islands (U.S.)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/vi.svg",
+    "short_description": "The U.S. Virgin Islands are a Caribbean territory known for white-sand beaches, reefs and hilly green landscapes.",
+    "known_for": [
+        {
+            "title": "🏖️ Magens Bay Beach",
+            "color": "blue"
+        },
+        {
+            "title": "🏘️ Charlotte Amalie Historic Architecture",
+            "color": "brown"
+        },
+        {
+            "title": "🚢 St. Thomas Cruise Port",
+            "color": "blue"
+        },
+        {
+            "title": "🏰 Fort Christian & Museum",
+            "color": "red"
+        },
+        {
+            "title": "🤿 Buck Island Reef (St. Croix)",
+            "color": "blue"
+        }
+    ],
+    "capital": "Charlotte Amalie",
+    "major_cities": [
+        "Charlotte Amalie",
+        "Christiansted",
+        "Frederiksted",
+        "Cruz Bay"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "United States Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (92%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "4 July"
+    },
+    "phone": {
+        "digital_code": "+1-340",
+        "phone_operators": [
+            "Liberty VI",
+            "Viya"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Safari Buses",
+            "Private Taxis"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, but bottledpreferred",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Cruzan Rum and local bush tea"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$2-5 per day for housekeeping",
+            "guides": "10-15% is standard",
+            "restaurants": "15-20% is expected",
+            "taxis": "10-15% of the fare"
+        }
+    },
+    "weather": {
+        "title": "The USVI has a tropical climate with little seasonal temperature change.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "High Season",
+                "time_period": "December to April",
+                "short_description": "Best weather for beaches and sailing."
+            },
+            {
+                "icon": "🌊",
+                "title": "Hurricane Season",
+                "time_period": "June to November",
+                "short_description": "Warmest water but higher storm risk."
+            }
+        ],
+        "best_time": "The best time to visit is from December to March."
+    },
+    "emergency": [
+        {
+            "title": "Police/Fire/Ambulance",
+            "number": "911"
+        }
+    ]
+}

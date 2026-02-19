@@ -1,0 +1,124 @@
+{
+    "id": "392",
+    "iso": "JPN",
+    "alpha_2": "JP",
+    "country_name": "Japan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/jp.svg",
+    "short_description": "Japan is an island country in East Asia, known for its mix of ancient traditions and cutting-edge technology, stunning natural beauty, and unique culture.",
+    "known_for": [
+        {
+            "title": "🌸 Cherry Blossoms",
+            "color": "pink"
+        },
+        {
+            "title": "⛰️ Mount Fuji",
+            "color": "blue"
+        },
+        {
+            "title": "🍣 Sushi & Ramen",
+            "color": "red"
+        },
+        {
+            "title": "🏯 Ancient Temples",
+            "color": "brown"
+        },
+        {
+            "title": "🤖 Advanced Technology",
+            "color": "gray"
+        }
+    ],
+    "capital": "Tokyo",
+    "major_cities": [
+        "Tokyo",
+        "Yokohama",
+        "Osaka",
+        "Nagoya",
+        "Sapporo",
+        "Kyoto"
+    ],
+    "official_language": [
+        "Japanese"
+    ],
+    "currency": {
+        "title": "Japanese Yen",
+        "symbol": "¥"
+    },
+    "major_religions": "Shintoism, Buddhism",
+    "national_day": {
+        "title": "National Foundation Day",
+        "date": "11 February"
+    },
+    "phone": {
+        "digital_code": "+81",
+        "phone_operators": [
+            "NTT Docomo",
+            "au (KDDI)",
+            "SoftBank",
+            "Rakuten Mobile"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": [
+            "Tokyo Metro",
+            "Osaka Metro",
+            "Nagoya Subway",
+            "Kyoto Subway"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "20 years old",
+        "alcohol_parchase_age": "20 years old",
+        "alcohol_info": [
+            "Legal age is 20",
+            "Public drinking is generally legal but must be respectful"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected / Rude",
+            "guides": "Enveloped gift for exceptional service",
+            "restaurants": "Not expected / Rude",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Japan has four distinct seasons, from cold, snowy winters to hot, humid summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "March to May",
+                "short_description": "Cherry blossom season and mild weather."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Foliage season and pleasant temperatures."
+            }
+        ],
+        "best_time": "The best time to visit is from March to May or September to November."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "110"
+        },
+        {
+            "title": "Ambulance / Fire",
+            "number": "119"
+        },
+        {
+            "title": "Coast Guard",
+            "number": "118"
+        }
+    ]
+}

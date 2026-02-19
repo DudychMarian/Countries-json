@@ -1,0 +1,115 @@
+{
+    "id": "630",
+    "iso": "PRI",
+    "alpha_2": "PR",
+    "country_name": "Puerto Rico",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/pr.svg",
+    "short_description": "Puerto Rico is a Caribbean island and unincorporated U.S. territory with a landscape of mountains, waterfalls and the El Yunque tropical rainforest.",
+    "known_for": [
+        {
+            "title": "🏰 Old San Juan (Castillo San Felipe del Morro)",
+            "color": "orange"
+        },
+        {
+            "title": "🌿 El Yunque National Forest",
+            "color": "green"
+        },
+        {
+            "title": "🍹 Piña Colada's Birthplace",
+            "color": "yellow"
+        },
+        {
+            "title": "💃 Salsa Dancing & Music",
+            "color": "red"
+        },
+        {
+            "title": "✨ Bioluminescent Bays",
+            "color": "blue"
+        }
+    ],
+    "capital": "San Juan",
+    "major_cities": [
+        "San Juan",
+        "Bayamón",
+        "Carolina",
+        "Ponce",
+        "Caguas",
+        "Guaynabo"
+    ],
+    "official_language": [
+        "Spanish",
+        "English"
+    ],
+    "currency": {
+        "title": "United States Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Roman Catholic 85%)",
+    "national_day": {
+        "title": "Discovery of Puerto Rico",
+        "date": "19 November"
+    },
+    "phone": {
+        "digital_code": "+1",
+        "phone_operators": [
+            "Liberty Puerto Rico",
+            "T-Mobile",
+            "Claro"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber"
+        ],
+        "metro": [
+            "Tren Urbano"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink in urban areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for Bacardi Rum and Medalla Light beer"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 per bag",
+            "guides": "15-20% is standard",
+            "restaurants": "15-20% of the bill",
+            "taxis": "10-15% of the fare"
+        }
+    },
+    "weather": {
+        "title": "Puerto Rico has a tropical marine climate with little seasonal temperature variation.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter (Peak Season)",
+                "time_period": "December to April",
+                "short_description": "Pleasant weather, escaped from the hurricane season."
+            },
+            {
+                "icon": "🌀",
+                "title": "Hurricane Season",
+                "time_period": "June to November",
+                "short_description": "Hotter, more humid, and risk of tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is from mid-April to June."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

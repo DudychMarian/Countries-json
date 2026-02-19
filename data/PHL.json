@@ -1,0 +1,117 @@
+{
+    "id": "608",
+    "iso": "PHL",
+    "alpha_2": "PH",
+    "country_name": "Philippines (the)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ph.svg",
+    "short_description": "The Philippines is an archipelagic country in Southeast Asia, known for its stunning islands, coral reefs and biodiversity.",
+    "known_for": [
+        {
+            "title": "🏖️ Boracay & Palawan Beaches",
+            "color": "blue"
+        },
+        {
+            "title": "🍫 Chocolate Hills (Bohol)",
+            "color": "brown"
+        },
+        {
+            "title": "🍚 Banaue Rice Terraces",
+            "color": "green"
+        },
+        {
+            "title": "🚌 Jeepneys Culture",
+            "color": "red"
+        },
+        {
+            "title": "🏄 Siargao Surfing",
+            "color": "blue"
+        }
+    ],
+    "capital": "Manila",
+    "major_cities": [
+        "Quezon City",
+        "Manila",
+        "Davao City",
+        "Caloocan",
+        "Cebu City",
+        "Zamboanga City"
+    ],
+    "official_language": [
+        "Filipino (Tagalog)",
+        "English"
+    ],
+    "currency": {
+        "title": "Philippine Peso",
+        "symbol": "₱"
+    },
+    "major_religions": "Christianity (Roman Catholic 81%, Protestant 10%), Islam (6%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "12 June"
+    },
+    "phone": {
+        "digital_code": "+63",
+        "phone_operators": [
+            "Globe",
+            "Smart",
+            "DITO"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "C"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Grab"
+        ],
+        "metro": [
+            "Manila LRT",
+            "Manila MRT"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Famous for San Miguel beer and local rum (Tanduay)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₱20-50 per bag",
+            "guides": "₱200-500 per day",
+            "restaurants": "10% if not included",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "The Philippines has a tropical climate with high humidity and significant seasonal rainfall.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "November to May",
+                "short_description": "Best for island hopping and diving."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "June to October",
+                "short_description": "Humid with higher rainfall and potential typhoons."
+            }
+        ],
+        "best_time": "The best time to visit is from December to February."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

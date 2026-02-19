@@ -1,0 +1,116 @@
+{
+    "id": "454",
+    "iso": "MWI",
+    "alpha_2": "MW",
+    "country_name": "Malawi",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mw.svg",
+    "short_description": "Malawi is a landlocked country in southeast Africa, defined by its topography of highlands split by the Great Rift Valley and enormous Lake Malawi.",
+    "known_for": [
+        {
+            "title": "🌊 Lake Malawi",
+            "color": "blue"
+        },
+        {
+            "title": "⛰️ Mount Mulanje",
+            "color": "gray"
+        },
+        {
+            "title": "🐘 Liwonde National Park",
+            "color": "green"
+        },
+        {
+            "title": "🤝 'Warm Heart of Africa'",
+            "color": "red"
+        },
+        {
+            "title": "🫓 Nsima (National Dish)",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Lilongwe",
+    "major_cities": [
+        "Lilongwe",
+        "Blantyre",
+        "Mzuzu",
+        "Zomba",
+        "Mangochi"
+    ],
+    "official_language": [
+        "English",
+        "Chichewa"
+    ],
+    "currency": {
+        "title": "Malawian Kwacha",
+        "symbol": "MK"
+    },
+    "major_religions": "Christianity (77%), Islam (14%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "6 July"
+    },
+    "phone": {
+        "digital_code": "+265",
+        "phone_operators": [
+            "Airtel Malawi",
+            "TNM"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Malawi Gin is a famous local spirit"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included",
+            "guides": "5-10% is appreciated",
+            "restaurants": "10% if not included",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Malawi has a sub-tropical climate with three main seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "May to October",
+                "short_description": "Best for safaris and the lake."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "November to April",
+                "short_description": "Green season, good for birdwatching but some roads may close."
+            }
+        ],
+        "best_time": "The best time to visit is from May to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "997"
+        },
+        {
+            "title": "Ambulance",
+            "number": "998"
+        },
+        {
+            "title": "Fire",
+            "number": "999"
+        }
+    ]
+}

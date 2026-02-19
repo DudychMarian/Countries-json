@@ -1,0 +1,105 @@
+{
+    "id": "772",
+    "iso": "TKL",
+    "alpha_2": "TK",
+    "country_name": "Tokelau",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/tk.svg",
+    "short_description": "Tokelau is a remote territory of New Zealand in the South Pacific, consisting of three coral atolls.",
+    "known_for": [
+        {
+            "title": "🏝️ Remote Coral Atolls",
+            "color": "blue"
+        },
+        {
+            "title": "☀️ 100% Solar Powered Energy",
+            "color": "yellow"
+        },
+        {
+            "title": "🛶 Traditional Canoeing & Fishing",
+            "color": "brown"
+        },
+        {
+            "title": "🌏 Unique Polynesian Culture",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Fakaofo, Nukunonu & Atafu",
+            "color": "blue"
+        }
+    ],
+    "capital": "None (Rotates between Atolls)",
+    "major_cities": [
+        "Fakaofo",
+        "Nukunonu",
+        "Atafu"
+    ],
+    "official_language": [
+        "Tokelauan",
+        "English"
+    ],
+    "currency": {
+        "title": "New Zealand Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Congregational Christian 50%, Catholic 39%)",
+    "national_day": {
+        "title": "Waitangi Day",
+        "date": "6 February"
+    },
+    "phone": {
+        "digital_code": "+690",
+        "phone_operators": [
+            "Teletok"
+        ]
+    },
+    "plug_types": [
+        "I"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Rainwater harvesting source)",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Alcohol is restricted and managed by local village councils (Taupulega)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected",
+            "restaurants": "Not expected",
+            "taxis": "Not applicable"
+        }
+    },
+    "weather": {
+        "title": "Tokelau has a tropical climate moderated by trade winds.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "April to November",
+                "short_description": "Lower humidity and milder temperatures."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "December to March",
+                "short_description": "Warm, humid and prone to heavy rains."
+            }
+        ],
+        "best_time": "The best time to visit is from May to September."
+    },
+    "emergency": [
+        {
+            "title": "General Help",
+            "number": "Local Wireless Station"
+        }
+    ]
+}

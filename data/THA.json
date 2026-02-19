@@ -1,0 +1,133 @@
+{
+    "id": "764",
+    "iso": "THA",
+    "alpha_2": "TH",
+    "country_name": "Thailand",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/th.svg",
+    "short_description": "Thailand is a Southeast Asian country known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples.",
+    "known_for": [
+        {
+            "title": "🕌 Grand Palace & Emerald Buddha",
+            "color": "orange"
+        },
+        {
+            "title": "🏖️ Phi Phi & Phuket Island Paradise",
+            "color": "blue"
+        },
+        {
+            "title": "🍜 Legendary Street Food (Pad Thai)",
+            "color": "orange"
+        },
+        {
+            "title": "🐘 Elephant Sanctuaries",
+            "color": "gray"
+        },
+        {
+            "title": "🥊 Muay Thai Martial Arts",
+            "color": "red"
+        }
+    ],
+    "capital": "Bangkok",
+    "major_cities": [
+        "Bangkok",
+        "Chiang Mai",
+        "Phuket",
+        "Pattaya",
+        "Udon Thani",
+        "Hat Yai"
+    ],
+    "official_language": [
+        "Thai"
+    ],
+    "currency": {
+        "title": "Thai Baht",
+        "symbol": "฿"
+    },
+    "major_religions": "Christianity (Buddhism 93%, Islam 5%)",
+    "national_day": {
+        "title": "King's Birthday",
+        "date": "28 July"
+    },
+    "phone": {
+        "digital_code": "+66",
+        "phone_operators": [
+            "AIS",
+            "TrueMove H",
+            "dtac"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "C",
+        "F",
+        "O"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            "Grab",
+            "Bolt",
+            "Tuk-tuks"
+        ],
+        "metro": [
+            "BTS Skytrain",
+            "MRT Bangkok"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Bottled water recommended)",
+        "alcohol_consumption_age": "20 years old",
+        "alcohol_parchase_age": "20 years old",
+        "alcohol_info": [
+            "Legal age is 20",
+            "Sales time restrictions apply (11am-2pm, 5pm-midnight)",
+            "Singha and Chang are the most popular beers"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "20-50 ฿ per bag",
+            "guides": "100-200 ฿ per day",
+            "restaurants": "Small change or 10% is appreciated",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Thailand has a tropical climate with three seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Cool Season",
+                "time_period": "November to February",
+                "short_description": "Best weather, mild and dry, popular peak season."
+            },
+            {
+                "icon": "☀️",
+                "title": "Hot Season",
+                "time_period": "March to May",
+                "short_description": "Very hot, peak temperatures often exceed 35°C."
+            }
+        ],
+        "best_time": "The best time to visit is from November to early April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "191"
+        },
+        {
+            "title": "Tourist Police",
+            "number": "1155"
+        },
+        {
+            "title": "Ambulance",
+            "number": "1669"
+        },
+        {
+            "title": "Fire",
+            "number": "199"
+        }
+    ]
+}

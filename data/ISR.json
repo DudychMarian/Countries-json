@@ -1,0 +1,121 @@
+{
+    "id": "376",
+    "iso": "ISR",
+    "alpha_2": "IL",
+    "country_name": "Israel",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/il.svg",
+    "short_description": "Israel is a Middle Eastern country on the Mediterranean Sea, regarded by Jews, Christians and Muslims as the biblical Holy Land.",
+    "known_for": [
+        {
+            "title": "🏛️ Old City of Jerusalem",
+            "color": "gray"
+        },
+        {
+            "title": "🌊 Dead Sea",
+            "color": "blue"
+        },
+        {
+            "title": "🏙️ Tel Aviv Nightlife",
+            "color": "blue"
+        },
+        {
+            "title": "🌯 Hummus & Falafel",
+            "color": "orange"
+        },
+        {
+            "title": "🌿 Bahá'í Gardens (Haifa)",
+            "color": "green"
+        }
+    ],
+    "capital": "Jerusalem",
+    "major_cities": [
+        "Jerusalem",
+        "Tel Aviv",
+        "Haifa",
+        "Rishon LeZion",
+        "Petah Tikva"
+    ],
+    "official_language": [
+        "Hebrew"
+    ],
+    "currency": {
+        "title": "New Israeli Shekel",
+        "symbol": "₪"
+    },
+    "major_religions": "Judaism (74%), Islam (18%), Christianity, Druze",
+    "national_day": {
+        "title": "Independence Day (Yom Ha'atzmaut)",
+        "date": "14 May (observed according to Hebrew calendar)"
+    },
+    "phone": {
+        "digital_code": "+972",
+        "phone_operators": [
+            "Cellcom",
+            "Partner",
+            "Pelephone"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "H",
+        "M"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            "Tel Aviv Light Rail",
+            "Carmelit (Haifa)"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Sales restricted late at night (after 11 PM)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₪5-10 per service",
+            "guides": "10-15%",
+            "restaurants": "10-15% is standard",
+            "taxis": "Not expected but rounding up is nice"
+        }
+    },
+    "weather": {
+        "title": "Israel has a Mediterranean climate with long, hot, dry summers and short, cool, rainy winters.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "April to May",
+                "short_description": "Pleasant weather and green landscapes."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to October",
+                "short_description": "Comfortable temperatures after the summer heat."
+            }
+        ],
+        "best_time": "The best time to visit is from April to May or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "100"
+        },
+        {
+            "title": "Ambulance",
+            "number": "101"
+        },
+        {
+            "title": "Fire",
+            "number": "102"
+        }
+    ]
+}

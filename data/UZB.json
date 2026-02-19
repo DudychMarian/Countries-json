@@ -1,0 +1,128 @@
+{
+    "id": "860",
+    "iso": "UZB",
+    "alpha_2": "UZ",
+    "country_name": "Uzbekistan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/uz.svg",
+    "short_description": "Uzbekistan is a Central Asian nation and former Soviet republic, known for its mosques, mausoleums and other sites linked to the Silk Road.",
+    "known_for": [
+        {
+            "title": "🕌 Samarkand (Registan Square)",
+            "color": "blue"
+        },
+        {
+            "title": "🏘️ Bukhara Old City",
+            "color": "brown"
+        },
+        {
+            "title": "🧶 Silk Road Heritage",
+            "color": "orange"
+        },
+        {
+            "title": "🥣 Plov (National Dish)",
+            "color": "yellow"
+        },
+        {
+            "title": "🏢 Tashkent Metro Architecture",
+            "color": "blue"
+        }
+    ],
+    "capital": "Tashkent",
+    "major_cities": [
+        "Tashkent",
+        "Samarkand",
+        "Namangan",
+        "Andijan",
+        "Bukhara",
+        "Nukus"
+    ],
+    "official_language": [
+        "Uzbek"
+    ],
+    "currency": {
+        "title": "Uzbekistani Sum",
+        "symbol": "лв"
+    },
+    "major_religions": "Islam (Sunni 93%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "1 September"
+    },
+    "phone": {
+        "digital_code": "+998",
+        "phone_operators": [
+            "Beeline Uzbekistan",
+            "Ucell",
+            "Mobiuz",
+            "Uztelecom"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Yandex Go",
+            "MyTaxi"
+        ],
+        "metro": [
+            "Tashkent Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Bottled water recommended)",
+        "alcohol_consumption_age": "20 years old",
+        "alcohol_parchase_age": "20 years old",
+        "alcohol_info": [
+            "Legal age is 20",
+            "Alcohol is restricted in some areas during Ramadan"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10000-20000 UZS per bag",
+            "guides": "5-10 USD per day",
+            "restaurants": "5-10% is customary",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Uzbekistan has a continental climate with hot summers and cold winters.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring",
+                "time_period": "April to June",
+                "short_description": "Mild and pleasant, ideal for city tours."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Cooler temperatures and harvest season."
+            }
+        ],
+        "best_time": "The best time to visit is from April to May or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "102"
+        },
+        {
+            "title": "Ambulance",
+            "number": "103"
+        },
+        {
+            "title": "Fire",
+            "number": "101"
+        },
+        {
+            "title": "Gas Emergency",
+            "number": "104"
+        }
+    ]
+}

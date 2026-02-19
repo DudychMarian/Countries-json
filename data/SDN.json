@@ -1,0 +1,113 @@
+{
+    "id": "729",
+    "iso": "SDN",
+    "alpha_2": "SD",
+    "country_name": "Sudan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sd.svg",
+    "short_description": "Sudan is a country in Northeast Africa, known for its ancient pyramids and the confluence of the Nile rivers.",
+    "known_for": [
+        {
+            "title": "🗿 Pyramids of Meroë",
+            "color": "brown"
+        },
+        {
+            "title": "🌊 Confluence of Blue & White Nile",
+            "color": "blue"
+        },
+        {
+            "title": "🏜️ Nubian Desert",
+            "color": "orange"
+        },
+        {
+            "title": "🕌 Omdurman Markets",
+            "color": "gray"
+        },
+        {
+            "title": "⛰️ Jebel Barkal",
+            "color": "brown"
+        }
+    ],
+    "capital": "Khartoum",
+    "major_cities": [
+        "Khartoum",
+        "Omdurman",
+        "Port Sudan",
+        "Kassala",
+        "Nyala"
+    ],
+    "official_language": [
+        "Arabic",
+        "English"
+    ],
+    "currency": {
+        "title": "Sudanese Pound",
+        "symbol": "SDG"
+    },
+    "major_religions": "Islam (Sunni 97%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "1 January"
+    },
+    "phone": {
+        "digital_code": "+249",
+        "phone_operators": [
+            "Zain Sudan",
+            "MTN Sudan",
+            "Sudani"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Tirhal",
+            "Rakshas (Tuk-tuks)"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "Strictly prohibited (for Muslims)",
+        "alcohol_parchase_age": "Strictly prohibited",
+        "alcohol_info": [
+            "Alcohol is largely illegal; since 2020, non-Muslims can consume in private",
+            "Sudanese coffee (Jabana) is a central cultural drink"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Included or small tip",
+            "guides": "10% is standard",
+            "restaurants": "5-10% extra appreciated",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Sudan has a hot arid climate with extreme summer temperatures.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter",
+                "time_period": "November to February",
+                "short_description": "Cooler and more comfortable for travel."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "May to September",
+                "short_description": "Extremely hot and dry, with dust storms."
+            }
+        ],
+        "best_time": "The best time to visit is from December to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "999"
+        }
+    ]
+}

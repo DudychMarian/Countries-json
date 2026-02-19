@@ -1,0 +1,121 @@
+{
+    "id": "566",
+    "iso": "NGA",
+    "alpha_2": "NG",
+    "country_name": "Nigeria",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ng.svg",
+    "short_description": "Nigeria is a major African country on the Gulf of Guinea, known for its diverse ethnic groups, vibrant music and film industries, and as a leading oil producer.",
+    "known_for": [
+        {
+            "title": "🎬 Nollywood Film Industry",
+            "color": "green"
+        },
+        {
+            "title": "🎵 Afrobeat Pioneers",
+            "color": "orange"
+        },
+        {
+            "title": "🦅 Super Eagles (National Team)",
+            "color": "green"
+        },
+        {
+            "title": "🍛 Jollof Rice Traditions",
+            "color": "orange"
+        },
+        {
+            "title": "🛢️ Oil & Natural Resources",
+            "color": "gray"
+        }
+    ],
+    "capital": "Abuja",
+    "major_cities": [
+        "Lagos",
+        "Kano",
+        "Ibadan",
+        "Benin City",
+        "Port Harcourt",
+        "Abuja"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Nigerian Naira",
+        "symbol": "₦"
+    },
+    "major_religions": "Islam (56%), Christianity (43%), Traditional beliefs (2%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "1 October"
+    },
+    "phone": {
+        "digital_code": "+234",
+        "phone_operators": [
+            "MTN Nigeria",
+            "Glo",
+            "Airtel Nigeria",
+            "9mobile"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Bolt"
+        ],
+        "metro": [
+            "Lagos Rail Mass Transit",
+            "Abuja Light Rail"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Banned in some northern states under Sharia law"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "₦500-1000 per bag",
+            "guides": "$5-10 USD per day is appreciated",
+            "restaurants": "5-10% is customary",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Nigeria has a tropical climate with a wet and dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to February",
+                "short_description": "Best for travel, although Harmattan winds can bring dust."
+            },
+            {
+                "icon": "🌦️",
+                "title": "Rainy Season",
+                "time_period": "April to October",
+                "short_description": "Lush and green but can experience heavy rainfall and humidity."
+            }
+        ],
+        "best_time": "The best time to visit is from November to January."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Road Safety (FRSC)",
+            "number": "122"
+        }
+    ]
+}

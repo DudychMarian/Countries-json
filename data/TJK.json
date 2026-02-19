@@ -1,0 +1,126 @@
+{
+    "id": "762",
+    "iso": "TJK",
+    "alpha_2": "TJ",
+    "country_name": "Tajikistan",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/tj.svg",
+    "short_description": "Tajikistan is a mountainous, landlocked country in Central Asia, famous for its rugged landscapes and the Pamir Highway.",
+    "known_for": [
+        {
+            "title": "🏔️ Pamir Mountains (Roof of the World)",
+            "color": "gray"
+        },
+        {
+            "title": "🛣️ Pamir Highway (Epic Road Trip)",
+            "color": "gray"
+        },
+        {
+            "title": "💧 Iskanderkul Lake",
+            "color": "blue"
+        },
+        {
+            "title": "🏛️ Gissar Fortress",
+            "color": "orange"
+        },
+        {
+            "title": "🍛 Plov (National Dish)",
+            "color": "brown"
+        }
+    ],
+    "capital": "Dushanbe",
+    "major_cities": [
+        "Dushanbe",
+        "Khujand",
+        "Bokhtar",
+        "Kulob"
+    ],
+    "official_language": [
+        "Tajik",
+        "Russian"
+    ],
+    "currency": {
+        "title": "Tajikistani Somoni",
+        "symbol": "SM"
+    },
+    "major_religions": "Islam (Sunni 98%)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "9 September"
+    },
+    "phone": {
+        "digital_code": "+992",
+        "phone_operators": [
+            "Tcell",
+            "Megafon Tajikistan",
+            "Zet-Mobile",
+            "Babilon-Mobile"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Yak Taxi",
+            "Maxim"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Alcohol is available but public drunkenness is frowned upon",
+            "Zero tolerance for drink-driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10 TJS per bag",
+            "guides": "10% of tour cost",
+            "restaurants": "10% is customary in high-end places",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Tajikistan has a continental climate with cold winters and very hot summers.",
+        "when_to_visit": [
+            {
+                "icon": "🏔️",
+                "title": "Trekking Season",
+                "time_period": "June to September",
+                "short_description": "Best time for hiking in the Pamirs and Fann Mountains."
+            },
+            {
+                "icon": "🌤️",
+                "title": "Sightseeing",
+                "time_period": "April to June",
+                "short_description": "Mild weather, perfect for exploring cities and lowlands."
+            }
+        ],
+        "best_time": "The best time to visit is from June to September for mountain travel."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "102"
+        },
+        {
+            "title": "Ambulance",
+            "number": "103"
+        },
+        {
+            "title": "Fire",
+            "number": "101"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "446",
+    "iso": "MAC",
+    "alpha_2": "MO",
+    "country_name": "Macao",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/mo.svg",
+    "short_description": "Macao is a special administrative region of China on the western side of the Pearl River estuary, known as the 'Las Vegas of Asia' for its gambling and luxury resorts.",
+    "known_for": [
+        {
+            "title": "🎰 Cotai Strip Casinos",
+            "color": "yellow"
+        },
+        {
+            "title": "🏛️ Ruins of St. Paul's",
+            "color": "gray"
+        },
+        {
+            "title": "🏘️ Historic Centre of Macao",
+            "color": "orange"
+        },
+        {
+            "title": "🥧 Portuguese Egg Tarts",
+            "color": "yellow"
+        },
+        {
+            "title": "🏙️ Macau Tower",
+            "color": "blue"
+        }
+    ],
+    "capital": "Macau",
+    "major_cities": [
+        "Macao Peninsula",
+        "Taipa",
+        "Coloane",
+        "Cotai"
+    ],
+    "official_language": [
+        "Chinese (Cantonese)",
+        "Portuguese"
+    ],
+    "currency": {
+        "title": "Macanese Pataca",
+        "symbol": "P"
+    },
+    "major_religions": "Buddhism (92%), Christianity (6%)",
+    "national_day": {
+        "title": "National Day of the People's Republic of China",
+        "date": "1 October"
+    },
+    "phone": {
+        "digital_code": "+853",
+        "phone_operators": [
+            "CTM",
+            "3 Macau",
+            "SmarTone",
+            "China Telecom"
+        ]
+    },
+    "plug_types": [
+        "G",
+        "D",
+        "M",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": [
+            "Macau LRT"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Widely available in world-class entertainment venues"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 MOP per bag",
+            "guides": "Appreciated but optional",
+            "restaurants": "10% often included, small change extra",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Macao has a subtropical climate with hot, humid summers and mild winters.",
+        "when_to_visit": [
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "October to November",
+                "short_description": "Sunny and pleasant with low humidity."
+            },
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "March to April",
+                "short_description": "Pleasant and warm, though occasionally misty."
+            }
+        ],
+        "best_time": "The best time to visit is from October to December."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "999"
+        },
+        {
+            "title": "Judiciary Police",
+            "number": "993"
+        }
+    ]
+}

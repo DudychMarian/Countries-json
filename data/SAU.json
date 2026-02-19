@@ -1,0 +1,114 @@
+{
+    "id": "682",
+    "iso": "SAU",
+    "alpha_2": "SA",
+    "country_name": "Saudi Arabia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sa.svg",
+    "short_description": "Saudi Arabia is a desert country on the Arabian Peninsula, home to the two holiest cities in Islam, Mecca and Medina.",
+    "known_for": [
+        {
+            "title": "🕋 Mecca (Hajj and Umrah)",
+            "color": "green"
+        },
+        {
+            "title": "🕌 Medina (Al-Masjid an-Nabawi)",
+            "color": "green"
+        },
+        {
+            "title": "🏜️ Hegra (Mada'in Salih)",
+            "color": "orange"
+        },
+        {
+            "title": "🏙️ Riyadh Skyline",
+            "color": "gray"
+        },
+        {
+            "title": "🌊 Red Sea Diving",
+            "color": "blue"
+        }
+    ],
+    "capital": "Riyadh",
+    "major_cities": [
+        "Riyadh",
+        "Jeddah",
+        "Mecca",
+        "Medina",
+        "Dammam",
+        "Ta'if"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Saudi Riyal",
+        "symbol": "SR"
+    },
+    "major_religions": "Islam (state religion 100%)",
+    "national_day": {
+        "title": "Saudi National Day",
+        "date": "23 September"
+    },
+    "phone": {
+        "digital_code": "+966",
+        "phone_operators": [
+            "STC",
+            "Mobily",
+            "Zain"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Careem"
+        ],
+        "metro": [
+            "Riyadh Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, bottled preferred",
+        "alcohol_consumption_age": "Strictly prohibited",
+        "alcohol_parchase_age": "Strictly prohibited",
+        "alcohol_info": [
+            "Consumption and import of alcohol is strictly illegal",
+            "Severe legal penalties apply for possession or use"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "5-10 SR per bag",
+            "guides": "50-100 SR per day",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Saudi Arabia has a predominantly desert climate with extreme heat in the summer.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Winter",
+                "time_period": "November to February",
+                "short_description": "Pleasant and cool temperatures, ideal for travel."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "May to September",
+                "short_description": "Extremely hot, temperatures often exceeding 45°C."
+            }
+        ],
+        "best_time": "The best time to visit is from November to February."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}
