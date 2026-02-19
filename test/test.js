@@ -58,16 +58,16 @@ test('getByAlpha3: Should be case-insensitive', () => {
 });
 
 // Test getByISO
-test('getByISO: Should return UK data for "21"', () => {
-  const uk = countries.getByISO('21');
+test('getByISO: Should return UK data for "826"', () => {
+  const uk = countries.getByISO('826');
   assert(uk !== null, 'UK should not be null');
-  assert(uk.id === '21', 'ID should be 21');
+  assert(uk.id === '826', 'ID should be 826');
 });
 
 test('getByISO: Should accept number input', () => {
-  const uk = countries.getByISO(21);
+  const uk = countries.getByISO(826);
   assert(uk !== null, 'UK should not be null');
-  assert(uk.id === '21', 'ID should be 21');
+  assert(uk.id === '826', 'ID should be 826');
 });
 
 // Test getByName
@@ -98,9 +98,9 @@ test('getCountry: Should work with alpha-3 code', () => {
 });
 
 test('getCountry: Should work with ISO code', () => {
-  const uk = countries.getCountry('21');
+  const uk = countries.getCountry('826');
   assert(uk !== null, 'Should return UK data');
-  assert(uk.id === '21', 'Should be UK');
+  assert(uk.id === '826', 'Should be UK');
 });
 
 test('getCountry: Should work with country name', () => {

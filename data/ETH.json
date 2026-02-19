@@ -1,0 +1,127 @@
+{
+    "id": "231",
+    "iso": "ETH",
+    "alpha_2": "ET",
+    "country_name": "Ethiopia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/et.svg",
+    "short_description": "Ethiopia, in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. With archaeological finds dating back more than 3 million years, it’s a place of ancient culture and history.",
+    "known_for": [
+        {
+            "title": "⛪ Lalibela Churches",
+            "color": "brown"
+        },
+        {
+            "title": "🏰 Fasil Ghebbi",
+            "color": "gray"
+        },
+        {
+            "title": "🏃 Elite Runners",
+            "color": "yellow"
+        },
+        {
+            "title": "☕ Birthplace of Coffee",
+            "color": "brown"
+        },
+        {
+            "title": "🌋 Danakil Depression",
+            "color": "orange"
+        }
+    ],
+    "capital": "Addis Ababa",
+    "major_cities": [
+        "Addis Ababa",
+        "Dire Dawa",
+        "Gondar",
+        "Bahir Dar",
+        "Mek'ele"
+    ],
+    "official_language": [
+        "Amharic",
+        "Oromo",
+        "Tigrinya",
+        "Somali",
+        "Afar"
+    ],
+    "currency": {
+        "title": "Ethiopian Birr",
+        "symbol": "Br"
+    },
+    "major_religions": "Christianity (Orthodox), Islam",
+    "national_day": {
+        "title": "National Day",
+        "date": "28 May"
+    },
+    "phone": {
+        "digital_code": "+251",
+        "phone_operators": [
+            "Ethio Telecom",
+            "Safaricom Ethiopia"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E",
+        "F",
+        "L"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            {
+                "title": "Addis Ababa Light Rail",
+                "url": ""
+            }
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Bottled water is recommended even for brushing teeth"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 Birr per service",
+            "guides": "100-200 Birr per day",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Ethiopia has three main climatic zones: Tropical (Qola), Temperate (Woyna Dega), and Cool (Dega).",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season (Best Time)",
+                "time_period": "October to May",
+                "short_description": "Mild temperatures and little rain, ideal for exploring historical sites."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "June to September",
+                "short_description": "Heaviest rainfall in July and August."
+            }
+        ],
+        "best_time": "The best time to visit is from October to May."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "911"
+        },
+        {
+            "title": "Ambulance",
+            "number": "907"
+        },
+        {
+            "title": "Fire",
+            "number": "939"
+        }
+    ]
+}

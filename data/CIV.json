@@ -1,0 +1,130 @@
+{
+    "id": "384",
+    "iso": "CIV",
+    "alpha_2": "CI",
+    "country_name": "Côte d'Ivoire",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ci.svg",
+    "short_description": "Côte d'Ivoire is a West African country with beach resorts, rainforests and a French-colonial legacy. Abidjan, on the Atlantic coast, is the country's major urban center.",
+    "known_for": [
+        {
+            "title": "🍫 Cocoa Production",
+            "color": "brown"
+        },
+        {
+            "title": "🐘 Elephants",
+            "color": "grey"
+        },
+        {
+            "title": "⛪ Basilique Notre-Dame de la Paix",
+            "color": "white"
+        },
+        {
+            "title": "⚽ Didier Drogba",
+            "color": "orange"
+        },
+        {
+            "title": "🎶 Ivorian Reggae",
+            "color": "green"
+        }
+    ],
+    "capital": "Yamoussoukro",
+    "major_cities": [
+        "Abidjan",
+        "Bouaké",
+        "Korhogo",
+        "Yamoussoukro",
+        "San-Pédro"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "West African CFA franc",
+        "symbol": "XOF"
+    },
+    "major_religions": "Islam, Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "07 August"
+    },
+    "phone": {
+        "digital_code": "+225",
+        "phone_operators": [
+            "Orange",
+            "MTN",
+            "Moov"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Yango",
+                "url": "https://yango.com/en_ci/"
+            },
+            {
+                "title": "Uber",
+                "url": "https://www.uber.com/global/en/cities/abidjan/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not generally safe to drink",
+        "alcohol_consumption_age": "No minimum age",
+        "alcohol_parchase_age": "No minimum age",
+        "alcohol_info": [
+            "No specific legal drinking age enforced",
+            "Bottled water is strongly recommended"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1,500 XOF for staff",
+            "guides": "Customary to tip",
+            "restaurants": "10% or 500-2,000 XOF",
+            "taxis": "Round up or small tip appreciated"
+        }
+    },
+    "weather": {
+        "title": "Côte d'Ivoire has a tropical climate with a dry season and a rainy season.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "November to March",
+                "short_description": "Warm and dry, ideal for visiting."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "May to October",
+                "short_description": "Heavy rains, humid."
+            }
+        ],
+        "best_time": "The best time to visit is from December to March."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "170"
+        },
+        {
+            "title": "Ambulance",
+            "number": "185"
+        },
+        {
+            "title": "Fire",
+            "number": "180"
+        }
+    ]
+}

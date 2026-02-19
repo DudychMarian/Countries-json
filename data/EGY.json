@@ -1,0 +1,136 @@
+{
+    "id": "818",
+    "iso": "EGY",
+    "alpha_2": "EG",
+    "country_name": "Egypt",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/eg.svg",
+    "short_description": "Egypt is a country linking northeast Africa with the Middle East, dating to the time of the pharaohs. It features millennia-old monuments along the fertile Nile River Valley, including Giza's Pyramids and Great Sphinx.",
+    "known_for": [
+        {
+            "title": "📐 Pyramids of Giza",
+            "color": "yellow"
+        },
+        {
+            "title": "🌊 The Nile River",
+            "color": "blue"
+        },
+        {
+            "title": "🦁 Great Sphinx",
+            "color": "brown"
+        },
+        {
+            "title": "🤿 Red Sea Diving",
+            "color": "teal"
+        },
+        {
+            "title": "🏮 Khan el-Khalili",
+            "color": "orange"
+        }
+    ],
+    "capital": "Cairo",
+    "major_cities": [
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor",
+        "Aswan",
+        "Hurghada",
+        "Sharm El Sheikh"
+    ],
+    "official_language": [
+        "Arabic"
+    ],
+    "currency": {
+        "title": "Egyptian Pound",
+        "symbol": "E£"
+    },
+    "major_religions": "Islam (Sunni)",
+    "national_day": {
+        "title": "Revolution Day",
+        "date": "23 July"
+    },
+    "phone": {
+        "digital_code": "+20",
+        "phone_operators": [
+            "Vodafone",
+            "Orange",
+            "Etisalat",
+            "WE"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Careem",
+            "inDrive",
+            "Bolt",
+            "Didi"
+        ],
+        "metro": [
+            {
+                "title": "Cairo Metro",
+                "url": "http://www.cairometro.gov.eg/"
+            }
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "21 years old",
+        "alcohol_parchase_age": "21 years old",
+        "alcohol_info": [
+            "Alcohol is legal but regulated; available in licensed hotels/venues",
+            "Public drinking is prohibited and can lead to arrest",
+            "Stricter regulations apply during Ramadan"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "20-50 EGP per service",
+            "guides": "100-200 EGP per day",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Egypt has a hot desert climate with hot summers and mild winters.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Peak Season",
+                "time_period": "October to April",
+                "short_description": "Mild temperatures, ideal for sightseeing."
+            },
+            {
+                "icon": "🔥",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Extremely hot, especially in Upper Egypt (Luxor/Aswan)."
+            }
+        ],
+        "best_time": "The best time to visit is from October to April."
+    },
+    "emergency": [
+        {
+            "title": "Emergency Police",
+            "number": "122"
+        },
+        {
+            "title": "Tourist Police",
+            "number": "126"
+        },
+        {
+            "title": "Ambulance",
+            "number": "123"
+        },
+        {
+            "title": "Fire Department",
+            "number": "180"
+        }
+    ]
+}

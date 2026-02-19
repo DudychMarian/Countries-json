@@ -1,0 +1,131 @@
+{
+    "id": "218",
+    "iso": "ECU",
+    "alpha_2": "EC",
+    "country_name": "Ecuador",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ec.svg",
+    "short_description": "Ecuador is a country straddling the equator on South America's west coast. Its diverse landscape encompasses the Amazon jungle, Andean highlands, and the wildlife-rich Galápagos Islands.",
+    "known_for": [
+        {
+            "title": "🏝️ Galápagos Islands",
+            "color": "blue"
+        },
+        {
+            "title": "🌍 Equator (Mitad del Mundo)",
+            "color": "yellow"
+        },
+        {
+            "title": "🌋 Cotopaxi Volcano",
+            "color": "red"
+        },
+        {
+            "title": "👒 Panama Hats",
+            "color": "grey"
+        },
+        {
+            "title": "🐦 Biodiversity",
+            "color": "green"
+        }
+    ],
+    "capital": "Quito",
+    "major_cities": [
+        "Guayaquil",
+        "Quito",
+        "Cuenca",
+        "Santo Domingo",
+        "Machala",
+        "Manta"
+    ],
+    "official_language": [
+        "Spanish",
+        "Kichwa",
+        "Shuar"
+    ],
+    "currency": {
+        "title": "United States Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Roman Catholic)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "10 August"
+    },
+    "phone": {
+        "digital_code": "+593",
+        "phone_operators": [
+            "CNT",
+            "Claro",
+            "Movistar"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber",
+            "Cabify",
+            "EasyTaxi",
+            "Ktaxi",
+            "Clipp",
+            "AzuTaxi"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Laws are strictly enforced regarding sales to minors and public intoxication"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "$1-2 per bag for porters",
+            "guides": "$10-20 per day for mainland tours",
+            "restaurants": "10% service charge often included; extra 5-10% customary if not",
+            "taxis": "Not widely expected, rounding up is appreciated"
+        }
+    },
+    "weather": {
+        "title": "Ecuador's climate varies by region: tropical in the coast and Amazon, and temperate in the Andean highlands.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season (Sierra)",
+                "time_period": "June to September",
+                "short_description": "Best for hiking and outdoor activities in the Andes."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season (Coast/Galápagos)",
+                "time_period": "December to May",
+                "short_description": "Warm and sunny with occasional heavy rain; best for the beach."
+            }
+        ],
+        "best_time": "June to September for the Andes; December to May for the Coast and Galápagos."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        },
+        {
+            "title": "Police",
+            "number": "101"
+        },
+        {
+            "title": "Ambulance",
+            "number": "131"
+        },
+        {
+            "title": "Fire",
+            "number": "102"
+        }
+    ]
+}

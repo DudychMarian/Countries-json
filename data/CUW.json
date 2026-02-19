@@ -1,0 +1,124 @@
+{
+    "id": "531",
+    "iso": "CUW",
+    "alpha_2": "CW",
+    "country_name": "Curaçao",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/cw.svg",
+    "short_description": "Curaçao is a Dutch Caribbean island known for its beaches tucked into coves and expansive coral reefs rich with marine life. The capital, Willemstad, has pastel-colored colonial architecture.",
+    "known_for": [
+        {
+            "title": "🏠 Handelskade",
+            "color": "yellow"
+        },
+        {
+            "title": "🐢 Sea Turtles",
+            "color": "green"
+        },
+        {
+            "title": "🍹 Blue Curaçao",
+            "color": "blue"
+        },
+        {
+            "title": "🏖️ Beaches",
+            "color": "cyan"
+        },
+        {
+            "title": "🌉 Queen Emma Bridge",
+            "color": "brown"
+        }
+    ],
+    "capital": "Willemstad",
+    "major_cities": [
+        "Willemstad",
+        "Sint Michiel",
+        "Barber",
+        "Dorp Soto",
+        "Newport"
+    ],
+    "official_language": [
+        "Papiamentu",
+        "Dutch",
+        "English"
+    ],
+    "currency": {
+        "title": "Caribbean guilder",
+        "symbol": "Cg"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Curaçao Day",
+        "date": "10 October"
+    },
+    "phone": {
+        "digital_code": "+599",
+        "phone_operators": [
+            "Flow",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "24-7 Taxi Curaçao",
+                "url": "https://247taxi.cw/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Tap water is desalinated and commonly safe"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1-2 Cg per bag, $1-5/night for housekeeping",
+            "guides": "Appreciated but optional",
+            "restaurants": "10-15% if service charge not included",
+            "taxis": "10% is customary"
+        }
+    },
+    "weather": {
+        "title": "Curaçao has a warm, sunny climate year-round with trade winds.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "January to September",
+                "short_description": "Sunny and dry, ideal for beach and diving."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "October to December",
+                "short_description": "Brief showers are possible, generally at night."
+            }
+        ],
+        "best_time": "The best time to visit is from January to April."
+    },
+    "emergency": [
+        {
+            "title": "Police / Emergency",
+            "number": "911"
+        },
+        {
+            "title": "Ambulance",
+            "number": "912"
+        },
+        {
+            "title": "Fire",
+            "number": "911"
+        }
+    ]
+}

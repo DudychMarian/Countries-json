@@ -1,0 +1,134 @@
+{
+    "id": "203",
+    "iso": "CZE",
+    "alpha_2": "CZ",
+    "country_name": "Czechia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/cz.svg",
+    "short_description": "Czechia, also known as the Czech Republic, is a landlocked country in Central Europe known for its ornate castles, native beers, and long history.",
+    "known_for": [
+        {
+            "title": "🏰 Prague Castle",
+            "color": "brown"
+        },
+        {
+            "title": "🍺 Beer Culture",
+            "color": "yellow"
+        },
+        {
+            "title": "💎 Bohemian Crystal",
+            "color": "blue"
+        },
+        {
+            "title": "🧖 Spa Towns",
+            "color": "cyan"
+        },
+        {
+            "title": "🕰️ Astronomical Clock",
+            "color": "orange"
+        }
+    ],
+    "capital": "Prague",
+    "major_cities": [
+        "Prague",
+        "Brno",
+        "Ostrava",
+        "Plzeň",
+        "Liberec"
+    ],
+    "official_language": [
+        "Czech"
+    ],
+    "currency": {
+        "title": "Czech Koruna",
+        "symbol": "Kč"
+    },
+    "major_religions": "Irreligious, Christianity (Roman Catholic)",
+    "national_day": {
+        "title": "Independent Czechoslovak State Day",
+        "date": "28 October"
+    },
+    "phone": {
+        "digital_code": "+420",
+        "phone_operators": [
+            "T-Mobile",
+            "O2",
+            "Vodafone"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Bolt",
+                "url": "https://bolt.eu/en/cities/prague/"
+            },
+            {
+                "title": "Uber",
+                "url": "https://www.uber.com/global/en/cities/prague/"
+            },
+            {
+                "title": "Liftago",
+                "url": "https://www.liftago.com/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Zero tolerance (0.00%) for drinking and driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 CZK per bag",
+            "guides": "10% of tour cost or 100-250 CZK",
+            "restaurants": "5-10% is customary",
+            "taxis": "Round up or 5-10%"
+        }
+    },
+    "weather": {
+        "title": "Czechia has a temperate continental climate with warm summers and cold, cloudy winters.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Warmest weather, peak tourist season."
+            },
+            {
+                "icon": "🌸",
+                "title": "Spring/Autumn",
+                "time_period": "May, September",
+                "short_description": "Mild weather, fewer crowds."
+            }
+        ],
+        "best_time": "The best time to visit is May, June, and September."
+    },
+    "emergency": [
+        {
+            "title": "Emergency (All services)",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "158"
+        },
+        {
+            "title": "Ambulance",
+            "number": "155"
+        },
+        {
+            "title": "Fire",
+            "number": "150"
+        }
+    ]
+}

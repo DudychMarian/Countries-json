@@ -1,0 +1,117 @@
+{
+    "id": "232",
+    "iso": "ERI",
+    "alpha_2": "ER",
+    "country_name": "Eritrea",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/er.svg",
+    "short_description": "Eritrea is a Northeast African country on the Red Sea coast. It shares borders with Ethiopia, Sudan and Djibouti. The capital city, Asmara, is known for its Italian colonial buildings and modernist structures.",
+    "known_for": [
+        {
+            "title": "🏛️ Asmara Art Deco",
+            "color": "yellow"
+        },
+        {
+            "title": "🏝️ Dahlak Marine National Park",
+            "color": "blue"
+        },
+        {
+            "title": "🏛️ Qohaito",
+            "color": "brown"
+        },
+        {
+            "title": "⚓ Massawa Port",
+            "color": "teal"
+        },
+        {
+            "title": "🤿 Red Sea Diving",
+            "color": "blue"
+        }
+    ],
+    "capital": "Asmara",
+    "major_cities": [
+        "Asmara",
+        "Massawa",
+        "Keren",
+        "Mendefera",
+        "Assab"
+    ],
+    "official_language": [
+        "Tigrinya",
+        "Arabic",
+        "English"
+    ],
+    "currency": {
+        "title": "Eritrean Nakfa",
+        "symbol": "Nfk"
+    },
+    "major_religions": "Christianity (Orthodox), Islam (Sunni)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "24 May"
+    },
+    "phone": {
+        "digital_code": "+291",
+        "phone_operators": [
+            "EriTel"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "L"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Public intoxication and drinking in prohibited areas are illegal"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-20 Nakfa per service",
+            "guides": "10% of tour fee",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Eritrea has a diverse climate, from hot, arid desert by the Red Sea to cool, temperate highlands.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Highlands (Best Time)",
+                "time_period": "September to April",
+                "short_description": "Ideal temperatures for exploring Asmara and the highlands."
+            },
+            {
+                "icon": "🔥",
+                "title": "Red Sea Coast",
+                "time_period": "June to August",
+                "short_description": "Extremely hot and humid near the coast."
+            }
+        ],
+        "best_time": "The best time to visit is from September to April."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "113"
+        },
+        {
+            "title": "Ambulance",
+            "number": "114"
+        },
+        {
+            "title": "Fire",
+            "number": "116"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "208",
+    "iso": "DNK",
+    "alpha_2": "DK",
+    "country_name": "Denmark",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/dk.svg",
+    "short_description": "Denmark is a Scandinavian country comprising the Jutland Peninsula and numerous islands. It's known for its design, architecture, and high quality of life.",
+    "known_for": [
+        {
+            "title": "🧜‍♀️ The Little Mermaid",
+            "color": "blue"
+        },
+        {
+            "title": "🧱 LEGO",
+            "color": "red"
+        },
+        {
+            "title": "🕯️ Hygge",
+            "color": "orange"
+        },
+        {
+            "title": "🥪 Smørrebrød",
+            "color": "brown"
+        },
+        {
+            "title": "🎢 Tivoli Gardens",
+            "color": "green"
+        }
+    ],
+    "capital": "Copenhagen",
+    "major_cities": [
+        "Copenhagen",
+        "Aarhus",
+        "Odense",
+        "Aalborg",
+        "Esbjerg"
+    ],
+    "official_language": [
+        "Danish"
+    ],
+    "currency": {
+        "title": "Danish Krone",
+        "symbol": "kr"
+    },
+    "major_religions": "Christianity (Evangelical Lutheran)",
+    "national_day": {
+        "title": "Constitution Day",
+        "date": "05 June"
+    },
+    "phone": {
+        "digital_code": "+45",
+        "phone_operators": [
+            "TDC",
+            "Telenor",
+            "Telia",
+            "3"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E",
+        "K"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Taxa 4x35",
+                "url": "https://www.taxa.dk/en/"
+            },
+            {
+                "title": "DanTaxi",
+                "url": "https://dantaxi.dk/"
+            },
+            {
+                "title": "Viggo",
+                "url": "https://viggo.com/"
+            }
+        ],
+        "metro": [
+            {
+                "title": "Copenhagen Metro",
+                "url": "https://m.dk/"
+            }
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "No minimum age",
+        "alcohol_parchase_age": "16 (beer/wine), 18 (spirits)",
+        "alcohol_info": [
+            "Purchase age: 16 for <16.5%, 18 for >16.5%",
+            "No legal drinking age"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Appreciated but optional",
+            "restaurants": "Service included, rounding up appreciated",
+            "taxis": "Not expected, rounding up appreciated"
+        }
+    },
+    "weather": {
+        "title": "Denmark has a temperate climate with mild, windy winters and cool summers.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Long daylight hours, mild temperatures."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "December to February",
+                "short_description": "Cold, short days, potential for snow."
+            }
+        ],
+        "best_time": "The best time to visit is from May to August."
+    },
+    "emergency": [
+        {
+            "title": "Emergency (All services)",
+            "number": "112"
+        },
+        {
+            "title": "Police (Non-emergency)",
+            "number": "114"
+        },
+        {
+            "title": "Medical (Non-emergency)",
+            "number": "1813"
+        }
+    ]
+}

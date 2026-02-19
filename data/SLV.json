@@ -1,0 +1,121 @@
+{
+    "id": "222",
+    "iso": "SLV",
+    "alpha_2": "SV",
+    "country_name": "El Salvador",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sv.svg",
+    "short_description": "El Salvador is a Central American nation known for its Pacific Ocean beaches, surf spots, and mountainous landscape. Its Ruta de las Flores is a winding route through coffee farms, rainforests, and waterfalls.",
+    "known_for": [
+        {
+            "title": "🏄 Surf City",
+            "color": "blue"
+        },
+        {
+            "title": "🥟 Pupusas",
+            "color": "yellow"
+        },
+        {
+            "title": "🌋 Santa Ana Volcano",
+            "color": "brown"
+        },
+        {
+            "title": "🏛️ Joya de Cerén",
+            "color": "brown"
+        },
+        {
+            "title": "🌸 Ruta de las Flores",
+            "color": "green"
+        }
+    ],
+    "capital": "San Salvador",
+    "major_cities": [
+        "San Salvador",
+        "Santa Ana",
+        "San Miguel",
+        "Soyapango",
+        "Santa Tecla"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "US Dollar & Bitcoin",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "15 September"
+    },
+    "phone": {
+        "digital_code": "+503",
+        "phone_operators": [
+            "Tigo",
+            "Claro",
+            "Movistar",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Uber"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Driving under influence is heavily penalized",
+            "Dry laws implemented during elections"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "A few dollars for luggage/service",
+            "guides": "10% for tours",
+            "restaurants": "10% if not included in service charge",
+            "taxis": "Not expected but appreciated"
+        }
+    },
+    "weather": {
+        "title": "El Salvador has a tropical climate with a wet season (May-Oct) and a dry season (Nov-April).",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Best for beaches, surfing, and outdoor exploring."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Lush landscapes, but more frequent rain."
+            }
+        ],
+        "best_time": "The best time to visit is from November to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency / Police",
+            "number": "911"
+        },
+        {
+            "title": "Medical Emergency (SEM)",
+            "number": "132"
+        },
+        {
+            "title": "Fire Department",
+            "number": "913"
+        }
+    ]
+}

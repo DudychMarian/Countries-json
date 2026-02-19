@@ -1,0 +1,118 @@
+{
+    "id": "188",
+    "iso": "CRI",
+    "alpha_2": "CR",
+    "country_name": "Costa Rica",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/cr.svg",
+    "short_description": "Costa Rica is a rugged, rainforested Central American country with coastlines on the Caribbean and Pacific, known for its beaches, volcanoes, and biodiversity.",
+    "known_for": [
+        {
+            "title": "🦥 Sloths",
+            "color": "brown"
+        },
+        {
+            "title": "☕ Coffee",
+            "color": "brown"
+        },
+        {
+            "title": "🌋 Volcanoes",
+            "color": "red"
+        },
+        {
+            "title": "🌿 Eco-tourism",
+            "color": "green"
+        },
+        {
+            "title": "🏄 Surfing",
+            "color": "blue"
+        }
+    ],
+    "capital": "San José",
+    "major_cities": [
+        "San José",
+        "Puerto Limón",
+        "Alajuela",
+        "Liberia",
+        "Heredia"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Costa Rican colón",
+        "symbol": "₡"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "15 September"
+    },
+    "phone": {
+        "digital_code": "+506",
+        "phone_operators": [
+            "Kölbi",
+            "Movistar",
+            "Claro"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Uber",
+                "url": "https://www.uber.com/global/en/cities/san-jose-cr/"
+            },
+            {
+                "title": "DiDi",
+                "url": "https://web.didiglobal.com/cr/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe in cities, but bottled water recommended in rural areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Public consumption is generally prohibited except at festivals"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Tips (~$1-2) for porters/maids are appreciated",
+            "guides": "Customary to tip guides ($5-10)",
+            "restaurants": "10% service charge is included by law; extra tip is optional",
+            "taxis": "Rounding up is appreciated but not required"
+        }
+    },
+    "weather": {
+        "title": "Costa Rica has a tropical climate with a distinct dry season and a rainy season.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "December to April",
+                "short_description": "The best time to visit for beach days and exploring without rain."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Green Season",
+                "time_period": "May to November",
+                "short_description": "Landscape is lush and green, fewer crowds, but expect daily showers."
+            }
+        ],
+        "best_time": "The best time to visit is during the dry season from mid-December to April."
+    },
+    "emergency": [
+        {
+            "title": "Emergency",
+            "number": "911"
+        }
+    ]
+}

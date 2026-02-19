@@ -1,0 +1,120 @@
+{
+    "id": "262",
+    "iso": "DJI",
+    "alpha_2": "DJ",
+    "country_name": "Djibouti",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/dj.svg",
+    "short_description": "Djibouti is a country in the Horn of Africa, known for its strategic location, volcanic landscapes, and unique blend of African and Middle Eastern cultures.",
+    "known_for": [
+        {
+            "title": "🌊 Lake Assal",
+            "color": "blue"
+        },
+        {
+            "title": "🐋 Whale Sharks",
+            "color": "grey"
+        },
+        {
+            "title": "🌋 Volcanic Landscapes",
+            "color": "brown"
+        },
+        {
+            "title": "🧣 Futa Textiles",
+            "color": "red"
+        },
+        {
+            "title": "🚢 Strategic Port",
+            "color": "orange"
+        }
+    ],
+    "capital": "Djibouti City",
+    "major_cities": [
+        "Djibouti City",
+        "Ali Sabieh",
+        "Dikhil",
+        "Tadjoura",
+        "Obock"
+    ],
+    "official_language": [
+        "Arabic",
+        "French"
+    ],
+    "currency": {
+        "title": "Djiboutian Franc",
+        "symbol": "Fdj"
+    },
+    "major_religions": "Islam",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "27 June"
+    },
+    "phone": {
+        "digital_code": "+253",
+        "phone_operators": [
+            "Djibouti Telecom"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "No minimum age",
+        "alcohol_parchase_age": "No minimum age",
+        "alcohol_info": [
+            "Alcohol available in licensed venues",
+            "Public intoxication is a serious offense"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10-15%",
+            "guides": "Appreciated",
+            "restaurants": "10-15%",
+            "taxis": "Not expected but appreciated"
+        }
+    },
+    "weather": {
+        "title": "Djibouti has a hot desert climate with extreme heat in summer and warm winters.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Winter",
+                "time_period": "November to March",
+                "short_description": "Pleasant temperatures, best for visiting."
+            },
+            {
+                "icon": "🔥",
+                "title": "Summer",
+                "time_period": "May to September",
+                "short_description": "Extremely hot and humid."
+            }
+        ],
+        "best_time": "The best time to visit is from November to January."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Ambulance",
+            "number": "15"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "233",
+    "iso": "EST",
+    "alpha_2": "EE",
+    "country_name": "Estonia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/ee.svg",
+    "short_description": "Estonia, a country in Northern Europe, borders the Baltic Sea and Gulf of Finland. Including more than 1,500 islands, its diverse terrain spans rocky beaches, old-growth forest and many lakes. It's known for its preserved Old Town and advanced digital society.",
+    "known_for": [
+        {
+            "title": "🏰 Tallinn Old Town",
+            "color": "grey"
+        },
+        {
+            "title": "💻 Digital Society",
+            "color": "blue"
+        },
+        {
+            "title": "🏹 Medieval History",
+            "color": "brown"
+        },
+        {
+            "title": "🏝️ Saaremaa Island",
+            "color": "green"
+        },
+        {
+            "title": "🎶 Singing Revolution",
+            "color": "blue"
+        }
+    ],
+    "capital": "Tallinn",
+    "major_cities": [
+        "Tallinn",
+        "Tartu",
+        "Narva",
+        "Pärnu",
+        "Kohtla-Järve"
+    ],
+    "official_language": [
+        "Estonian"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Eastern Orthodoxy, Lutheranism",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "24 February"
+    },
+    "phone": {
+        "digital_code": "+372",
+        "phone_operators": [
+            "Telia",
+            "Elisa",
+            "Tele2"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Bolt",
+            "Uber"
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "BAC limit for drivers is 0.02%",
+            "Public drinking is generally regulated"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "A few euros for porters/housekeeping",
+            "guides": "Appreciated, 10% is polite",
+            "restaurants": "5-10% or rounding up",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Estonia has a temperate climate with four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Warmest weather, long daylight hours, and White Nights."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "December to February",
+                "short_description": "Cold and snowy, ideal for Christmas markets and winter sports."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August."
+    },
+    "emergency": [
+        {
+            "title": "Universal Emergency",
+            "number": "112"
+        }
+    ]
+}

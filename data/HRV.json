@@ -1,0 +1,134 @@
+{
+    "id": "191",
+    "iso": "HRV",
+    "alpha_2": "HR",
+    "country_name": "Croatia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/hr.svg",
+    "short_description": "Croatia is an Eastern European country with a long coastline on the Adriatic Sea, encompassing more than a thousand islands.",
+    "known_for": [
+        {
+            "title": "🏰 Dubrovnik Walls",
+            "color": "orange"
+        },
+        {
+            "title": "🌊 Plitvice Lakes",
+            "color": "blue"
+        },
+        {
+            "title": "🏝️ 1,000+ Islands",
+            "color": "green"
+        },
+        {
+            "title": "👔 Cravat (Necktie)",
+            "color": "red"
+        },
+        {
+            "title": "🐶 Dalmatians",
+            "color": "white"
+        }
+    ],
+    "capital": "Zagreb",
+    "major_cities": [
+        "Zagreb",
+        "Split",
+        "Rijeka",
+        "Osijek",
+        "Zadar"
+    ],
+    "official_language": [
+        "Croatian"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Statehood Day",
+        "date": "30 May"
+    },
+    "phone": {
+        "digital_code": "+385",
+        "phone_operators": [
+            "Hrvatski Telekom",
+            "A1",
+            "Telemach"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "Cammeo",
+                "url": "https://cammeo.hr/en"
+            },
+            {
+                "title": "Uber",
+                "url": "https://www.uber.com/global/en/cities/zagreb/"
+            },
+            {
+                "title": "Bolt",
+                "url": "https://bolt.eu/en/cities/zagreb/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "0.5‰ blood alcohol limit for drivers over 24 (0.0‰ for young/professional drivers)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "€1-2 per bag for porters, a few euros for maids",
+            "guides": "10-15% of tour cost or €10-25 for private tours",
+            "restaurants": "Round up or 10-15% for good service",
+            "taxis": "Round up to the nearest Euro"
+        }
+    },
+    "weather": {
+        "title": "Croatia has a Mediterranean climate along the coast and a continental climate inland.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Peak season with hot, sunny weather perfect for the coast."
+            },
+            {
+                "icon": "🍂",
+                "title": "Shoulder Season",
+                "time_period": "May, September, October",
+                "short_description": "Pleasant temperatures and fewer crowds."
+            }
+        ],
+        "best_time": "The best time to visit is May, June, September, and October."
+    },
+    "emergency": [
+        {
+            "title": "Emergency (All services)",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "192"
+        },
+        {
+            "title": "Fire",
+            "number": "193"
+        },
+        {
+            "title": "Ambulance",
+            "number": "194"
+        }
+    ]
+}

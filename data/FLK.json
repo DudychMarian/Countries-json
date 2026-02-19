@@ -1,0 +1,106 @@
+{
+    "id": "238",
+    "iso": "FLK",
+    "alpha_2": "FK",
+    "country_name": "Falkland Islands",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/fk.svg",
+    "short_description": "The Falkland Islands, a British Overseas Territory in the South Atlantic, are known for their abundant wildlife, including five species of penguins, and rugged landscapes.",
+    "known_for": [
+        {
+            "title": "🐧 Penguin Colonies",
+            "color": "blue"
+        },
+        {
+            "title": "🚢 Stanley Harbor",
+            "color": "teal"
+        },
+        {
+            "title": "🪖 1982 War History",
+            "color": "gray"
+        },
+        {
+            "title": "🐋 Whale Watching",
+            "color": "blue"
+        },
+        {
+            "title": "⛰️ Rugged Landscapes",
+            "color": "green"
+        }
+    ],
+    "capital": "Stanley",
+    "major_cities": [
+        "Stanley"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Falkland Islands Pound",
+        "symbol": "£"
+    },
+    "major_religions": "Christianity (Anglican, Catholic)",
+    "national_day": {
+        "title": "Liberation Day",
+        "date": "14 June"
+    },
+    "phone": {
+        "digital_code": "+500",
+        "phone_operators": [
+            "Sure South Atlantic"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Better to drink bottled water",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "British standards apply for public conduct"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected, but appreciated",
+            "guides": "Rounding up or small amount",
+            "restaurants": "Rounding up or 10% for good service",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "The Falklands have a maritime climate with cool temperatures and frequent winds year-round.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Summer (Best Time)",
+                "time_period": "December to February",
+                "short_description": "Warmest months with long daylight hours, ideal for wildlife viewing."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "June to August",
+                "short_description": "Cold, windy, and frequent gales."
+            }
+        ],
+        "best_time": "The best time to visit is from December to February."
+    },
+    "emergency": [
+        {
+            "title": "Police/Fire/Rescue",
+            "number": "999"
+        },
+        {
+            "title": "Hospital",
+            "number": "28052"
+        }
+    ]
+}

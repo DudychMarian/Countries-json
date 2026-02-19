@@ -1,0 +1,122 @@
+{
+    "id": "192",
+    "iso": "CUB",
+    "alpha_2": "CU",
+    "country_name": "Cuba",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/cu.svg",
+    "short_description": "Cuba is a Caribbean island nation known for its white-sand beaches, rolling mountains, cigars, and rum. Its capital, Havana, features Spanish colonial architecture.",
+    "known_for": [
+        {
+            "title": "🚗 Vintage Cars",
+            "color": "red"
+        },
+        {
+            "title": "🚬 Cigars",
+            "color": "brown"
+        },
+        {
+            "title": "🍹 Rum",
+            "color": "orange"
+        },
+        {
+            "title": "💃 Salsa",
+            "color": "pink"
+        },
+        {
+            "title": "🏖️ Varadero Beach",
+            "color": "blue"
+        }
+    ],
+    "capital": "Havana",
+    "major_cities": [
+        "Havana",
+        "Santiago de Cuba",
+        "Camagüey",
+        "Holguín",
+        "Santa Clara"
+    ],
+    "official_language": [
+        "Spanish"
+    ],
+    "currency": {
+        "title": "Cuban peso",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Liberation Day",
+        "date": "01 January"
+    },
+    "phone": {
+        "digital_code": "+53",
+        "phone_operators": [
+            "ETECSA"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "C",
+        "L"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            {
+                "title": "La Nave",
+                "url": "https://lanave.app/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Not safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Public drinking is common and generally tolerated"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1 CUC/USD per bag/day",
+            "guides": "10-15% of tour cost",
+            "restaurants": "10% is standard",
+            "taxis": "Round up or 10% for longer trips"
+        }
+    },
+    "weather": {
+        "title": "Cuba has a tropical climate, moderated by trade winds.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Sunny days and cooler nights, perfect for exploring."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "May to October",
+                "short_description": "Hotter and more humid, with increased chance of rain and hurricanes."
+            }
+        ],
+        "best_time": "The best time to visit is from December to May."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "106"
+        },
+        {
+            "title": "Fire",
+            "number": "105"
+        },
+        {
+            "title": "Ambulance",
+            "number": "104"
+        }
+    ]
+}

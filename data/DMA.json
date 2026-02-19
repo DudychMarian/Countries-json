@@ -1,0 +1,122 @@
+{
+    "id": "212",
+    "iso": "DMA",
+    "alpha_2": "DM",
+    "country_name": "Dominica",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/dm.svg",
+    "short_description": "Dominica is a mountainous Caribbean island nation with natural hot springs and tropical rainforests. It is known as the 'Nature Island of the Caribbean'.",
+    "known_for": [
+        {
+            "title": "🌿 Nature Island",
+            "color": "green"
+        },
+        {
+            "title": "💧 365 Rivers",
+            "color": "blue"
+        },
+        {
+            "title": "♨️ Boiling Lake",
+            "color": "grey"
+        },
+        {
+            "title": "🦜 Sisserou Parrot",
+            "color": "purple"
+        },
+        {
+            "title": "🏊 Emerald Pool",
+            "color": "teal"
+        }
+    ],
+    "capital": "Roseau",
+    "major_cities": [
+        "Roseau",
+        "Portsmouth",
+        "Marigot",
+        "Berekua",
+        "Mahaut"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "East Caribbean Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity (Roman Catholic)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "03 November"
+    },
+    "phone": {
+        "digital_code": "+1767",
+        "phone_operators": [
+            "Flow",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            {
+                "title": "OpaTaxi",
+                "url": "https://opataxi.com/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, bottled recommended in rural areas",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Strict enforcement",
+            "Driving under influence prohibited (0.08% BAC)"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "EC$2 per bag, EC$3-5/night for maid",
+            "guides": "10% or a few dollars",
+            "restaurants": "10-15% if service charge not included",
+            "taxis": "Round up"
+        }
+    },
+    "weather": {
+        "title": "Dominica has a tropical rainforest climate, warm and humid year-round.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "February to April",
+                "short_description": "Best weather for hiking and outdoor activities."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "June to November",
+                "short_description": "Humid with higher chance of rain and hurricanes."
+            }
+        ],
+        "best_time": "The best time to visit is from February to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        },
+        {
+            "title": "Fire & Ambulance",
+            "number": "266-4400"
+        },
+        {
+            "title": "Disaster Management",
+            "number": "266-4412"
+        }
+    ]
+}

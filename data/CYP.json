@@ -1,0 +1,122 @@
+{
+    "id": "196",
+    "iso": "CYP",
+    "alpha_2": "CY",
+    "country_name": "Cyprus",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/cy.svg",
+    "short_description": "Cyprus is an island country in the Eastern Mediterranean, known for its mineral wealth, wines, produce, and natural beauty.",
+    "known_for": [
+        {
+            "title": "🗿 Aphrodite's Rock",
+            "color": "blue"
+        },
+        {
+            "title": "🧀 Halloumi Cheese",
+            "color": "white"
+        },
+        {
+            "title": "🖼️ Ancient Mosaics",
+            "color": "brown"
+        },
+        {
+            "title": "🍷 Commandaria Wine",
+            "color": "red"
+        },
+        {
+            "title": "🐢 Sea Turtles",
+            "color": "green"
+        }
+    ],
+    "capital": "Nicosia",
+    "major_cities": [
+        "Nicosia",
+        "Limassol",
+        "Larnaca",
+        "Paphos",
+        "Famagusta"
+    ],
+    "official_language": [
+        "Greek",
+        "Turkish"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity (Eastern Orthodox), Islam",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "01 October"
+    },
+    "phone": {
+        "digital_code": "+357",
+        "phone_operators": [
+            "Cyta",
+            "Epic",
+            "Primetel"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [
+            {
+                "title": "Bolt",
+                "url": "https://bolt.eu/en/cities/limassol/"
+            },
+            {
+                "title": "CabCY",
+                "url": "https://cab.com.cy/"
+            }
+        ],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink, but high mineral content",
+        "alcohol_consumption_age": "17 years old",
+        "alcohol_parchase_age": "17 years old",
+        "alcohol_info": [
+            "Legal drinking age is 17",
+            "Strict laws against public intoxication"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1-2 Euros per bag",
+            "guides": "10% of tour cost",
+            "restaurants": "5-10% is customary",
+            "taxis": "Round up or 5-10%"
+        }
+    },
+    "weather": {
+        "title": "Cyprus has an intense Mediterranean climate with long dry summers and mild winters.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "May to October",
+                "short_description": "Hot and dry, perfect for beach holidays."
+            },
+            {
+                "icon": "🍂",
+                "title": "Spring/Autumn",
+                "time_period": "April, November",
+                "short_description": "Mild and pleasant, ideal for sightseeing."
+            }
+        ],
+        "best_time": "The best time to visit is May, June, September, and October."
+    },
+    "emergency": [
+        {
+            "title": "Emergency (All services)",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "199"
+        }
+    ]
+}

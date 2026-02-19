@@ -1,0 +1,117 @@
+{
+    "id": "748",
+    "iso": "SWZ",
+    "alpha_2": "SZ",
+    "country_name": "Eswatini",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/sz.svg",
+    "short_description": "Eswatini, formerly known as Swaziland, is a small, landlocked monarchy in Southern Africa. It is known for its diverse wilderness reserves and festivals showcasing traditional Swazi culture.",
+    "known_for": [
+        {
+            "title": "🛡️ Swazi Culture",
+            "color": "yellow"
+        },
+        {
+            "title": "🦏 Hlane Royal National Park",
+            "color": "green"
+        },
+        {
+            "title": "🗿 Sibebe Rock",
+            "color": "brown"
+        },
+        {
+            "title": "🛍️ Swazi Candles",
+            "color": "blue"
+        },
+        {
+            "title": "⛰️ Mlilwane Wildlife Sanctuary",
+            "color": "green"
+        }
+    ],
+    "capital": "Mbabane",
+    "major_cities": [
+        "Mbabane",
+        "Manzini",
+        "Lobamba",
+        "Big Bend",
+        "Malkerns"
+    ],
+    "official_language": [
+        "SiSwati",
+        "English"
+    ],
+    "currency": {
+        "title": "Swazi Lilangeni",
+        "symbol": "E"
+    },
+    "major_religions": "Christianity (Zionist, Protestant, Catholic)",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "6 September"
+    },
+    "phone": {
+        "digital_code": "+268",
+        "phone_operators": [
+            "MTN Eswatini",
+            "Eswatini Mobile"
+        ]
+    },
+    "plug_types": [
+        "M",
+        "C"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe in cities, filtered recommended elsewhere",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "South African Rand is also accepted as legal tender"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "5-10 Emalangeni per service",
+            "guides": "10-20 Emalangeni per day",
+            "restaurants": "10-15% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Eswatini has a varied climate, ranging from subtropical in the Lowveld to temperate in the Highveld.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Highveld (Best Time)",
+                "time_period": "June to August",
+                "short_description": "Cooler temperatures and dry weather, ideal for hiking and wildlife viewing."
+            },
+            {
+                "icon": "🔥",
+                "title": "Lowveld",
+                "time_period": "November to February",
+                "short_description": "Hot and humid with frequent thunderstorms."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "999"
+        },
+        {
+            "title": "Ambulance",
+            "number": "911"
+        },
+        {
+            "title": "Fire",
+            "number": "993"
+        }
+    ]
+}
