@@ -206,9 +206,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/DudychMarian/Countries-json)
+- [GitHub Repository](https://github.com/DudychMarian/World-Countries-json)
 - [NPM Package](https://www.npmjs.com/package/world-countries-json)
-- [Issue Tracker](https://github.com/DudychMarian/Countries-json/issues)
+- [Issue Tracker](https://github.com/DudychMarian/World-Countries-json/issues)
 
 ---
 

@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DudychMarian/Countries-json.git"
+    "url": "https://github.com/DudychMarian/World-Countries-json.git"
   },
   "bugs": {
-    "url": "https://github.com/DudychMarian/Countries-json/issues"
+    "url": "https://github.com/DudychMarian/World-Countries-json/issues"
   },
-  "homepage": "https://github.com/DudychMarian/Countries-json#readme",
+  "homepage": "https://github.com/DudychMarian/World-Countries-json#readme",
   "engines": {
     "node": ">=12.0.0"
   },
