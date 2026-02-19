@@ -1,0 +1,109 @@
+{
+    "id": "408",
+    "iso": "PRK",
+    "alpha_2": "KP",
+    "country_name": "North Korea",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/kp.svg",
+    "short_description": "North Korea is a highly centralized, socialist state on the northern half of the Korean Peninsula, known for its isolation and unique political system.",
+    "known_for": [
+        {
+            "title": "🏢 Juche Tower & Monumental Architecture",
+            "color": "gray"
+        },
+        {
+            "title": "🎭 Arirang Mass Games",
+            "color": "red"
+        },
+        {
+            "title": "🚧 DMZ (Panmunjom)",
+            "color": "green"
+        },
+        {
+            "title": "🏛️ Kumsusan Palace of the Sun",
+            "color": "brown"
+        },
+        {
+            "title": "🥟 Pyongyang Cold Noodles (Naengmyeon)",
+            "color": "white"
+        }
+    ],
+    "capital": "Pyongyang",
+    "major_cities": [
+        "Pyongyang",
+        "Hamhung",
+        "Chongjin",
+        "Wonsan",
+        "Nampo"
+    ],
+    "official_language": [
+        "Korean"
+    ],
+    "currency": {
+        "title": "North Korean Won",
+        "symbol": "₩"
+    },
+    "major_religions": "Atheism (State sponsored)",
+    "national_day": {
+        "title": "Foundation Day",
+        "date": "9 September"
+    },
+    "phone": {
+        "digital_code": "+850",
+        "phone_operators": [
+            "Koryolink",
+            "Kang Song Net"
+        ]
+    },
+    "plug_types": [
+        "C"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            "Pyongyang Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Unsafe (Bottled water only)",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Local Taedonggang beer is highly regarded"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Gifts or small tips appreciated",
+            "restaurants": "Not expected",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "North Korea has a continental climate with cold winters and warm summers.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Spring",
+                "time_period": "May to June",
+                "short_description": "Mild and pleasant weather."
+            },
+            {
+                "icon": "🍂",
+                "title": "Autumn",
+                "time_period": "September to October",
+                "short_description": "Clear skies and comfortable temperatures."
+            }
+        ],
+        "best_time": "The best time to visit is from May to June or September to October."
+    },
+    "emergency": [
+        {
+            "title": "Emergency",
+            "number": "119"
+        }
+    ]
+}

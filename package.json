@@ -1,7 +1,7 @@
 {
-  "name": "countries-json",
+  "name": "world-countries-json",
   "version": "1.0.0",
-  "description": "Comprehensive JSON data for all 194 UN member countries with multiple search methods",
+  "description": "Comprehensive JSON data for 249 countries and territories with multiple search methods",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"

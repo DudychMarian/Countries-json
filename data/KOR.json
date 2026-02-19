@@ -1,0 +1,121 @@
+{
+    "id": "410",
+    "iso": "KOR",
+    "alpha_2": "KR",
+    "country_name": "South Korea",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/kr.svg",
+    "short_description": "South Korea is an East Asian nation on the southern half of the Korean Peninsula, known for its high-tech cities, sub-tropical islands and lush countryside.",
+    "known_for": [
+        {
+            "title": "🏙️ Seoul's High-Tech Skyline",
+            "color": "blue"
+        },
+        {
+            "title": "🥢 Kimchi & Korean BBQ",
+            "color": "red"
+        },
+        {
+            "title": "🎤 K-Pop & Entertainment Culture",
+            "color": "pink"
+        },
+        {
+            "title": "🏯 Gyeongbokgung Palace",
+            "color": "brown"
+        },
+        {
+            "title": "🏝️ Jeju Island Natural Wonders",
+            "color": "green"
+        }
+    ],
+    "capital": "Seoul",
+    "major_cities": [
+        "Seoul",
+        "Busan",
+        "Incheon",
+        "Daegu",
+        "Daejeon",
+        "Gwangju"
+    ],
+    "official_language": [
+        "Korean"
+    ],
+    "currency": {
+        "title": "South Korean Won",
+        "symbol": "₩"
+    },
+    "major_religions": "No Religion (56%), Christianity (28%), Buddhism (15%)",
+    "national_day": {
+        "title": "Liberation Day",
+        "date": "15 August"
+    },
+    "phone": {
+        "digital_code": "+82",
+        "phone_operators": [
+            "SK Telecom",
+            "KT",
+            "LG U+"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [
+            "Kakao T",
+            "Uber (Taxis)"
+        ],
+        "metro": [
+            "Seoul Metropolitan Subway",
+            "Busan Metro",
+            "Daegu Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Potable, but bottledoften used",
+        "alcohol_consumption_age": "19 years old",
+        "alcohol_parchase_age": "19 years old",
+        "alcohol_info": [
+            "Legal age is 19",
+            "Soju is the national alcoholic drink"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected",
+            "restaurants": "Not customary (can be rude)",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "South Korea has a temperate climate with four distinct seasons.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "April to June",
+                "short_description": "Cherry blossom season and mild weather."
+            },
+            {
+                "icon": "🍁",
+                "title": "Autumn",
+                "time_period": "September to November",
+                "short_description": "Vibrant fall colors and crisp air."
+            }
+        ],
+        "best_time": "The best time to visit is from April to June or September to November."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "112"
+        },
+        {
+            "title": "Ambulance/Fire",
+            "number": "119"
+        }
+    ]
+}

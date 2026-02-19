@@ -1,213 +1,215 @@
-# Countries-JSON 🌎
+# World-Countries-JSON 🌍
 
-Comprehensive JSON data for all 194 United Nations member countries. Whether you're building a world-centric application or need reliable country data, this package has you covered.
+[![npm version](https://img.shields.io/npm/v/world-countries-json.svg)](https://www.npmjs.com/package/world-countries-json)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Installation
+**World-Countries-JSON** is a comprehensive, high-performance dataset and library providing detailed information for **249 countries and territories** worldwide. From basic ISO codes to travel-specific data like plug types and emergency numbers, this package is designed for modern web applications that need reliable global data.
+
+---
+
+## 🚀 Features
+
+- **🌍 Global Coverage**: Comprehensive data for 249 countries and overseas territories.
+- **🔍 Advanced Search**: Search by Alpha-2, Alpha-3, ISO Numeric, or Country Name (case-insensitive).
+- **⚡ Super Fast**: Optimized for quick lookups via pre-indexed data.
+- **🛡️ Travel Ready**: Includes plug types, driving side, emergency contacts, and tipping etiquette.
+- **📦 Zero Dependencies**: Lightweight and reliable.
+- **💾 Offline First**: All data is local—no external API calls required.
+
+---
+
+## 📦 Installation
 
 ```bash
-npm install countries-json
+npm install world-countries-json
 ```
 
-## Features
+---
 
-- 🌍 Complete data for all 194 UN member countries
-- 🔍 Multiple search methods (alpha-2, alpha-3, ISO, name)
-- ⚡ Fast indexed lookups
-- 📦 Zero dependencies
-- 💾 Offline data (no API calls needed)
-- 🎯 TypeScript support (coming soon)
-
-## Usage
+## 🛠 Usage
 
 ### Basic Usage
 
 ```javascript
-const countries = require('countries-json');
+const countries = require("world-countries-json");
 
-// Get country by alpha-2 code
-const uk = countries.getCountry('GB');
+// Get country by Alpha-2 code
+const uk = countries.getCountry("GB");
 console.log(uk.country_name); // "United Kingdom"
 console.log(uk.capital); // "London"
 ```
 
 ### Search Methods
 
-#### By Alpha-2 Code
-```javascript
-const country = countries.getByAlpha2('US');
-// Returns USA data
-```
+| Method                | Description                              | Example                            |
+| :-------------------- | :--------------------------------------- | :--------------------------------- |
+| `getCountry(query)`   | Smart search (auto-detects code or name) | `countries.getCountry('US')`       |
+| `getByAlpha2(code)`   | Search by 2-letter ISO code              | `countries.getByAlpha2('FR')`      |
+| `getByAlpha3(code)`   | Search by 3-letter ISO code              | `countries.getByAlpha3('DEU')`     |
+| `getByISO(code)`      | Search by ISO Numeric code               | `countries.getByISO('250')`        |
+| `getByName(name)`     | Search by full country name              | `countries.getByName('France')`    |
+| `searchByName(query)` | Partial name search (returns array)      | `countries.searchByName('united')` |
 
-#### By Alpha-3 Code
-```javascript
-const country = countries.getByAlpha3('GBR');
-// Returns United Kingdom data
-```
+---
 
-#### By ISO Numeric Code
-```javascript
-const country = countries.getByISO('826');
-// Returns United Kingdom data
-```
+## 📄 Data Structure
 
-#### By Country Name
-```javascript
-const country = countries.getByName('United Kingdom');
-// Returns UK data (case-insensitive)
-```
+Each country entry is a rich JSON object:
 
-#### Smart Search (Auto-detect)
-```javascript
-// Works with any format
-countries.getCountry('GB');        // Alpha-2
-countries.getCountry('GBR');       // Alpha-3
-countries.getCountry('826');       // ISO
-countries.getCountry('United Kingdom'); // Name
-```
-
-### Advanced Features
-
-#### Search by Partial Name
-```javascript
-const results = countries.searchByName('united');
-// Returns array of countries with "united" in name
-```
-
-#### Get All Countries
-```javascript
-const allCountries = countries.getAllCountries();
-console.log(allCountries.length); // 194
-```
-
-#### Filter by Language
-```javascript
-const englishCountries = countries.getByLanguage('English');
-// Returns all countries where English is official
-```
-
-#### Filter by Currency
-```javascript
-const euroCountries = countries.getByCurrency('EUR');
-// Returns all countries using Euro
-```
-
-#### Get Total Count
-```javascript
-const total = countries.getCount();
-console.log(total); // 194
-```
-
-## Data Structure
-
-Each country object contains:
-
-```javascript
+```json
 {
-  "id": "21",
+  "id": "826",
   "iso": "GBR",
   "alpha_2": "GB",
   "country_name": "United Kingdom",
-  "cover_image": "...",
-  "flag_url": "...",
-  "short_description": "...",
-  "known_for": [...],
+  "cover_image": "",
+  "flag_url": "https://flagcdn.com/gb.svg",
+  "short_description": "The United Kingdom is an island nation in northwestern Europe, known for its global cultural influence and historic landmarks.",
+  "known_for": [
+    {
+      "title": "🏰 Buckingham Palace & Royalty",
+      "color": "gray"
+    },
+    {
+      "title": "🕰️ Big Ben & Westminster",
+      "color": "brown"
+    },
+    {
+      "title": "🪨 Stonehenge",
+      "color": "gray"
+    },
+    {
+      "title": "🎓 Oxford & Cambridge Universities",
+      "color": "blue"
+    },
+    {
+      "title": "⚽ Premier League Football",
+      "color": "red"
+    }
+  ],
   "capital": "London",
-  "major_cities": [...],
+  "major_cities": [
+    "London",
+    "Birmingham",
+    "Glasgow",
+    "Liverpool",
+    "Manchester",
+    "Edinburgh",
+    "Bristol"
+  ],
   "official_language": ["English"],
   "currency": {
-    "title": "Pound sterling",
+    "title": "Pound Sterling",
     "symbol": "£"
   },
-  "major_religions": "Christianity",
-  "national_day": {...},
-  "phone": {...},
+  "major_religions": "Christianity (60%)",
+  "national_day": {
+    "title": "King's Official Birthday",
+    "date": "Occurs in June"
+  },
+  "phone": {
+    "digital_code": "+44",
+    "phone_operators": ["EE", "O2", "Vodafone UK", "Three"]
+  },
   "plug_types": ["G"],
-  "transport": {...},
-  "health": {...},
-  "money": {...},
-  "weather": {...},
-  "emergency": [...]
+  "transport": {
+    "driving_side": "Left",
+    "taxi": ["Uber", "Free Now", "Black Cabs"],
+    "metro": [
+      "London Underground (The Tube)",
+      "Glasgow Subway",
+      "Tyne and Wear Metro"
+    ]
+  },
+  "health": {
+    "tap_water_safety": "Safe to drink",
+    "alcohol_consumption_age": "18 years old",
+    "alcohol_parchase_age": "18 years old",
+    "alcohol_info": [
+      "Legal age is 18",
+      "Iconic pub culture with vast ales and spirits tradition"
+    ]
+  },
+  "money": {
+    "tipping": {
+      "hotels": "£1-2 per bag",
+      "guides": "10% for private tours",
+      "restaurants": "10-15% is standard",
+      "taxis": "Rounding up the fare"
+    }
+  },
+  "weather": {
+    "title": "The UK has a temperate maritime climate with cool winters and warm summers.",
+    "when_to_visit": [
+      {
+        "icon": "🌤️",
+        "title": "Late Spring / Summer",
+        "time_period": "May to September",
+        "short_description": "Longest days and warmest weather."
+      },
+      {
+        "icon": "🎄",
+        "title": "Christmas Season",
+        "time_period": "December",
+        "short_description": "Festive markets and lights, though cold."
+      }
+    ],
+    "best_time": "The best time to visit is from June to August."
+  },
+  "emergency": [
+    {
+      "title": "Emergency Services",
+      "number": "999"
+    },
+    {
+      "title": "Emergency (EU standard)",
+      "number": "112"
+    },
+    {
+      "title": "Non-emergency Police",
+      "number": "101"
+    },
+    {
+      "title": "Non-emergency Medical",
+      "number": "111"
+    }
+  ]
 }
 ```
 
-## API Reference
+---
 
-| Method | Parameters | Returns | Description |
-|--------|-----------|---------|-------------|
-| `getCountry(query)` | query: string | Object\|null | Smart search (auto-detects format) |
-| `getByAlpha2(code)` | code: string | Object\|null | Search by alpha-2 code |
-| `getByAlpha3(code)` | code: string | Object\|null | Search by alpha-3 code |
-| `getByISO(code)` | code: string\|number | Object\|null | Search by ISO numeric |
-| `getByName(name)` | name: string | Object\|null | Search by exact name |
-| `searchByName(query)` | query: string | Array | Partial name search |
-| `getAllCountries()` | - | Array | Get all countries |
-| `getByLanguage(lang)` | lang: string | Array | Filter by language |
-| `getByCurrency(code)` | code: string | Array | Filter by currency |
-| `getCount()` | - | number | Total country count |
+## 🤝 Contributing
 
-## Examples
+We welcome contributions to keep the data accurate and up-to-date!
 
-### Building a Country Selector
+### How to Contribute
 
-```javascript
-const countries = require('countries-json');
+1. **Fork** the repository.
+2. **Add/Modify data**: If you are adding a new country, use the `template.json` as your guide.
+3. **Validate**:
+   - Ensure your JSON follows the exact structure of `template.json`.
+   - Your contribution **must** pass the schema validation.
+   - Run `npm run test` to verify your changes.
+4. **Submit a Pull Request**.
 
-function buildCountryDropdown() {
-  const allCountries = countries.getAllCountries();
-  return allCountries.map(country => ({
-    value: country.alpha_2,
-    label: country.country_name,
-    flag: country.flag_url
-  }));
-}
-```
+> [!IMPORTANT]
+> All new data entries must follow the `template.json` structure strictly to ensure compatibility with our indexing engine.
 
-### Phone Number Validation
+---
 
-```javascript
-const countries = require('countries-json');
+## 📜 License
 
-function getPhoneCode(countryCode) {
-  const country = countries.getByAlpha2(countryCode);
-  return country ? country.phone.digital_code : null;
-}
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
-console.log(getPhoneCode('GB')); // "+44"
-```
+---
 
-### Travel Information
-
-```javascript
-const countries = require('countries-json');
-
-function getTravelInfo(countryCode) {
-  const country = countries.getByAlpha2(countryCode);
-  if (!country) return null;
-  
-  return {
-    capital: country.capital,
-    currency: country.currency.symbol,
-    emergency: country.emergency,
-    plugTypes: country.plug_types,
-    drivingSide: country.transport.driving_side
-  };
-}
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-If you find this package helpful, please give it a ⭐️ on GitHub!
-
-## Links
+## 🔗 Links
 
 - [GitHub Repository](https://github.com/DudychMarian/Countries-json)
-- [NPM Package](https://www.npmjs.com/package/countries-json)
-- [Report Issues](https://github.com/DudychMarian/Countries-json/issues)
+- [NPM Package](https://www.npmjs.com/package/world-countries-json)
+- [Issue Tracker](https://github.com/DudychMarian/Countries-json/issues)
+
+---
+
+Developed with ❤️ by [Marian Dudych](https://github.com/DudychMarian)
