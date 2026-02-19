@@ -1,0 +1,116 @@
+{
+    "id": "270",
+    "iso": "GMB",
+    "alpha_2": "GM",
+    "country_name": "Gambia (the)",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gm.svg",
+    "short_description": "The Gambia is a small West African nation, almost entirely surrounded by Senegal. It is known for its diverse ecosystems around the central Gambia River.",
+    "known_for": [
+        {
+            "title": "🚣 Gambia River",
+            "color": "blue"
+        },
+        {
+            "title": "🏖️ Atlantic Beaches",
+            "color": "yellow"
+        },
+        {
+            "title": "🐦 Birdwatching",
+            "color": "green"
+        },
+        {
+            "title": "📜 Kunta Kinteh Island",
+            "color": "brown"
+        },
+        {
+            "title": "🤝 'The Smiling Coast'",
+            "color": "yellow"
+        }
+    ],
+    "capital": "Banjul",
+    "major_cities": [
+        "Banjul",
+        "Serekunda",
+        "Brikama",
+        "Bakau",
+        "Farafenni"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Gambian Dalasi",
+        "symbol": "D"
+    },
+    "major_religions": "Islam (90%), Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "18 February"
+    },
+    "phone": {
+        "digital_code": "+220",
+        "phone_operators": [
+            "Africell",
+            "QCell",
+            "Gamcel"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Muslim majority, respect local norms regarding alcohol"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Small tips for staff",
+            "guides": "Appreciated",
+            "restaurants": "10% is standard",
+            "taxis": "Rounding up is fine"
+        }
+    },
+    "weather": {
+        "title": "The Gambia has a tropical climate with a long dry season and a shorter rainy season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to May",
+                "short_description": "Peak tourist season with sunny weather and low humidity."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "June to October",
+                "short_description": "Hot and humid with frequent thunderstorms."
+            }
+        ],
+        "best_time": "The best time to visit is from November to February."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "117"
+        },
+        {
+            "title": "Ambulance",
+            "number": "116"
+        },
+        {
+            "title": "Fire",
+            "number": "118"
+        }
+    ]
+}

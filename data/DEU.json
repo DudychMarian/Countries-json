@@ -1,0 +1,117 @@
+{
+    "id": "276",
+    "iso": "DEU",
+    "alpha_2": "DE",
+    "country_name": "Germany",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/de.svg",
+    "short_description": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history and is a global leader in technology and industry.",
+    "known_for": [
+        {
+            "title": "🍺 Oktoberfest",
+            "color": "yellow"
+        },
+        {
+            "title": "🏰 Neuschwanstein Castle",
+            "color": "blue"
+        },
+        {
+            "title": "🚗 Automotive Engineering",
+            "color": "gray"
+        },
+        {
+            "title": "🌲 Black Forest",
+            "color": "green"
+        },
+        {
+            "title": "🥨 Pretzels & Sausages",
+            "color": "orange"
+        }
+    ],
+    "capital": "Berlin",
+    "major_cities": [
+        "Berlin",
+        "Hamburg",
+        "Munich",
+        "Cologne",
+        "Frankfurt"
+    ],
+    "official_language": [
+        "German"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity, No religion",
+    "national_day": {
+        "title": "Day of German Unity",
+        "date": "3 October"
+    },
+    "phone": {
+        "digital_code": "+49",
+        "phone_operators": [
+            "Telekom",
+            "Vodafone",
+            "O2"
+        ]
+    },
+    "plug_types": [
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            "Berlin U-Bahn",
+            "Hamburg U-Bahn",
+            "Munich U-Bahn",
+            "Nuremberg U-Bahn"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "16 or 18 years old",
+        "alcohol_parchase_age": "16 or 18 years old",
+        "alcohol_info": [
+            "16 for beer and wine, 18 for spirits",
+            "Strict blood alcohol limits for driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1-2€ per service",
+            "guides": "10-15%",
+            "restaurants": "5-10% is standard (Trinkgeld)",
+            "taxis": "Rounding up or 5-10%"
+        }
+    },
+    "weather": {
+        "title": "Germany has a temperate seasonal climate with moderate rainfall throughout the year.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Warmest months with many festivals and outdoor activities."
+            },
+            {
+                "icon": "🎄",
+                "title": "Christmas Markets",
+                "time_period": "December",
+                "short_description": "Magical atmosphere with winter markets across the country."
+            }
+        ],
+        "best_time": "The best time to visit is from May to September."
+    },
+    "emergency": [
+        {
+            "title": "Police",
+            "number": "110"
+        },
+        {
+            "title": "Fire / Ambulance",
+            "number": "112"
+        }
+    ]
+}

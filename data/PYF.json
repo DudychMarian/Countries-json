@@ -1,0 +1,118 @@
+{
+    "id": "258",
+    "iso": "PYF",
+    "alpha_2": "PF",
+    "country_name": "French Polynesia",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/pf.svg",
+    "short_description": "French Polynesia is an overseas collectivity of France comprising more than 100 islands in the South Pacific, including world-famous Tahiti and Bora Bora.",
+    "known_for": [
+        {
+            "title": "🏝️ Bora Bora",
+            "color": "blue"
+        },
+        {
+            "title": "🏠 Overwater Bungalows",
+            "color": "teal"
+        },
+        {
+            "title": "⚪ Black Pearls",
+            "color": "gray"
+        },
+        {
+            "title": "🏄 Surfing",
+            "color": "blue"
+        },
+        {
+            "title": "🥥 Polynesian Culture",
+            "color": "brown"
+        }
+    ],
+    "capital": "Papeete",
+    "major_cities": [
+        "Papeete",
+        "Faaa",
+        "Punaauia",
+        "Pirae",
+        "Mahina"
+    ],
+    "official_language": [
+        "French",
+        "Tahitian"
+    ],
+    "currency": {
+        "title": "CFP Franc",
+        "symbol": "XPF"
+    },
+    "major_religions": "Christianity (Protestant, Catholic)",
+    "national_day": {
+        "title": "Bastille Day",
+        "date": "14 July"
+    },
+    "phone": {
+        "digital_code": "+689",
+        "phone_operators": [
+            "Vini",
+            "Vodafone"
+        ]
+    },
+    "plug_types": [
+        "A",
+        "B",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Safe on major islands",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "High duty on imported alcohol"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected but appreciated",
+            "guides": "Not expected but appreciated",
+            "restaurants": "Not expected but appreciated",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "French Polynesia has a tropical climate with a warm, humid season and a cooler, drier season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "May to October",
+                "short_description": "Best time with pleasant weather and less rain."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "November to April",
+                "short_description": "Humid and rainy; potential for tropical storms."
+            }
+        ],
+        "best_time": "The best time to visit is from May to October."
+    },
+    "emergency": [
+        {
+            "title": "Ambulance",
+            "number": "15"
+        },
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}

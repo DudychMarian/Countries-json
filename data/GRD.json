@@ -1,0 +1,106 @@
+{
+    "id": "308",
+    "iso": "GRD",
+    "alpha_2": "GD",
+    "country_name": "Grenada",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gd.svg",
+    "short_description": "Grenada is a Caribbean country comprising a main island, also called Grenada, and smaller surrounding islands. Dubbed the 'Spice Isle,' the hilly main island is home to numerous nutmeg plantations.",
+    "known_for": [
+        {
+            "title": "🌶️ Spice Production",
+            "color": "orange"
+        },
+        {
+            "title": "🏖️ Grand Anse Beach",
+            "color": "blue"
+        },
+        {
+            "title": "🏊 Underwater Sculpture Park",
+            "color": "teal"
+        },
+        {
+            "title": "🌳 Grand Etang National Park",
+            "color": "green"
+        },
+        {
+            "title": "🚢 St. George's Harbor",
+            "color": "blue"
+        }
+    ],
+    "capital": "St. George's",
+    "major_cities": [
+        "St. George's",
+        "Gouyave",
+        "Grenville",
+        "Victoria"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "East Caribbean Dollar",
+        "symbol": "$"
+    },
+    "major_religions": "Christianity",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "7 February"
+    },
+    "phone": {
+        "digital_code": "+1-473",
+        "phone_operators": [
+            "Digicel",
+            "Flow"
+        ]
+    },
+    "plug_types": [
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Left",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safe, but bottled is preferred by many tourists",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Zero tolerance for drink-driving"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "10% service charge usually added",
+            "guides": "10% is appreciated",
+            "restaurants": "10% service charge often included",
+            "taxis": "Rounding up or 10%"
+        }
+    },
+    "weather": {
+        "title": "Grenada has a tropical climate with a rainy season and a dry season.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "January to May",
+                "short_description": "Warmest weather with low chance of rain."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Wet Season",
+                "time_period": "June to December",
+                "short_description": "Hottest humidity and frequent storms."
+            }
+        ],
+        "best_time": "The best time to visit is from January to May."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "911"
+        }
+    ]
+}

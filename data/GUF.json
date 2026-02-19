@@ -1,0 +1,114 @@
+{
+    "id": "254",
+    "iso": "GUF",
+    "alpha_2": "GF",
+    "country_name": "French Guiana",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gf.svg",
+    "short_description": "French Guiana is an overseas department of France on the northeast coast of South America, mostly covered by dense rainforest and known for the space launch center at Kourou.",
+    "known_for": [
+        {
+            "title": "🚀 Guiana Space Centre",
+            "color": "gray"
+        },
+        {
+            "title": "🌳 Amazon Rainforest",
+            "color": "green"
+        },
+        {
+            "title": "🏝️ Salvation's Islands",
+            "color": "blue"
+        },
+        {
+            "title": "🐢 Sea Turtle Nesting",
+            "color": "teal"
+        },
+        {
+            "title": "🏛️ Penal Colony History",
+            "color": "brown"
+        }
+    ],
+    "capital": "Cayenne",
+    "major_cities": [
+        "Cayenne",
+        "Saint-Laurent-du-Maroni",
+        "Kourou",
+        "Matoury",
+        "Remire-Montjoly"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity (Roman Catholic)",
+    "national_day": {
+        "title": "Bastille Day",
+        "date": "14 July"
+    },
+    "phone": {
+        "digital_code": "+594",
+        "phone_operators": [
+            "Orange",
+            "SFR",
+            "Digicel"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "D",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally unsafe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "French laws apply"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected",
+            "restaurants": "Not expected",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "French Guiana has a tropical rainforest climate, with hot and humid weather year-round.",
+        "when_to_visit": [
+            {
+                "icon": "☀️",
+                "title": "Dry Season",
+                "time_period": "August to November",
+                "short_description": "Best time for travel with less rainfall."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "December to July",
+                "short_description": "Heavy rainfall, especially from April to June."
+            }
+        ],
+        "best_time": "The best time to visit is from August to November."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}

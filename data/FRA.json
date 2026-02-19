@@ -1,0 +1,130 @@
+{
+    "id": "250",
+    "iso": "FRA",
+    "alpha_2": "FR",
+    "country_name": "France",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/fr.svg",
+    "short_description": "France is a Western European nation known for its world-renowned cuisine, iconic landmarks, rich history, and diverse landscapes from coastal towns to snowy mountains.",
+    "known_for": [
+        {
+            "title": "🗼 Eiffel Tower",
+            "color": "gray"
+        },
+        {
+            "title": "🍷 Fine Wine & Gastronomy",
+            "color": "red"
+        },
+        {
+            "title": "🖼️ Louvre Museum",
+            "color": "yellow"
+        },
+        {
+            "title": "🏰 Loire Valley Castles",
+            "color": "brown"
+        },
+        {
+            "title": "🏖️ French Riviera",
+            "color": "blue"
+        }
+    ],
+    "capital": "Paris",
+    "major_cities": [
+        "Paris",
+        "Marseille",
+        "Lyon",
+        "Toulouse",
+        "Nice",
+        "Bordeaux"
+    ],
+    "official_language": [
+        "French"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity, No religion, Islam",
+    "national_day": {
+        "title": "Bastille Day",
+        "date": "14 July"
+    },
+    "phone": {
+        "digital_code": "+33",
+        "phone_operators": [
+            "Orange",
+            "SFR",
+            "Bouygues Telecom",
+            "Free Mobile"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "E"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            "Paris Métro",
+            "Lyon Metro",
+            "Marseille Metro",
+            "Toulouse Metro",
+            "Lille Metro",
+            "Rennes Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal drinking age is 18",
+            "Strict drink-driving laws"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "1-2€ per bag for porters",
+            "guides": "5-10% of the cost",
+            "restaurants": "Rounding up or 5-10% for good service",
+            "taxis": "Rounding up or 5-10%"
+        }
+    },
+    "weather": {
+        "title": "France has a diverse climate, mainly temperate with Mediterranean influences in the south.",
+        "when_to_visit": [
+            {
+                "icon": "🌸",
+                "title": "Spring",
+                "time_period": "April to June",
+                "short_description": "Pleasant weather and fewer crowds."
+            },
+            {
+                "icon": "☀️",
+                "title": "Summer",
+                "time_period": "July to August",
+                "short_description": "Hot weather, especially in the south; peak tourist season."
+            }
+        ],
+        "best_time": "The best time to visit is from April to June or September to October."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Police",
+            "number": "17"
+        },
+        {
+            "title": "Medical",
+            "number": "15"
+        },
+        {
+            "title": "Fire",
+            "number": "18"
+        }
+    ]
+}

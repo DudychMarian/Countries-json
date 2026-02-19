@@ -1,0 +1,112 @@
+{
+    "id": "246",
+    "iso": "FIN",
+    "alpha_2": "FI",
+    "country_name": "Finland",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/fi.svg",
+    "short_description": "Finland is a Northern European nation bordering Scandinavia, Russia, and the Baltic Sea. It is known for its pristine nature, vast forests, and thousands of lakes.",
+    "known_for": [
+        {
+            "title": "🧖 Sauna Culture",
+            "color": "brown"
+        },
+        {
+            "title": "🌌 Northern Lights",
+            "color": "purple"
+        },
+        {
+            "title": "🎅 Santa Claus Village",
+            "color": "red"
+        },
+        {
+            "title": "📚 World-Class Education",
+            "color": "blue"
+        },
+        {
+            "title": "🌲 Vast Forests",
+            "color": "green"
+        }
+    ],
+    "capital": "Helsinki",
+    "major_cities": [
+        "Helsinki",
+        "Espoo",
+        "Tampere",
+        "Vantaa",
+        "Oulu"
+    ],
+    "official_language": [
+        "Finnish",
+        "Swedish"
+    ],
+    "currency": {
+        "title": "Euro",
+        "symbol": "€"
+    },
+    "major_religions": "Christianity (Lutheran), Non-religious",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "6 December"
+    },
+    "phone": {
+        "digital_code": "+358",
+        "phone_operators": [
+            "Elisa",
+            "Telia",
+            "DNA"
+        ]
+    },
+    "plug_types": [
+        "C",
+        "F"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": [
+            "Helsinki Metro"
+        ]
+    },
+    "health": {
+        "tap_water_safety": "Safe to drink",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 or 20 years old",
+        "alcohol_info": [
+            "Strong alcohol only sold at Alko",
+            "Legal age is 18 for light alcohol, 20 for spirits"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not expected",
+            "guides": "Not expected",
+            "restaurants": "Not expected, rounding up is common",
+            "taxis": "Not expected"
+        }
+    },
+    "weather": {
+        "title": "Finland has a cold temperate climate, characterized by warm summers and freezing, snowy winters.",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Summer",
+                "time_period": "June to August",
+                "short_description": "Warm weather and the midnight sun in the north."
+            },
+            {
+                "icon": "❄️",
+                "title": "Winter",
+                "time_period": "December to March",
+                "short_description": "Cold, snowy, and ideal for seeing the Northern Lights."
+            }
+        ],
+        "best_time": "The best time to visit is from June to August for mild weather, or December to March for winter activities."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        }
+    ]
+}

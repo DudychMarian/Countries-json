@@ -1,0 +1,113 @@
+{
+    "id": "288",
+    "iso": "GHA",
+    "alpha_2": "GH",
+    "country_name": "Ghana",
+    "cover_image": "",
+    "flag_url": "https://flagcdn.com/gh.svg",
+    "short_description": "Ghana is a West African country on the Gulf of Guinea. It is known for its diverse wildlife, old forts, and secluded beaches, such as at Busua.",
+    "known_for": [
+        {
+            "title": "🍫 Cocoa Production",
+            "color": "brown"
+        },
+        {
+            "title": "🏰 Cape Coast Castle",
+            "color": "gray"
+        },
+        {
+            "title": "👗 Kente Cloth",
+            "color": "yellow"
+        },
+        {
+            "title": "🤝 Gold Coast Heritage",
+            "color": "orange"
+        },
+        {
+            "title": "🏞️ Lake Volta",
+            "color": "blue"
+        }
+    ],
+    "capital": "Accra",
+    "major_cities": [
+        "Accra",
+        "Kumasi",
+        "Tamale",
+        "Takoradi",
+        "Ashaiman"
+    ],
+    "official_language": [
+        "English"
+    ],
+    "currency": {
+        "title": "Ghanaian Cedi",
+        "symbol": "₵"
+    },
+    "major_religions": "Christianity (71.3%), Islam (19.9%), Traditional beliefs",
+    "national_day": {
+        "title": "Independence Day",
+        "date": "6 March"
+    },
+    "phone": {
+        "digital_code": "+233",
+        "phone_operators": [
+            "MTN",
+            "Vodafone",
+            "AirtelTigo"
+        ]
+    },
+    "plug_types": [
+        "D",
+        "G"
+    ],
+    "transport": {
+        "driving_side": "Right",
+        "taxi": [],
+        "metro": []
+    },
+    "health": {
+        "tap_water_safety": "Generally safer to drink bottled water",
+        "alcohol_consumption_age": "18 years old",
+        "alcohol_parchase_age": "18 years old",
+        "alcohol_info": [
+            "Legal age is 18",
+            "Strong drink-driving laws"
+        ]
+    },
+    "money": {
+        "tipping": {
+            "hotels": "Not mandatory but appreciated",
+            "guides": "5-10% is standard",
+            "restaurants": "5-10% of the bill",
+            "taxis": "Rounding up the fare"
+        }
+    },
+    "weather": {
+        "title": "Ghana has a tropical climate with a rainy season and a dry season (Harmattan).",
+        "when_to_visit": [
+            {
+                "icon": "🌤️",
+                "title": "Dry Season",
+                "time_period": "November to April",
+                "short_description": "Warmest weather with the desert wind (Harmattan) appearing in winter."
+            },
+            {
+                "icon": "🌧️",
+                "title": "Rainy Season",
+                "time_period": "May to October",
+                "short_description": "High humidity and frequent rainfall."
+            }
+        ],
+        "best_time": "The best time to visit is from November to April."
+    },
+    "emergency": [
+        {
+            "title": "General Emergency",
+            "number": "112"
+        },
+        {
+            "title": "Ambulance",
+            "number": "193"
+        }
+    ]
+}
